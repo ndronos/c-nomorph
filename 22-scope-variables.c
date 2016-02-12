@@ -1,5 +1,8 @@
 // (Igneus, 2015) Variable Scope
 
+// Global Variable      scope: every function, every part of the program
+// Local Variable       scope: particular, inside that function
+
 #include <stdio.h>
 
 int player1 = 3;
@@ -8,7 +11,7 @@ int sum(int a, int b) {
     return a + b;
 }
 
-int main() {
+int main() {  // main function as main stage of the game
 
     printf("Here starts the main stage of game \n");
     int player1 = 10;
