@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-int player1 = 3;
+int player1 = 3;        // declared as Global, at top of the program
 
 int sum(int a, int b) {
     return a + b;
