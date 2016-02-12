@@ -14,7 +14,7 @@ int sum(int a, int b) {
 int main() {  // main function as main stage of the game
 
     printf("Here starts the main stage of game \n");
-    int player1 = 10;
+//  int player1 = 10;   // will take Global
     int player2 = 20;
     int comboScore = 0;
 
