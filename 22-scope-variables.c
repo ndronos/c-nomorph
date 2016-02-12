@@ -2,7 +2,11 @@
 
 #include <stdio.h>
 
+int player1 = 3;
 
+int sum(int a, int b) {
+    return a + b;
+}
 
 int main() {
 
