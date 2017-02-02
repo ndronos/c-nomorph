@@ -78,3 +78,27 @@ A   C 101                                343
     2nd ed.
 ```
 
+
+## (Gustedt, 2016) 310p
+
+```
+    Modern C
+    _______________________________________
+
+    Level 0.  Encounter                   1
+    Level 1.  Acquaintance               13
+    Level 2.  Cognition                  95
+    Level 3.  Experience                167
+    Level 4.  Ambition                  235
+
+    List of Rules                       271
+
+    Listings                            282
+    Bibliography                        285
+    Index                               289
+    _______________________________________
+
+    Jens Gustedt
+    INRIA/ICube France
+    2016
+```
