@@ -123,4 +123,8 @@ A   C 101                                343
 | github.com/github/gitignore/blob/master/C.gitignore | .gitgnore |   |
 |   |   |   |
 | `sudo update-alternatives --config cc`              | cc        |   |
+|   |   |   |
+| Switching between GCC and Clang/LLVM using CMake    |  cmake    | stackoverflow.com/questions/7031126 |
+|   |   |   |
+
 
