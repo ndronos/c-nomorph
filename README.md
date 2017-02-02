@@ -101,4 +101,8 @@ A   C 101                                343
     Jens Gustedt
     INRIA/ICube France
     2016
+
+    gustedt.wordpress.com
+    icube-icps.unistra.fr/index.php/Jens_Gustedt
+    icube-icps.unistra.fr/index.php/File:ModernC.pdf
 ```
