@@ -119,4 +119,8 @@ A   C 101                                343
 |       llvm.org  | llvm  |   |
 |   |   |   |
 | gcc.gnu.org     | gcc   |   |
+|   |   |   |
+| github.com/github/gitignore/blob/master/C.gitignore | .gitgnore |   |
+|   |   |   |
+| `sudo update-alternatives --config cc`              | cc        |   |
 
