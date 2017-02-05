@@ -62,3 +62,13 @@ to write major programs in many different domains.
 
 (K&R, 1988) 1 Introduction
 ```
+
+```
+C is a relatively "low level" language.
+This characterization is not pejorative;
+it simply means that C deals with the same sort of objects that most computers do,
+namely characters, numbers, and adresses. These may be combined and moved about with
+the arithmetic and logical operators implementedby real machines.
+
+(K&R, 1998) 1-2 Introduction
+```
