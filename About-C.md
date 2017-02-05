@@ -94,3 +94,14 @@ are themselves portable.
 
 (K&R, 1988) 3 Introduction
 ```
+
+```
+Although C matches the capabilities of many computers,
+it is independet of any particular machine archtecture.
+With a little care it is easy to write portable programs, that is,
+programs that can be run without change on a variety of hardware.
+The standard makes portability issues explicit, and prescribes
+a set of constants that characterize the machine on which the program is run.
+
+(K&R, 1988) 3 Introduction
+```
