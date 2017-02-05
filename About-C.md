@@ -72,3 +72,13 @@ the arithmetic and logical operators implementedby real machines.
 
 (K&R, 1998) 1-2 Introduction
 ```
+
+```
+Although the absence of some... features may seem like a grave deficiency...
+keeping the language down to a modest size has real benefits.
+Since C is relatively small, it can be described in a small space, and learned quickly.
+A programmer can reasonably expect to know and understand and indeed regularly use the
+entire language.
+
+(K&R, 1988) 2 Introduction
+```
