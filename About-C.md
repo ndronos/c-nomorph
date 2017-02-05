@@ -50,3 +50,15 @@ it wears well as one's experience with it grows.
 
 (K&R, 1988) xi Preface
 ```
+
+```
+C is a general-purpose programming language.
+It has been closely associated with the UNIX system where it was developed,
+since both the system and most of the programs that run on it are written in C.
+The language, however, is not tied to any one operating system or machine; 
+and although it has been called a "system programming language" because it is useful for
+writing compilers and operating systems, it has been used equally well
+to write major programs in many different domains.
+
+(K&R, 1988) 1 Introduction
+```
