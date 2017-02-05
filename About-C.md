@@ -105,3 +105,11 @@ a set of constants that characterize the machine on which the program is run.
 
 (K&R, 1988) 3 Introduction
 ```
+
+```
+... Nevertheless, C retains the basic philosophy that
+programmers know what are they doing;
+it only requires that they state their intentions explicitly.
+
+(K&R, 1988) 3 Introduction
+```
