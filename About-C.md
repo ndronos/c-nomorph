@@ -27,3 +27,9 @@ C is not a big language, and it is not well served by a big book.
 
 (K&R, 1988) ix Preface 
 ```
+
+```
+C wears well as one's experience with it grows.
+
+(K&R, 1988) x Preface
+```
