@@ -163,6 +163,15 @@ Installation:
 Terminal `cmd+space` > `xcode-select --install`
 
 
+## C on Windows
+
+  Abundance on C compilers
+
+### [Dev C++](https://blodshed.net/devcpp.html)
+
+  A free, portable, fast and simple C/C++ IDE   |   https://sourceforge.net/projects/orwelldevcpp/
+
+
 
 ## GCC
 
