@@ -145,7 +145,9 @@ Compiling/Run:
 ```
   $ gcc main.c -o main
   $ ./main
+  
 ```
+  NOTE: .gitignore won't catch `main` file
 
 
 Project Structure:
@@ -159,6 +161,7 @@ Project Structure:
 Installation:
 
 Terminal `cmd+space` > `xcode-select --install`
+
 
 
 
