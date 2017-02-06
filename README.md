@@ -139,9 +139,26 @@ A   C 101                                343
 | C           |
 
 
+
+Compiling/Run:
+
+```
+  $ gcc main.c -o main
+  $ ./main
+```
+
+
+Project Structure:
+
+```
+  hello.xcodeproj 
+  hello --+
+          +- main.c
+```
+
 Installation:
 
-Terminal `cmd+space` > `xcode-select --install` |
+Terminal `cmd+space` > `xcode-select --install`
 
 
 
