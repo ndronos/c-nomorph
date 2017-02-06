@@ -164,4 +164,16 @@ Terminal `cmd+space` > `xcode-select --install`
 
 
 
+## GCC
+
+ `-o` output filename
+
+
+```
+  $ gcc main.c -o main
+  $ ./test
+  
+```
+  NOTE: .gitignore won't catch `main` file
+
 
