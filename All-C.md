@@ -64,9 +64,103 @@ Do you want to continue? [Y/n]
 
 
 ```
-$ sudo apt-get install gcc
+$ sudo apt-get install gcc-
+Display all 173 possibilities? (y or n)
 
+gcc-4.7                                   gcc-5-multilib-powerpc64-linux-gnu
+gcc-4.7-arm-linux-gnueabi                 gcc-5-multilib-powerpc-linux-gnu
+gcc-4.7-arm-linux-gnueabi-base            gcc-5-multilib-s390x-linux-gnu
+gcc-4.7-arm-linux-gnueabihf               gcc-5-multilib-sparc64-linux-gnu
+gcc-4.7-arm-linux-gnueabihf-base          gcc-5-plugin-dev
+gcc-4.7-base                              gcc-5-plugin-dev-aarch64-linux-gnu
+gcc-4.7-doc                               gcc-5-plugin-dev-alpha-linux-gnu
+gcc-4.7-locales                           gcc-5-plugin-dev-arm-linux-gnueabi
+gcc-4.7-multilib                          gcc-5-plugin-dev-arm-linux-gnueabihf
+gcc-4.7-multilib-arm-linux-gnueabi        gcc-5-plugin-dev-hppa-linux-gnu
+gcc-4.7-multilib-arm-linux-gnueabihf      gcc-5-plugin-dev-m68k-linux-gnu
+gcc-4.7-plugin-dev                        gcc-5-plugin-dev-mips64el-linux-gnuabi64
+gcc-4.7-source                            gcc-5-plugin-dev-mips64-linux-gnuabi64
+gcc-4.8                                   gcc-5-plugin-dev-mipsel-linux-gnu
+gcc-4.8-aarch64-linux-gnu                 gcc-5-plugin-dev-mips-linux-gnu
+gcc-4.8-aarch64-linux-gnu-base            gcc-5-plugin-dev-powerpc64le-linux-gnu
+gcc-4.8-arm-linux-gnueabihf               gcc-5-plugin-dev-powerpc64-linux-gnu
+gcc-4.8-arm-linux-gnueabihf-base          gcc-5-plugin-dev-powerpc-linux-gnu
+gcc-4.8-base                              gcc-5-plugin-dev-powerpc-linux-gnuspe
+gcc-4.8-doc                               gcc-5-plugin-dev-s390x-linux-gnu
+gcc-4.8-locales                           gcc-5-plugin-dev-sh4-linux-gnu
+gcc-4.8-multilib                          gcc-5-plugin-dev-sparc64-linux-gnu
+gcc-4.8-multilib-arm-linux-gnueabihf      gcc-5-powerpc64le-linux-gnu
+gcc-4.8-multilib-powerpc-linux-gnu        gcc-5-powerpc64le-linux-gnu-base
+gcc-4.8-plugin-dev                        gcc-5-powerpc64-linux-gnu
+gcc-4.8-powerpc64le-linux-gnu             gcc-5-powerpc64-linux-gnu-base
+gcc-4.8-powerpc64le-linux-gnu-base        gcc-5-powerpc-linux-gnu
+gcc-4.8-powerpc-linux-gnu                 gcc-5-powerpc-linux-gnu-base
+gcc-4.8-powerpc-linux-gnu-base            gcc-5-powerpc-linux-gnuspe
+gcc-4.8-source                            gcc-5-powerpc-linux-gnuspe-base
+gcc-4.9                                   gcc-5-s390x-linux-gnu
+gcc-4.9-aarch64-linux-gnu                 gcc-5-s390x-linux-gnu-base
+gcc-4.9-aarch64-linux-gnu-base            gcc-5-sh4-linux-gnu
+gcc-4.9-arm-linux-gnueabi                 gcc-5-sh4-linux-gnu-base
+gcc-4.9-arm-linux-gnueabi-base            gcc-5-source
+gcc-4.9-arm-linux-gnueabihf               gcc-5-sparc64-linux-gnu
+gcc-4.9-arm-linux-gnueabihf-base          gcc-5-sparc64-linux-gnu-base
+gcc-4.9-base                              gcc-5-test-results
+gcc-4.9-doc                               gcc-6-base
+gcc-4.9-locales                           gcc-aarch64-linux-gnu
+gcc-4.9-multilib                          gcc-alpha-linux-gnu
+gcc-4.9-multilib-arm-linux-gnueabi        gcc-arm-linux-androideabi
+gcc-4.9-multilib-arm-linux-gnueabihf      gcc-arm-linux-gnueabi
+gcc-4.9-multilib-powerpc-linux-gnu        gcc-arm-linux-gnueabihf
+gcc-4.9-multilib-s390x-linux-gnu          gcc-arm-none-eabi
+gcc-4.9-plugin-dev                        gcc-arm-none-eabi-source
+gcc-4.9-powerpc64le-linux-gnu             gcc-avr
+gcc-4.9-powerpc64le-linux-gnu-base        gcc-doc
+gcc-4.9-powerpc-linux-gnu                 gcc-h8300-hms
+gcc-4.9-powerpc-linux-gnu-base            gcc-hppa64-linux-gnu
+gcc-4.9-s390x-linux-gnu                   gcc-hppa-linux-gnu
+gcc-4.9-s390x-linux-gnu-base              gcc-i686-linux-android
+gcc-4.9-source                            gcc-m68hc1x
+gcc-5                                     gcc-m68k-linux-gnu
+gcc-5-aarch64-linux-gnu                   gcc-mingw-w64
+gcc-5-aarch64-linux-gnu-base              gcc-mingw-w64-base
+gcc-5-alpha-linux-gnu                     gcc-mingw-w64-i686
+gcc-5-alpha-linux-gnu-base                gcc-mingw-w64-x86-64
+gcc-5-arm-linux-gnueabi                   gcc-mips64el-linux-gnuabi64
+gcc-5-arm-linux-gnueabi-base              gcc-mips64-linux-gnuabi64
+gcc-5-arm-linux-gnueabihf                 gcc-mipsel-linux-gnu
+gcc-5-arm-linux-gnueabihf-base            gcc-mips-linux-gnu
+gcc-5-base                                gcc-msp430
+gcc-5-cross-base                          gcc-multilib
+gcc-5-cross-base-ports                    gcc-multilib-arm-linux-gnueabi
+gcc-5-doc                                 gcc-multilib-arm-linux-gnueabihf
+gcc-5-hppa64-linux-gnu                    gcc-multilib-mips64el-linux-gnuabi64
+gcc-5-hppa-linux-gnu                      gcc-multilib-mips64-linux-gnuabi64
+gcc-5-hppa-linux-gnu-base                 gcc-multilib-mipsel-linux-gnu
+gcc-5-locales                             gcc-multilib-mips-linux-gnu
+gcc-5-m68k-linux-gnu                      gcc-multilib-powerpc64-linux-gnu
+gcc-5-m68k-linux-gnu-base                 gcc-multilib-powerpc-linux-gnu
+gcc-5-mips64el-linux-gnuabi64             gcc-multilib-s390x-linux-gnu
+gcc-5-mips64el-linux-gnuabi64-base        gcc-multilib-sparc64-linux-gnu
+gcc-5-mips64-linux-gnuabi64               gcc-opt
+gcc-5-mips64-linux-gnuabi64-base          gcc-powerpc64le-linux-gnu
+gcc-5-mipsel-linux-gnu                    gcc-powerpc64-linux-gnu
+gcc-5-mipsel-linux-gnu-base               gcc-powerpc-linux-gnu
+gcc-5-mips-linux-gnu                      gcc-powerpc-linux-gnuspe
+gcc-5-mips-linux-gnu-base                 gcc-python3-dbg-plugin
+gcc-5-multilib                            gcc-python3-plugin
+gcc-5-multilib-arm-linux-gnueabi          gcc-python-plugin-doc
+gcc-5-multilib-arm-linux-gnueabihf        gcc-s390x-linux-gnu
+gcc-5-multilib-mips64el-linux-gnuabi64    gcc-sh4-linux-gnu
+gcc-5-multilib-mips64-linux-gnuabi64      gcc-snapshot
+gcc-5-multilib-mipsel-linux-gnu           gcc-sparc64-linux-gnu
+gcc-5-multilib-mips-linux-gnu             
+
+
+
+$ sudo apt-get install gcc
+ 
 Reading package lists... Done
+
 Building dependency tree       
 Reading state information... Done
 The following additional packages will be installed:
