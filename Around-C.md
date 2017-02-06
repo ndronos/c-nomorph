@@ -15,4 +15,20 @@ Best part of C programming is to teach you the *core syntax*...
 (Igneus, 2015) 001 Introduction
 ```
 
+```
+Importance of C
+Can do a lot
+
+- Operating Systems
+- Language Compilers
+- Assemblers
+- Drivers
+- Text Editors
+- Print Spoolers
+- Network Drivers
+- Modern Programs
+
+(Igneus, 2015) 001 Introduction
+```
+
 
