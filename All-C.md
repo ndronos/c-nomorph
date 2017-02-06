@@ -31,6 +31,31 @@ Do you want to continue? [Y/n]
 ```
 
 
+
+```
+$ sudo apt-get install gcc
+
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following additional packages will be installed:
+  gcc-5 libasan2 libatomic1 libc-dev-bin libc6-dev libcc1-0 libcilkrts5 libgcc-5-dev libitm1 liblsan0 libmpx0
+  libtsan0 libubsan0 linux-libc-dev manpages-dev
+Suggested packages:
+  gcc-multilib autoconf automake libtool flex bison gcc-doc gcc-5-multilib gcc-5-doc gcc-5-locales libgcc1-dbg
+  libgomp1-dbg libitm1-dbg libatomic1-dbg libasan2-dbg liblsan0-dbg libtsan0-dbg libubsan0-dbg libcilkrts5-dbg
+  libmpx0-dbg libquadmath0-dbg glibc-doc
+The following NEW packages will be installed:
+  gcc gcc-5 libasan2 libatomic1 libc-dev-bin libc6-dev libcc1-0 libcilkrts5 libgcc-5-dev libitm1 liblsan0
+  libmpx0 libtsan0 libubsan0 linux-libc-dev manpages-dev
+0 upgraded, 16 newly installed, 0 to remove and 0 not upgraded.
+Need to get 16.7 MB of archives.
+After this operation, 61.7 MB of additional disk space will be used.
+Do you want to continue? [Y/n] 
+```
+
+
+
 ```
 $ sudo apt-get install clang
 
@@ -55,28 +80,6 @@ After this operation, 297 MB of additional disk space will be used.
 Do you want to continue? [Y/n] 
 ```
 
-
-```
-$ sudo apt-get install gcc
-
-Reading package lists... Done
-Building dependency tree       
-Reading state information... Done
-The following additional packages will be installed:
-  gcc-5 libasan2 libatomic1 libc-dev-bin libc6-dev libcc1-0 libcilkrts5 libgcc-5-dev libitm1 liblsan0 libmpx0
-  libtsan0 libubsan0 linux-libc-dev manpages-dev
-Suggested packages:
-  gcc-multilib autoconf automake libtool flex bison gcc-doc gcc-5-multilib gcc-5-doc gcc-5-locales libgcc1-dbg
-  libgomp1-dbg libitm1-dbg libatomic1-dbg libasan2-dbg liblsan0-dbg libtsan0-dbg libubsan0-dbg libcilkrts5-dbg
-  libmpx0-dbg libquadmath0-dbg glibc-doc
-The following NEW packages will be installed:
-  gcc gcc-5 libasan2 libatomic1 libc-dev-bin libc6-dev libcc1-0 libcilkrts5 libgcc-5-dev libitm1 liblsan0
-  libmpx0 libtsan0 libubsan0 linux-libc-dev manpages-dev
-0 upgraded, 16 newly installed, 0 to remove and 0 not upgraded.
-Need to get 16.7 MB of archives.
-After this operation, 61.7 MB of additional disk space will be used.
-Do you want to continue? [Y/n] 
-```
 
 ```
 $ sudo apt-get install llvm
