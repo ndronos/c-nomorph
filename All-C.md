@@ -64,6 +64,141 @@ Do you want to continue? [Y/n]
 
 
 ```
+$ sudo apt-get install gcc
+
+Display all 253 possibilities? (y or n)
+
+gcc                                       gcc-aarch64-linux-gnu
+gcc-4.7                                   gcc-alpha-linux-gnu
+gcc-4.7-arm-linux-gnueabi                 gcc-arm-linux-androideabi
+gcc-4.7-arm-linux-gnueabi-base            gcc-arm-linux-gnueabi
+gcc-4.7-arm-linux-gnueabihf               gcc-arm-linux-gnueabihf
+gcc-4.7-arm-linux-gnueabihf-base          gcc-arm-none-eabi
+gcc-4.7-base                              gcc-arm-none-eabi-source
+gcc-4.7-doc                               gcc-avr
+gcc-4.7-locales                           gcc-doc
+gcc-4.7-multilib                          gccgo
+gcc-4.7-multilib-arm-linux-gnueabi        gccgo-4.7
+gcc-4.7-multilib-arm-linux-gnueabihf      gccgo-4.7-arm-linux-gnueabi
+gcc-4.7-plugin-dev                        gccgo-4.7-arm-linux-gnueabihf
+gcc-4.7-source                            gccgo-4.7-doc
+gcc-4.8                                   gccgo-4.7-multilib
+gcc-4.8-aarch64-linux-gnu                 gccgo-4.8
+gcc-4.8-aarch64-linux-gnu-base            gccgo-4.8-aarch64-linux-gnu
+gcc-4.8-arm-linux-gnueabihf               gccgo-4.8-arm-linux-gnueabihf
+gcc-4.8-arm-linux-gnueabihf-base          gccgo-4.8-doc
+gcc-4.8-base                              gccgo-4.8-multilib
+gcc-4.8-doc                               gccgo-4.8-multilib-powerpc-linux-gnu
+gcc-4.8-locales                           gccgo-4.8-powerpc64le-linux-gnu
+gcc-4.8-multilib                          gccgo-4.8-powerpc-linux-gnu
+gcc-4.8-multilib-arm-linux-gnueabihf      gccgo-4.9
+gcc-4.8-multilib-powerpc-linux-gnu        gccgo-4.9-aarch64-linux-gnu
+gcc-4.8-plugin-dev                        gccgo-4.9-arm-linux-gnueabi
+gcc-4.8-powerpc64le-linux-gnu             gccgo-4.9-arm-linux-gnueabihf
+gcc-4.8-powerpc64le-linux-gnu-base        gccgo-4.9-doc
+gcc-4.8-powerpc-linux-gnu                 gccgo-4.9-multilib
+gcc-4.8-powerpc-linux-gnu-base            gccgo-4.9-multilib-powerpc-linux-gnu
+gcc-4.8-source                            gccgo-4.9-multilib-s390x-linux-gnu
+gcc-4.9                                   gccgo-4.9-powerpc64le-linux-gnu
+gcc-4.9-aarch64-linux-gnu                 gccgo-4.9-powerpc-linux-gnu
+gcc-4.9-aarch64-linux-gnu-base            gccgo-4.9-s390x-linux-gnu
+gcc-4.9-arm-linux-gnueabi                 gccgo-5
+gcc-4.9-arm-linux-gnueabi-base            gccgo-5-aarch64-linux-gnu
+gcc-4.9-arm-linux-gnueabihf               gccgo-5-alpha-linux-gnu
+gcc-4.9-arm-linux-gnueabihf-base          gccgo-5-arm-linux-gnueabi
+gcc-4.9-base                              gccgo-5-arm-linux-gnueabihf
+gcc-4.9-doc                               gccgo-5-doc
+gcc-4.9-locales                           gccgo-5-mips64el-linux-gnuabi64
+gcc-4.9-multilib                          gccgo-5-mips64-linux-gnuabi64
+gcc-4.9-multilib-arm-linux-gnueabi        gccgo-5-mipsel-linux-gnu
+gcc-4.9-multilib-arm-linux-gnueabihf      gccgo-5-mips-linux-gnu
+gcc-4.9-multilib-powerpc-linux-gnu        gccgo-5-multilib
+gcc-4.9-multilib-s390x-linux-gnu          gccgo-5-multilib-mips64el-linux-gnuabi64
+gcc-4.9-plugin-dev                        gccgo-5-multilib-mips64-linux-gnuabi64
+gcc-4.9-powerpc64le-linux-gnu             gccgo-5-multilib-mipsel-linux-gnu
+gcc-4.9-powerpc64le-linux-gnu-base        gccgo-5-multilib-mips-linux-gnu
+gcc-4.9-powerpc-linux-gnu                 gccgo-5-multilib-powerpc64-linux-gnu
+gcc-4.9-powerpc-linux-gnu-base            gccgo-5-multilib-powerpc-linux-gnu
+gcc-4.9-s390x-linux-gnu                   gccgo-5-multilib-s390x-linux-gnu
+gcc-4.9-s390x-linux-gnu-base              gccgo-5-multilib-sparc64-linux-gnu
+gcc-4.9-source                            gccgo-5-powerpc64le-linux-gnu
+gcc-5                                     gccgo-5-powerpc64-linux-gnu
+gcc-5-aarch64-linux-gnu                   gccgo-5-powerpc-linux-gnu
+gcc-5-aarch64-linux-gnu-base              gccgo-5-powerpc-linux-gnuspe
+gcc-5-alpha-linux-gnu                     gccgo-5-s390x-linux-gnu
+gcc-5-alpha-linux-gnu-base                gccgo-5-sparc64-linux-gnu
+gcc-5-arm-linux-gnueabi                   gccgo-6
+gcc-5-arm-linux-gnueabi-base              gccgo-6-doc
+gcc-5-arm-linux-gnueabihf                 gccgo-6-multilib
+gcc-5-arm-linux-gnueabihf-base            gccgo-aarch64-linux-gnu
+gcc-5-base                                gccgo-alpha-linux-gnu
+gcc-5-cross-base                          gccgo-arm-linux-gnueabi
+gcc-5-cross-base-ports                    gccgo-arm-linux-gnueabihf
+gcc-5-doc                                 gccgo-doc
+gcc-5-hppa64-linux-gnu                    gccgo-mips64el-linux-gnuabi64
+gcc-5-hppa-linux-gnu                      gccgo-mips64-linux-gnuabi64
+gcc-5-hppa-linux-gnu-base                 gccgo-mipsel-linux-gnu
+gcc-5-locales                             gccgo-mips-linux-gnu
+gcc-5-m68k-linux-gnu                      gccgo-multilib
+gcc-5-m68k-linux-gnu-base                 gccgo-multilib-mips64el-linux-gnuabi64
+gcc-5-mips64el-linux-gnuabi64             gccgo-multilib-mips64-linux-gnuabi64
+gcc-5-mips64el-linux-gnuabi64-base        gccgo-multilib-mipsel-linux-gnu
+gcc-5-mips64-linux-gnuabi64               gccgo-multilib-mips-linux-gnu
+gcc-5-mips64-linux-gnuabi64-base          gccgo-multilib-powerpc64-linux-gnu
+gcc-5-mipsel-linux-gnu                    gccgo-multilib-powerpc-linux-gnu
+gcc-5-mipsel-linux-gnu-base               gccgo-multilib-s390x-linux-gnu
+gcc-5-mips-linux-gnu                      gccgo-multilib-sparc64-linux-gnu
+gcc-5-mips-linux-gnu-base                 gccgo-powerpc64le-linux-gnu
+gcc-5-multilib                            gccgo-powerpc64-linux-gnu
+gcc-5-multilib-arm-linux-gnueabi          gccgo-powerpc-linux-gnu
+gcc-5-multilib-arm-linux-gnueabihf        gccgo-powerpc-linux-gnuspe
+gcc-5-multilib-mips64el-linux-gnuabi64    gccgo-s390x-linux-gnu
+gcc-5-multilib-mips64-linux-gnuabi64      gccgo-sparc64-linux-gnu
+gcc-5-multilib-mipsel-linux-gnu           gcc-h8300-hms
+gcc-5-multilib-mips-linux-gnu             gcc-hppa64-linux-gnu
+gcc-5-multilib-powerpc64-linux-gnu        gcc-hppa-linux-gnu
+gcc-5-multilib-powerpc-linux-gnu          gcc-i686-linux-android
+gcc-5-multilib-s390x-linux-gnu            gccintro
+gcc-5-multilib-sparc64-linux-gnu          gcc-m68hc1x
+gcc-5-plugin-dev                          gcc-m68k-linux-gnu
+gcc-5-plugin-dev-aarch64-linux-gnu        gcc-mingw-w64
+gcc-5-plugin-dev-alpha-linux-gnu          gcc-mingw-w64-base
+gcc-5-plugin-dev-arm-linux-gnueabi        gcc-mingw-w64-i686
+gcc-5-plugin-dev-arm-linux-gnueabihf      gcc-mingw-w64-x86-64
+gcc-5-plugin-dev-hppa-linux-gnu           gcc-mips64el-linux-gnuabi64
+gcc-5-plugin-dev-m68k-linux-gnu           gcc-mips64-linux-gnuabi64
+gcc-5-plugin-dev-mips64el-linux-gnuabi64  gcc-mipsel-linux-gnu
+gcc-5-plugin-dev-mips64-linux-gnuabi64    gcc-mips-linux-gnu
+gcc-5-plugin-dev-mipsel-linux-gnu         gcc-msp430
+gcc-5-plugin-dev-mips-linux-gnu           gcc-multilib
+gcc-5-plugin-dev-powerpc64le-linux-gnu    gcc-multilib-arm-linux-gnueabi
+gcc-5-plugin-dev-powerpc64-linux-gnu      gcc-multilib-arm-linux-gnueabihf
+gcc-5-plugin-dev-powerpc-linux-gnu        gcc-multilib-mips64el-linux-gnuabi64
+gcc-5-plugin-dev-powerpc-linux-gnuspe     gcc-multilib-mips64-linux-gnuabi64
+gcc-5-plugin-dev-s390x-linux-gnu          gcc-multilib-mipsel-linux-gnu
+gcc-5-plugin-dev-sh4-linux-gnu            gcc-multilib-mips-linux-gnu
+gcc-5-plugin-dev-sparc64-linux-gnu        gcc-multilib-powerpc64-linux-gnu
+gcc-5-powerpc64le-linux-gnu               gcc-multilib-powerpc-linux-gnu
+gcc-5-powerpc64le-linux-gnu-base          gcc-multilib-s390x-linux-gnu
+gcc-5-powerpc64-linux-gnu                 gcc-multilib-sparc64-linux-gnu
+gcc-5-powerpc64-linux-gnu-base            gcc-opt
+gcc-5-powerpc-linux-gnu                   gcc-powerpc64le-linux-gnu
+gcc-5-powerpc-linux-gnu-base              gcc-powerpc64-linux-gnu
+gcc-5-powerpc-linux-gnuspe                gcc-powerpc-linux-gnu
+gcc-5-powerpc-linux-gnuspe-base           gcc-powerpc-linux-gnuspe
+gcc-5-s390x-linux-gnu                     gcc-python3-dbg-plugin
+gcc-5-s390x-linux-gnu-base                gcc-python3-plugin
+gcc-5-sh4-linux-gnu                       gcc-python-plugin-doc
+gcc-5-sh4-linux-gnu-base                  gcc-s390x-linux-gnu
+gcc-5-source                              gcc-sh4-linux-gnu
+gcc-5-sparc64-linux-gnu                   gcc-snapshot
+gcc-5-sparc64-linux-gnu-base              gcc-sparc64-linux-gnu
+gcc-5-test-results                        gccxml
+gcc-6-base 
+
+
+
+
 $ sudo apt-get install gcc-
 Display all 173 possibilities? (y or n)
 
