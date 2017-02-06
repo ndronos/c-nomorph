@@ -127,4 +127,21 @@ A   C 101                                343
 | Switching between GCC and Clang/LLVM using CMake    |  cmake    | stackoverflow.com/questions/7031126 |
 |   |   |   |
 
+## C on Mac
+
+`Create a new Xcode project` > `OSX` / `Application` / `Command Line Tool` > `Language: C`
+
+| Language:   |
+| ---         |
+| Swift       |
+| Objective-C |
+| C++         |
+| C           |
+
+
+Installation:
+
+Terminal `cmd+space` > `xcode-select --install` |
+
+
 
