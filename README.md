@@ -171,6 +171,11 @@ Terminal `cmd+space` > `xcode-select --install`
 
   A free, portable, fast and simple C/C++ IDE   |   https://sourceforge.net/projects/orwelldevcpp/
 
+### [Code::Blocks](http://codeblocks.org)
+
+  The open source, cross platform, free C, C++ and Fortran IDE
+
+
 
 
 ## GCC
