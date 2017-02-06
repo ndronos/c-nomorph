@@ -166,6 +166,13 @@ Terminal `cmd+space` > `xcode-select --install`
 
 ## GCC
 
+` ` default file output
+
+```
+  $ gcc main.c
+  $ ./a.out
+
+```
 
 
  `-o` output filename
