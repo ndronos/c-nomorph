@@ -78,4 +78,31 @@ After this operation, 61.7 MB of additional disk space will be used.
 Do you want to continue? [Y/n] 
 ```
 
+```
+$ sudo apt-get install llvm
+
+llvm               llvm-3.5-tools     llvm-3.6-tools     llvm-3.7-tools     llvm-dev
+llvm-3.5           llvm-3.6           llvm-3.7           llvm-3.8           llvm-runtime
+llvm-3.5-dev       llvm-3.6-dev       llvm-3.7-dev       llvm-3.8-dev       
+llvm-3.5-doc       llvm-3.6-doc       llvm-3.7-doc       llvm-3.8-doc       
+llvm-3.5-examples  llvm-3.6-examples  llvm-3.7-examples  llvm-3.8-examples  
+llvm-3.5-runtime   llvm-3.6-runtime   llvm-3.7-runtime   llvm-3.8-runtime   
+
+$ sudo apt-get install llvm
+
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following additional packages will be installed:
+  binfmt-support libffi-dev libjsoncpp1 libtinfo-dev llvm-3.8 llvm-3.8-dev llvm-3.8-runtime llvm-runtime
+Suggested packages:
+  llvm-3.8-doc
+The following NEW packages will be installed:
+  binfmt-support libffi-dev libjsoncpp1 libtinfo-dev llvm llvm-3.8 llvm-3.8-dev llvm-3.8-runtime llvm-runtime
+0 upgraded, 9 newly installed, 0 to remove and 0 not upgraded.
+Need to get 18.7 MB of archives.
+After this operation, 127 MB of additional disk space will be used.
+Do you want to continue? [Y/n] 
+```
+
 
