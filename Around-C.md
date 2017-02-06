@@ -18,6 +18,7 @@ Best part of C programming is to teach you the *core syntax*...
 ```
 Importance of C
 Can do a lot
+Can do anything
 
 - Operating Systems
 - Language Compilers
