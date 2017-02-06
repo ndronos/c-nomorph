@@ -165,7 +165,8 @@ Terminal `cmd+space` > `xcode-select --install`
 
 ## C on Windows
 
-  Abundance on C compilers    |   http://www.th7.cn/Program/cp/201403/181210/shtml    |   www.cnblogs.com/oooweb/p/best-compilers-and-ides-for-cc-programmers.html
+  Abundance on C compilers
+  http://www.th7.cn/Program/cp/201403/181210/shtml    |   www.cnblogs.com/oooweb/p/best-compilers-and-ides-for-cc-programmers.html
 
 ### [Dev C++](https://blodshed.net/devcpp.html)
 
@@ -175,7 +176,19 @@ Terminal `cmd+space` > `xcode-select --install`
 
   The open source, cross platform, free C, C++ and Fortran IDE
 
+### [Visual Mingw]
 
+
+### [Eclipse CDT]
+
+
+### [CLion](https://www.jetbrains.com/clion/specials/clion/clion.html) by [JetBrains](https://jetbrains.com)
+
+  A cross-platform IDE for C and C++
+
+  A power tool for a power language
+
+  Fully Integrated C/C++ Development Environment
 
 
 
