@@ -153,7 +153,7 @@ Compiling/Run:
 Project Structure:
 
 ```
-  hello.xcodeproj 
+  hello.xcodeproj       // Click just open Xcode
   hello --+
           +- main.c
 ```
