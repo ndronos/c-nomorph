@@ -55,7 +55,7 @@ int main() {
   printf("There are %d remaining life", remaining_lif3);
   printf("\n");
 
-  printf("Remaining life %d, Total life %d", remaining_lif3, total_lif3);
+  printf("Remaining life %d, Total life %f", remaining_lif3, total_lif3);
   printf("\n");
 
 
