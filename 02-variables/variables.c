@@ -38,6 +38,47 @@ int main() {
 //                              2 warnings generated.
 //                              Segmentation fault (core dumped)
 
+  printf("--- float, with warning: \n");
+
+  float total_lif3 = 10.8;
+  int usedLif3 = 4;
+
+  int remaining_lif3 = total_lif3 - usedLif3;
+  
+  printf("The remaining life are: %d", remaining_lif3);
+  printf("\n");
+
+  printf("There are %d remaining life", remaining_lif3);
+  printf("\n");
+
+  printf("Remaining life %d, Total life %d", remaining_lif3, total_lif3);
+  printf("\n");
+
+
+/*
+
+$ clang variables.c 
+variables.c:54:62: warning: format specifies type 'int' but the argument has type 'float' [-Wformat]
+  printf("Remaining life %d, Total life %d", remaining_lif3, total_lif3);
+                                        ~~                   ^~~~~~~~~~
+                                        %f
+1 warning generated.
+
+*/
+
+/*
+  
+$ gcc variables.c 
+
+variables.c: In function ‘main’:
+variables.c:54:10: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘double’ [-Wformat=]
+   printf("Remaining life %d, Total life %d", remaining_lif3, total_lif3);
+          ^
+$ ./a.out 
+...
+
+*/
+
 
 
 
