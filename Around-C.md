@@ -45,11 +45,12 @@ Hard to Read        If doesn't look good,
 
 Extra Space         Removed by compiler
 
-Importance of       Make easy to read
+
+Importance of       Make easy to read     *** #2 Source of Problems ***
 Semicolon           ;
 
 
-Parenthesis,        ()
+Parenthesis,        ()                    *** #1 Source of Problems ***
 Curly-braces        {}
 & Brackets          []
 
@@ -78,4 +79,5 @@ Mind
 Reserved keywords
 
 (Igneus, 2015) 003 Programming 101
+(Igneus, 2015) 003 Solving Problems
 ```
