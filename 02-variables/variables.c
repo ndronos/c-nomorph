@@ -27,6 +27,12 @@ int main() {
   printf("The remaining life are: %d", remaining_life);
   printf("\n");
 
+  printf("There are %d remaining life", remaining_life);
+  printf("\n");
+
+  printf("Remaining life %d, Total life %d", remaining_life, total_life);
+  printf("\n");
+  
 
 //printf(remaining_life);       
 //                              2 warnings generated.
