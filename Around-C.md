@@ -37,8 +37,13 @@ Language Independent Rules to Follow or Bend
 
 
 Hard to Read        If doesn't look good,
-                    it is not good.
+* to avoid *        it is not good.
 
+                    tough to you to write
+                    tough to me to read
+
+
+Extra Space         Removed by compiler
 
 Importance of       Make easy to read
 Semicolon           ;
@@ -61,7 +66,7 @@ Slash               \
 Forward-slash       /
 
 
-All things are
+ALL Things are      ... different things
 CASE-Sensitive
 
 
