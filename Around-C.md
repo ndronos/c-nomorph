@@ -32,4 +32,45 @@ Can do anything
 (Igneus, 2015) 001 Introduction
 ```
 
+```
+Language Independent Rules to Follow or Bend
 
+
+Hard to Read        If doesn't look good,
+                    it is not good.
+
+
+Importance of       Make easy to read
+Semicolon           ;
+
+
+Parenthesis,        ()
+Curly-braces        {}
+& Brackets          []
+
+
+Code Style          f(){
+                    }
+
+
+Commenting          // one-line
+                    /* multi-line */
+
+
+Slash               \
+Forward-slash       /
+
+
+All things are
+CASE-Sensitive
+
+
+Always mind the
+Readability...
+
+
+Mind
+Reserved keywords
+
+(Igneus, 2015) 003 Programming 101
+```
