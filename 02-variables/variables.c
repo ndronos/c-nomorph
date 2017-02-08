@@ -6,7 +6,11 @@
     
     camelCase
 
+    placeholders  %d, %f
+
 */
+
+
 
 #include <stdio.h>
 
@@ -82,9 +86,39 @@ $ ./a.out
 
 
 
-  return 0;
+  printf("--- float, without warning: \n");
+
+  float total_lifA = 10.8;
+  int usedLifA = 4;
+
+  float remaining_lifA = total_lifA - usedLifA;
+  
+  printf("The remaining life are: %f", remaining_lifA);
+  printf("\n");
+
+  printf("There are %f remaining life", remaining_lifA);
+  printf("\n");
+
+  printf("Remaining life %f, Total life %f", remaining_lifA, total_lifA);
+  printf("\n");
+
+/*
+...
+variables.c:98:62: warning: format specifies type 'int' but the argument has type 'float' [-Wformat]
+  printf("Remaining life %d, Total life %d", remaining_lifA, total_lifA);
+                                        ~~                   ^~~~~~~~~~
+                                        %f
+...
+*/
+
+
+
+ return 0;
 
 }
+
+
+
 
 
 /*
