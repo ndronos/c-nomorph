@@ -40,11 +40,16 @@ $ clang 04-format-specifiers.c
     double  Double  = 10.5;
     char    Char    = 'c';
 
-    printf(" %d\n %d\n %d\n", value, Double, Char);
+    printf("\n %d\n %d\n %d\n", value, Double, Char);
 //  ... 33:39: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
 //  printf(" %d\n %d\n %d\n ", value, Double, Char);
 //                ~~                  ^~~~~~
 //                %f
+    
+    printf("\n %d\n %e\n %c\n", value, Double, Char);
+//  %d
+//  %e
+//  %c
 
 
     return 0;
