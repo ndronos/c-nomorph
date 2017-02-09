@@ -9,6 +9,12 @@
 
 int main() {
 
+    printf("\n  print backslash:  \\");
+    printf("\n  print tab:        \t    here");
+    printf("\n  print return      \r   there");
+    
+
+
     return 0;
 
 }
