@@ -15,6 +15,7 @@ int main() {
     
 
     printf("\n  print question mark: \?     ");
+    printf("\n  print double quote:  \"     ");
 
 
     printf("\n");
