@@ -1,5 +1,15 @@
 // (Igneus, 2015) Format Specifiers
 
+/*
+  Format Specifier
+
+  Problem           Every placeholder value is actually importance
+                    Every value has a placeholder for them
+
+*/
+
+
+
 #include <stdio.h>
 
 int main() {
