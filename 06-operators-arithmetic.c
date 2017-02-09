@@ -8,9 +8,7 @@ int main() {
     int bonus = 2;
     int factor;
 
-    factor = life + bonus;
-
-    printf("Value of factor is: %d \n", factor);
+    factor = life + bonus;  printf("Value of factor is: %d \n", factor);
 
 
 
