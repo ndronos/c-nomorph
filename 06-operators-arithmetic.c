@@ -10,6 +10,14 @@ int main() {
 
     factor = life + bonus;  printf("Value of factor is: %d \n", factor);
 
+    factor = life - bonus;  printf("Value of factor is: %d \n", factor);
+
+    factor = life * bonus;  printf("Value of factor is: %d \n", factor);
+
+    factor = life / bonus;  printf("Value of factor is: %d \n", factor);
+
+    factor = life % bonus;  printf("Value of factor is: %d \n", factor);  // modulus, remainder:w
+
 
 
     return 0;
