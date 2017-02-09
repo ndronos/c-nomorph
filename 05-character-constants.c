@@ -3,8 +3,13 @@
 /* 
     Character     Always begin with
     Constants     Backslash
-  
+
+            \n    new line
+            \r    carriage return       take output, enter output in next line (???)
+            \t    tab (horizontal)
+            \v    vertical tab  
 */
+
 # include <stdio.h>
 
 int main() {
