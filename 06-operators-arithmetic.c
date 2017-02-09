@@ -4,7 +4,7 @@
 
 int main() {
 
-    int life = 10;
+    int life = 11;
     int bonus = 2;
     int factor;
 
