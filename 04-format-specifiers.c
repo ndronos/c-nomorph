@@ -51,6 +51,16 @@ $ clang 04-format-specifiers.c
 //  %e
 //  %c
 
+    printf("\n %d\n %e\n %c\n", value, Double, Char);
+//  %d
+//  %E
+//  %c
+
+    printf("\n %d\n %e\n %c\n", value, Double, Char);
+//  %d
+//  %f
+//  %c
+
 
     return 0;
 
