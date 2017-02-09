@@ -21,6 +21,14 @@ int main() {
 
     life = life + 1;    printf("Value of life is: %d \n", life);
 
+    --life;             printf("Value of life is: %d \n", life);
+    
+    life++;             printf("Value of life is: %d \n", life);
+
+    life--;             printf("Value of life is: %d \n", life);
+
+    ++life;             printf("Value of life is: %d \n", life);
+
 
 
     return 0;
