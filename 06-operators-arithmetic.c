@@ -29,6 +29,10 @@ int main() {
 
     ++life;             printf("Value of life is: %d \n", life);
 
+/*
+    ++a         Prefix  operator: Operation, THEN use
+    a++         Postfix operator: Use, THEN operation
+*/
 
 
     return 0;
