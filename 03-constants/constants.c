@@ -35,7 +35,30 @@ int main() {
 
     printf("%d \n", v4lue);
 
+//  error: expression is not assignable
+//  LIFE = LIFE + 1
+
     return 0;
 
 }
+
+
+/*
+
+$ gcc constants.c 
+
+constants.c: In function ‘main’:
+constants.c:39:10: error: lvalue required as left operand of assignment
+     LIFE = LIFE + 1
+          ^
+constants.c:42:5: error: expected ‘;’ before ‘return’
+     return 0;
+     ^
+$ clang constants.c 
+constants.c:39:10: error: expression is not assignable
+    LIFE = LIFE + 1
+    ~~~~ ^
+1 error generated.
+
+*/
 
