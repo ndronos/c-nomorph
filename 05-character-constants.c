@@ -16,6 +16,8 @@ int main() {
 
     printf("\n  print backslash:  \\");
     printf("\n  print tab:        \t    here");
+    printf("\n  print vert tab:   \v    here");
+
     printf("\n  print return      \r   there");
     
 
