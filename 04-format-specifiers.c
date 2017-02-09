@@ -6,6 +6,9 @@ int main() {
 
     printf("Value for storage size of `int`: %lu \n", sizeof(int)); 
 
+//  printf("Value for storage size of `int`: %d  \n", sizeof(int)); 
+//                                           ~~      ^~~~~~~~~~~~
+//                                           %lu
 
 
     printf("Value for storage size of `char`: %lu \n", sizeof(char)); 
