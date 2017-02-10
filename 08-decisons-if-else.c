@@ -16,8 +16,8 @@ int main() {
 
     int highScore = 100;
 
-    if (highScore) {
-
+    if (highScore > 60) {
+        printf("You crossed the high score of 60. \n");
     }
 
     
