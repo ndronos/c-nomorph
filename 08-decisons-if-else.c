@@ -2,9 +2,12 @@
 
 /*
     Conditions          should always give answer Yes/No, True/False
-                        for C, non-zero values are True
+                        for C,  non-zero values are True
+                                zero is False
 
     if (condition) {
+        statements
+    } else {
         statements
     }
 
