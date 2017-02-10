@@ -7,6 +7,8 @@ int main() {
     int value1, value2, sum;
 
     printf("\n Enter the value #1: ");
+    scanf("%d", &value1);
+
 
     printf("\n Enter the value #2: ");
 
