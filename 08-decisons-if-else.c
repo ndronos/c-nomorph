@@ -21,6 +21,8 @@ int main() {
 
     if (highScore > 60) {
         printf("You crossed the high score of 60. \n");
+    } else {
+        printf("You played well but missed the high score. \n");
     }
 
     
