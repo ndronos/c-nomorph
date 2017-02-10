@@ -34,7 +34,7 @@ int main() {
 
       case 2:
           printf("2... \n");
-          break;
+      //    break;
 
       default:
           printf("That was not a valid rating... \n");
