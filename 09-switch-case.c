@@ -25,6 +25,7 @@ int main() {
 
       case 4:
           printf("You gave the 4 rating! \n");
+          break;
 
       default:
           break;
