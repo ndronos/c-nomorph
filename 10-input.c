@@ -11,6 +11,7 @@ int main() {
 
 
     printf("\n Enter the value #2: ");
+    scanf("%d", &value2);
 
 
     sum = value1 + value2;
@@ -18,7 +19,7 @@ int main() {
     printf("\n The sum is: %d \n\n", sum);
 
 
-
+    getchar();    //on Windows, keep CLI window open
 
     return 0;    
 
