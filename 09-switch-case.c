@@ -15,7 +15,7 @@
 
 int main() {
 
-    int rating = 3;
+    int rating = 1;
 
     switch (rating) {
 
@@ -35,6 +35,7 @@ int main() {
           printf("2... \n");
 
       default:
+          printf("That was not a valid rating... \n");
           break;
 
     }
