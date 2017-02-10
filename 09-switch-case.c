@@ -15,13 +15,16 @@
 
 int main() {
 
-    int rating = 5;
+    int rating = 4;
 
     switch (rating) {
 
       case 5:
           printf("This was a great course!! \n");
           break;
+
+      case 4:
+          printf("You gave the 4 rating! \n");
 
       default:
           break;
