@@ -4,7 +4,8 @@
     switch (expression) {
       case constant:
           statements
-          break:
+          break;              without break, next case will be executed...
+      ...
       default:
           break;
     }
@@ -15,7 +16,7 @@
 
 int main() {
 
-    int rating = 1;
+    int rating = 4;
 
     switch (rating) {
 
@@ -25,20 +26,23 @@ int main() {
 
       case 4:
           printf("You gave the 4 rating! \n");
-          break;
+      //    break;
 
       case 3:
           printf("3 rating? \n");
-          break;
+      //    break;
 
       case 2:
           printf("2... \n");
+          break;
 
       default:
           printf("That was not a valid rating... \n");
           break;
 
     }
+
+    printf("Done rating! \n");
 
 
     return 0;
