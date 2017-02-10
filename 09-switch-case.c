@@ -15,7 +15,7 @@
 
 int main() {
 
-    int rating = 4;
+    int rating = 3;
 
     switch (rating) {
 
@@ -26,6 +26,13 @@ int main() {
       case 4:
           printf("You gave the 4 rating! \n");
           break;
+
+      case 3:
+          printf("3 rating? \n");
+          break;
+
+      case 2:
+          printf("2... \n");
 
       default:
           break;
