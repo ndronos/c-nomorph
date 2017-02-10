@@ -21,6 +21,7 @@ int main() {
 
       case 5:
           printf("This was a great course!! \n");
+          break;
 
       default:
           break;
