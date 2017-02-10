@@ -15,6 +15,18 @@
 
 int main() {
 
+    int rating = 5;
+
+    switch (rating) {
+
+      case 5:
+          printf("This was a great course!! \n");
+
+      default:
+          break;
+
+    }
+
 
     return 0;
 }
