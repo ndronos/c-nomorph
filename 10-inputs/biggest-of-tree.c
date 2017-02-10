@@ -29,7 +29,7 @@ int main() {
         big = value2;
     }
 
-   if (value3 > big) {
+    if (value3 > big) {
         big = value3;
     }
 
