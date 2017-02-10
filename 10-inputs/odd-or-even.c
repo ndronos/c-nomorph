@@ -15,12 +15,14 @@ int main() {
 
         printf("\n The number is EVEN. \n");
 
+    }else
+        printf("\n The number is ODD. \n");         // different syntax
+
+/*
     } else {
-
         printf("\n The number is ODD. \n");
-
     }
-
+*/
 
     return 0;
 
