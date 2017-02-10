@@ -25,7 +25,7 @@ int main() {
         printf("You played well but missed the high score. \n");
     }
 
-    
+    printf("Game Over \n");
 
     return 0;
 
