@@ -21,11 +21,21 @@ int main() {
     scanf("%d", &value3);
 
 
-/*
-    sum = value1 + value2;
+    if (value1 > big) {
+        big = value1;
+    }
 
-    printf("\n The sum is: %d \n\n", sum);
-*/
+    if (value2 > big) {
+        big = value2;
+    }
+
+   if (value3 > big) {
+        big = value3;
+    }
+
+
+    printf("\n The biggest is: %d \n\n", big);
+
 
     getchar();    //on Windows, keep CLI window open
 
