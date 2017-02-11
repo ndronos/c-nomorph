@@ -1,5 +1,20 @@
 // (Igneus, 2015) Type Casting
 
+/*  Bigger box
+    to small box
+
+    long  double
+          double
+          float
+  unsigned long long
+      long long
+  unsigned long
+           long
+  unsigned int
+           int
+*/
+
+
 #include <stdio.h>
 
 int main() {
