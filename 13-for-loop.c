@@ -14,11 +14,13 @@
 
 int main() {
 
-    for (int value = 5; value <= 55; value++) {
+    for (int value = 5; value <= 55; value++) {     // New Standard: declare/initialize at same time
 
         printf("%d  ", value);
 
     }
+
+
 
 
 
