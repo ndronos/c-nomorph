@@ -14,6 +14,7 @@ int main() {
 
     }
 
+    printf("I am out of the block.");
 
 
     return 0;
