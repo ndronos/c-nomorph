@@ -9,7 +9,9 @@ int main() {
 
     double result;
 
-    result = value1 / value2;
+    //  result = value1 / value2;     // 1.000000 wrong
+
+    result = (double)value1 / value2; // 1.142857 with type casting   
 
     printf("%f \n", result);
    
