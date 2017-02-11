@@ -21,6 +21,14 @@ int main() {
     }
 
 
+    printf("\n --- \n");
+
+
+    for (int value = 55; value >= 5; value--) { 
+
+        printf("%d  ", value);
+
+    }
 
 
 
