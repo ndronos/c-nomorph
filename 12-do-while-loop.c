@@ -3,7 +3,7 @@
 /*
     do {                      Execute at least once
       statements
-    } while (condition)       then test the condition
+    } while (condition)       then check the condition
 */
 
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main() {
         printf("%d  ", value);
         value++;
 
-    } while (value < 4);
+    } while (value <= 55);
 
 
 
