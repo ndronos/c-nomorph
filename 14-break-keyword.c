@@ -8,14 +8,16 @@ int main() {
 
     while (value <= 55) {
 
-        printf("%d  ", value);
+        printf("%d", value);
 
         value++;
 
-        if (value > 15) break;
+        if (value > 15) break;            //
+
+        printf("//");
     }
 
-    printf("I am out of the block.");
+    printf("-->I am out of the block. \n");
 
 
     return 0;
