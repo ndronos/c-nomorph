@@ -7,7 +7,15 @@
 
 int main() {
 
-       
+    int value = 5;
+
+    do {
+    
+        printf("%d  ", value);
+
+        value++;
+
+    } while (value <= 55);
 
 
     return 0;
