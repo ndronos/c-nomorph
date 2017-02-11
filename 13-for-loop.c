@@ -14,6 +14,12 @@
 
 int main() {
 
+    for (int value = 5; value <= 55; value++) {
+
+        printf("%d  ", value);
+
+    }
+
 
 
     return 0;
