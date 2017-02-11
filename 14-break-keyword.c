@@ -12,6 +12,7 @@ int main() {
 
         value++;
 
+        if (value > 15) break;
     }
 
     printf("I am out of the block.");
