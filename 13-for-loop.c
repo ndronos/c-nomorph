@@ -1,0 +1,22 @@
+// (Igneus, 2015) For Loop
+
+/*
+    most famous loop in computer industry/history
+    does all things in compact matter
+    found very often, simplest one
+
+    for (initialization; condition; increment) {
+        statements
+    }
+*/
+
+#include <stdio.h>
+
+int main() {
+
+
+
+    return 0;
+
+}
+
