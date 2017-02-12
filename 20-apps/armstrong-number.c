@@ -4,7 +4,7 @@
 // 3**3 + 7**3 + 1**3 = 371
 
 #include <stdio.h>
-#include <math.h>
+#include <math.h>     // requires compilation with `-lm` option to link library
 
 int main() {
 
@@ -24,9 +24,12 @@ int main() {
 
 
     army =  pow(digit3, 3) + pow(digit2, 3) + pow(digit1, 1); // requires math library
-            // digit3^3 // ^ is bitwise operator not power, pow();  // digit3*digit3*digit3;
+            // digit3^3 // ^ is bitwise operator not power, pow();
+            // digit3*digit3*digit3;
     printf("%d \n", army);
 
+
+    
     return 0;
 }
 
