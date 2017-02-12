@@ -6,7 +6,17 @@
 #include <stdio.h>
 
 
+int main() {
 
+    int highScore1 = 100;
+    int highScore2 = 200;
+    int highest;
+
+    highest = cal(highScore1, highScore2);
+    printf("The high score is: %d \n", highest);
+
+    return 0;
+}
 
 
 
