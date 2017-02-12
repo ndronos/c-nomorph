@@ -22,6 +22,10 @@ int main() {
     printf("%d \n", digit1);
 
 
+    army =  power(digit3, 3) + power(digit2, 3) + power(digit1, 1); // requires math library
+            // digit3^3 // ^ is bitwise operator not power();  // digit3*digit3*digit3;
+    printf("%d \n", army);
+
     return 0;
 }
 
