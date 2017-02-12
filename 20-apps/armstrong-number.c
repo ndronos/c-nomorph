@@ -4,6 +4,7 @@
 // 3**3 + 7**3 + 1**3 = 371
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
 
