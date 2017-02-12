@@ -26,9 +26,10 @@ int main() {
     army =  pow(digit3, 3) + pow(digit2, 3) + pow(digit1, 1); // requires math library
             // digit3^3 // ^ is bitwise operator not power, pow();
             // digit3*digit3*digit3;
-    printf("%d \n", army);
-
-
+    printf("%d ", army);
+    if (number == army) printf("The number is Armstrong.\n");
+    else                printf("NOT Armstrong number.\n");
+    
     
     return 0;
 }
