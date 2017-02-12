@@ -7,7 +7,23 @@
 
 int main() {
 
+    int digit1 = 0,
+        digit2 = 1,
+        calculated = 0,
+        limit;
 
+    printf("%d, ", digit1);
+    printf("%d, ", digit2);
+
+    for (limit = 1; limit <= 20; limit++) {
+
+        calculated = digit1 + digit2;
+        printf("%d, ", calculated);
+
+        digit1 = digit2;
+        digit2 = calculated;
+    
+    }   
 
 
     return 0;
