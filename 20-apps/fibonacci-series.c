@@ -7,6 +7,11 @@
 
 int main() {
 
+    int max = 0;
+    printf("Enter your Fibonacci maximum limit: ");
+    scanf("%d", &max);
+    //printf("%d", max);
+
     int digit1 = 0,
         digit2 = 1,
         calculated = 0,
@@ -15,14 +20,15 @@ int main() {
     printf("%d, ", digit1);
     printf("%d, ", digit2);
 
-    for (limit = 1; limit <= 20; limit++) {
-
+    for (limit = 1; limit <= max; limit++) {
+        printf("%d ", limit);
+    /*
         calculated = digit1 + digit2;
         printf("%d, ", calculated);
 
         digit1 = digit2;
         digit2 = calculated;
-    
+    */
     }   
 
 
