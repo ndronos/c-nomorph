@@ -21,14 +21,14 @@ int main() {
     printf("%d, ", digit2);
 
     for (limit = 1; limit <= max; limit++) {
-        printf("%d ", limit);
-    /*
+    //    printf("%d ", limit);
+    
         calculated = digit1 + digit2;
         printf("%d, ", calculated);
 
         digit1 = digit2;
         digit2 = calculated;
-    */
+    
     }   
 
 
