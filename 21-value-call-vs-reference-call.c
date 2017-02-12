@@ -3,9 +3,13 @@
 #include <stdio.h>
 
 
-int swap(int v1, int v2) {                    // new function
+void swap(int v1, int v2) {                    // new function, void / int : non-void... should return value
 
-    return 0;
+    int tmp = v1;
+    v1 = v2;
+    v2 = tmp;
+
+    return;
 }
 
 
