@@ -17,6 +17,10 @@ int main() {
     digit1 =  number % 10;
 
 
+    printf("%d \n", digit3);
+    printf("%d \n", digit2);
+    printf("%d \n", digit1);
+
 
     return 0;
 }
