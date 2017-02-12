@@ -12,9 +12,9 @@ int main() {
     printf("Enter a three digit Armstrong number: ");
     scanf("%d", &number);
 
-    digit3 = 0;
-    digit2 = 0;
-    digit1 = 0;
+    digit3 =  number / 100;
+    digit2 = (number % 100) / 10;
+    digit1 =  number % 10;
 
 
 
