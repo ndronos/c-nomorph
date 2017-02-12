@@ -7,6 +7,17 @@
 
 int main() {
 
+    int number, digit1, digit2, digit3, army = 0;
 
+    printf("Enter a three digit Armstrong number: ");
+    scanf("%d", &number);
+
+    digit3 = 0;
+    digit2 = 0;
+    digit1 = 0;
+
+
+
+    return 0;
 }
 
