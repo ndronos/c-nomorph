@@ -4,10 +4,15 @@
 
 int main() {
 
-    int number, digit1, digi2, digi3, sum  = 0;
+    int number, digit1, digit2, digit3, sum  = 0;
 
     printf("Enter a three digit number: ");
     scanf("%d", &number);
+
+    digit3 = number / 100;
+
+
+    printf("%d \n", digit3);
 
 
 
