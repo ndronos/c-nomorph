@@ -10,13 +10,14 @@ int main() {
 
 
     for(int row = number; row > 0; row--) {
-        /*
-        for() {
+        
+        for(int line = 1; line <= row; line++) {
 
+        printf("%d ", row);
 
         }
-        */
-        printf("%d ", row);
+       
+      //printf("%d ", row);
         printf("\n");
     }
 
