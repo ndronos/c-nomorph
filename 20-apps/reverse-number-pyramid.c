@@ -9,11 +9,12 @@ int main() {
     scanf("%d", &number);
 
 
-    for(int row = number; row > 0; row--) {
+    for(int row = number; row >=1; --row) {     // alternative version
+//  for(int row = number; row > 0; row--) {         // outter loop not increment
         
-        for(int line = 1; line <= row; line++) {
+        for(int line = 1; line <= row; line++) {    // just count, increment number same line
 
-        printf("%d ", line);  //row);
+          printf("%d ", line);  //row);
 
         }
        
