@@ -221,4 +221,5 @@ GNU Compiler Collection... for `C C++ Objective-C Go Fortran Ada`...
 
 clang: ... C based language family frontend for LLVM `C C++ Objective-C`... for the `LLVM` compiler. 
 
+`clang /klaNG/ latin: clangere; resound, resonant metallic sound`
 
