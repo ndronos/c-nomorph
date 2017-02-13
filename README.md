@@ -217,7 +217,7 @@ GNU Compiler Collection... for `C C++ Objective-C Go Fortran Ada`...
 
 
 
-## [Clang](http://clang.llvm.org)
+## [Clang](http://clang.llvm.org) || [LLVM](http://llvm.org)
 
 clang: ... C based language family frontend for LLVM `C C++ Objective-C`... for the `LLVM` compiler. 
 
