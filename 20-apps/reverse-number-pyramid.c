@@ -17,7 +17,7 @@ int main() {
         }
         */
         printf("%d ", row);
-        //printf("\n");
+        printf("\n");
     }
 
 
