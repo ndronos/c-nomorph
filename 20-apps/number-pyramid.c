@@ -4,9 +4,13 @@
 
 int main() {
 
-for(int row=1; row <=9; row++) {
+int size = 0;
+printf("Enter SIZE of Number Pyramid: ");
+scanf("%d", &size);
 
-    for(int py=1; py <= row; py++) {
+for(int row=1; row <=size; row++) {          // line
+
+    for(int py=1; py <= row; py++) {      // row
       
         printf("%d", py);
     }
