@@ -13,7 +13,7 @@ int main() {
         
         for(int line = 1; line <= row; line++) {
 
-        printf("%d ", row);
+        printf("%d ", line);  //row);
 
         }
        
