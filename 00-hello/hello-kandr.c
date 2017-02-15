@@ -1,8 +1,11 @@
 // (K&R, 1988) pp. 6-7
 
-#include <stdio.h>
+// The first C program
 
-main()
+#include <stdio.h>              //  include information about standard library
+
+main()                          //  define a function named `main`
+                                //  that receives no argument values
 {
     printf("hello, world\n");
 }
