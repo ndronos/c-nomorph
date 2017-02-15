@@ -1,5 +1,4 @@
 # C Is Punk Rock
----
 
 
 ```
@@ -40,8 +39,8 @@ from the punk rock spinoff known as grunge at my local supermarket.
 One reaction to the continuing evolution would be take the hard line
 and say that the original stuff was punk
 and everything else is just easy punk pop for the masses.
-The tradicionalists can still play their albums from the '70s,
-and if the grooves are worn out, they can dowload a digitally mastered edition.
+The traditionalists can still play their albums from the '70s,
+and if the grooves are worn out, they can download a digitally mastered edition.
 They can buy Ramones hoodies for their toddlers.
 
 (Klemens, 2015) ix x Preface
@@ -52,7 +51,7 @@ Outsiders don't get it. Some of them hear the word punk,
 and picture something out of the 1970s
 - a historic artifact about some kids that are, at the time,
 really doing something different.
-The traditionalist punks who stilllove and play their 1973 ... LPs
+The traditionalist punks who still love and play their 1973 ... LPs
 are having their fun,
 but they bolster the impression that punk is ossified and no longer relevant.
 
@@ -64,7 +63,7 @@ Getting back to the world of C,
 we have both the traditionalists, waving the banner of ANSI'89,
 and those who will rock out to whatever works
 and may not realize that the code they are writing
-would not have compiled or run in the 1990s/
+would not have compiled or run in the 1990s.
 Outsiders don't get the difference.
 They see still-in-print books from the 1980s
 and still-online tutorials from the 1990s,
@@ -82,7 +81,7 @@ This is a book about breaking tradition and keeping C punk rock.
 I don't care to compare the code this book
 to the original C specification in Kernighan and Ritchie's 1978 book.
 My telephone has 512 MB of memory,
-so why arr our C textbooks still spending pages upon pages
+so why are our C textbooks still spending pages upon pages
 covering techniques to shave kilobytes off our executables?
 I am writing this on a bottom-of-the-line red netbook
 that can accommodate 3,200,000,000 instructions per second;
@@ -106,7 +105,7 @@ A:
 Some are better written, some are even entertaining,
 but C textbooks are somewhat uniform bunch
 (I've read a lot of them, including...).
-Most are written before the C99 standard simplified
+Most are written before the C99 standard
 simplified many aspects of usage,
 and you can tell some of those now in their nth edition
 just pasted few notes about updated
@@ -140,7 +139,7 @@ and has a friendly user interface.
 - The Waite Group's C Primer Plus (Prata, 2004)
 - C Programming (Ullman, 2004)
 
-```
+
 
 ```
 Q: Who is this book for? Do I need to be a coding guru?
