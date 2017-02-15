@@ -15,7 +15,7 @@ that doesn't have a corporation or foundation spending money to promote it.
 (Klemens, 2015) ix Preface
 ```
 
-This preface owes an obvious and huge debt to [Punk Rock Languages: A Polemic] by Chris Adamson.
+This preface owes an obvious and huge debt to [Punk Rock Languages: A Polemic] by Chris Adamson.  
 [Punk Rock Languages: A Polemic](https://pragprog.com/magazines/2011-03/punk-rock-languages)
 
 ```
