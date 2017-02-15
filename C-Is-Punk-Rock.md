@@ -122,13 +122,19 @@ in many of those textbooks.
 (Klemens, 2015) x Preface
 ```
 ... including
-- C for Programmers with Introduction to C11
-- Head Fist C
-- The C Programming Language, 1st Edition 
-- The C Programming Language, 2nd Edition
-- Programming in C
-- Practical C Programming
-- Absolute Beginner's Guite to C
-- The Waite Group's C Primer Plus
-- C Programming
+- C for Programmers with Introduction to C11 (Deitel, 2013)
+- Head Fist C (Griffiths, 2012)
+- The C Programming Language, 1st Edition (K&R, 1979)
+- The C Programming Language, 2nd Edition (K&R, 1988)
+- Programming in C (Kochan. 2004)
+- Practical C Programming (Oualline, 1997)
+- Absolute Beginner's Guite to C (Perry, 1994)
+- The Waite Group's C Primer Plus (Prata, 2004)
+- C Programming (Ullman, 2004)
+
+```
+
+(Klemens, 2015) x Preface
+```
+```
 
