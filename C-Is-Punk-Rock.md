@@ -215,3 +215,9 @@ Don't expect to be an expert in C by the end of this tutorial
 
 (Klemens, 2015) C 101
 ```
+
+... All of the code samples in this appendix marked with a file name
+like this are available online at:  
+https://github.com/b-k/21st-Century-Examples
+
+
