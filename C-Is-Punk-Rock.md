@@ -104,7 +104,8 @@ Q: How is this book different from all others?
 
 A:
 Some are better written, some are even entertaining,
-but C textbooks are somewhat uniform bunch...
+but C textbooks are somewhat uniform bunch
+(I've read a lot of them, including...).
 Most are written before the C99 standard simplified
 simplified many aspects of usage,
 and you can tell some of those now in their nth edition
@@ -120,4 +121,14 @@ in many of those textbooks.
 
 (Klemens, 2015) x Preface
 ```
+... including
+- C for Programmers with Introduction to C11
+- Head Fist C
+- The C Programming Language, 1st Edition 
+- The C Programming Language, 2nd Edition
+- Programming in C
+- Practical C Programming
+- Absolute Beginner's Guite to C
+- The Waite Group's C Primer Plus
+- C Programming
 
