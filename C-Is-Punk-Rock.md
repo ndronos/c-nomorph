@@ -221,3 +221,15 @@ like this are available online at:
 https://github.com/b-k/21st-Century-Examples
 
 
+```
+The Structure
+
+The double slashes... indicate a comment that the compiler will ignore.
+... reveals... few key points about C.
+Structurally, almost everything in a C program is:
+- A preprocessor directive, like #include <stdio.h>
+- A declaration of a variable or a type
+- A function block, like `main`, containing expressions to evaluate (like `printf`)
+```
+
+
