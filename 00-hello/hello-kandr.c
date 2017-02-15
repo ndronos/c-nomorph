@@ -8,3 +8,16 @@ main()
 }
 
 
+/*
+$ clang hello-kandr.c
+hello-kandr.c:5:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main()
+^
+1 warning generated.
+
+$ gcc hello-kandr.c
+hello-kandr.c:5:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ main()
+ ^
+*/
+
