@@ -119,6 +119,14 @@ Those texbooks are still valid and still have value,
 but modern C code just doesn't look like much of the code
 in many of those textbooks.
 
+This book picks up where they left off,
+reconsidering the language and the ecosystem in which it lives.
+The storyline here is about using libraries
+that provide linked lists and XML parsers,
+not writing new ones from scratch.
+It is about writing code that is readable
+and has a friendly user interface.
+
 (Klemens, 2015) x Preface
 ```
 ... including
@@ -132,9 +140,5 @@ in many of those textbooks.
 - The Waite Group's C Primer Plus (Prata, 2004)
 - C Programming (Ullman, 2004)
 
-```
-
-(Klemens, 2015) x Preface
-```
 ```
 
