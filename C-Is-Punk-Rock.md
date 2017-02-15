@@ -47,4 +47,15 @@ They can buy Ramones hoodies for their toddlers.
 (Klemens, 2015) ix x Preface
 ```
 
+```
+Outsiders don't get it. Some of them hear the word punk,
+and picture something out of the 1970s
+- a historic artifact about some kids that are, at the time,
+really doing something different.
+The traditionalist punks who stilllove and play their 1973 ... LPs
+are having their fun,
+but they bolster the impression that punk is ossified and no longer relevant.
+
+(Klemens, 2015) x Preface
+```
 
