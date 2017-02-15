@@ -29,3 +29,22 @@ and there's been a lot of time for the language to go mainstream.
 (Klemens, 2015) ix Preface
 ```
 
+```
+What did people do when punk rock went mainstream?
+In the decades since its advent in the 1970s,
+punk certainly has come in from the fringes:
+(to name just a few)... sold million of albums worldwide,
+and I have heard lite instrumental versions of songs
+from the punk rock spinoff known as grunge at my local supermarket.
+...
+One reaction to the continuing evolution would be take the hard line
+and say that the original stuff was punk
+and everything else is just easy punk pop for the masses.
+The tradicionalists can still play their albums from the '70s,
+and if the grooves are worn out, they can dowload a digitally mastered edition.
+They can buy Ramones hoodies for their toddlers.
+
+(Klemens, 2015) ix x Preface
+```
+
+
