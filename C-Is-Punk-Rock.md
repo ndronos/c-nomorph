@@ -59,3 +59,21 @@ but they bolster the impression that punk is ossified and no longer relevant.
 (Klemens, 2015) x Preface
 ```
 
+```
+Getting back to the world of C,
+we have both the traditionalists, waving the banner of ANSI'89,
+and those who will rock out to whatever works
+and may not realize that the code they are writing
+would not have compiled or run in the 1990s/
+Outsiders don't get the difference.
+They see still-in-print books from the 1980s
+and still-online tutorials from the 1990s,
+they near hear from the hardcore traditionalists
+who insist on still writing like that today,
+and they don't even know that the language
+and the rest of its users continue to evolve.
+That's a shame, because thet're missing out on some great stuff.
+
+(Klemens, 2015) x Preface
+```
+
