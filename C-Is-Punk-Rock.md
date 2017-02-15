@@ -77,3 +77,23 @@ That's a shame, because thet're missing out on some great stuff.
 (Klemens, 2015) x Preface
 ```
 
+```
+This is a book about breaking tradition and keeping C punk rock.
+I don't care to compare the code this book
+to the original C specification in Kernighan and Ritchie's 1978 book.
+My telephone has 512 MB of memory,
+so why arr our C textbooks still spending pages upon pages
+covering techniques to shave kilobytes off our executables?
+I am writing this on a bottom-of-the-line red netbook
+that can accommodate 3,200,000,000 instructions per second;
+what do I care about whether an operation requires comparing 8 bits or 16?
+We should be writing code that we can write quickly
+and that is readable by our fellow humans.
+We're still writing in C, so our readable
+but imperfectly optimized code will still run an order of magnitude faster
+than if we'd written comparable code in any number of alternative,
+bloated languages.
+
+(Klemens, 2015) x Preface
+```
+
