@@ -234,4 +234,18 @@ Structurally, almost everything in a C program is:
 (Klemens, 2015) C 101 pp. 343-344
 ```
 
+```
+C requires a compilation step, which consists of running a single command
+
+A scripting language comes with a program that parses the text of your scripts;
+C has a compiler that takes in your program text and produces a program directly executed
+by the operating system. 
+Using the compiler is something of a pain,
+so there are programs to run the compiler for you.
+Your integrated development environments (IDEs) typically have a compile-and-run button.
+and on the command line, a POSIX-standard program named `make` will run the compiler for you.
+
+(Klemens, 2015) C 101 pp. 344
+```
+
 
