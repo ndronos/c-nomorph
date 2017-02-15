@@ -97,3 +97,27 @@ bloated languages.
 (Klemens, 2015) x Preface
 ```
 
+### Q & A (Or the Parameters of the Book)
+
+```
+Q: How is this book different from all others?
+
+A:
+Some are better written, some are even entertaining,
+but C textbooks are somewhat uniform bunch...
+Most are written before the C99 standard simplified
+simplified many aspects of usage,
+and you can tell some of those now in their nth edition
+just pasted few notes about updated
+rather than seriously rethinking how to use the language.
+They all mention that there might be libraries
+that you could maybe use in writing your own code,
+but most predate the installation tools and ecosystem we have now,
+which make using those libraries reliable and reasonably portable.
+Those texbooks are still valid and still have value,
+but modern C code just doesn't look like much of the code
+in many of those textbooks.
+
+(Klemens, 2015) x Preface
+```
+
