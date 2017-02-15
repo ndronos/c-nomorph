@@ -167,3 +167,7 @@ which I naturally think overcomes many of the failings of older C tutorials.
 (Klemens, 2015) xi Preface
 ```
 
+- Appendix A (Klemens, 2015)
+- Modeling with Data (Klemens, 2008)
+
+
