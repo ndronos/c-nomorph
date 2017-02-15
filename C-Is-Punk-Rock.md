@@ -170,4 +170,35 @@ which I naturally think overcomes many of the failings of older C tutorials.
 - Appendix A (Klemens, 2015)
 - Modeling with Data (Klemens, 2008)
 
+```
+Q: I'm an application programmer, not a kernel hacker.
+Why should I use C instead of a quick-to-write scripting language like Python?
+
+A:
+If you are an application programmer, this book is for you.
+I read people asserting that C is a systems language,
+which impresses me as so un-punk
+- who are they to tellus what we're allowed to write?
+
+Statements along the lines of
+"Our language is almost as fast as C, but easier to write"
+are so common that they are almost cliche'.
+Well, C is definitely as fast as C,
+and the purpose of this book is to show you that
+C is easier to write that the textbooks from decades past imply that is.
+You don't have to call `malloc` and get elbow-deep in memory management
+half as often as the systems programmers of the 1990s did,
+we have facilities for easier string handling,
+and even the core syntax has evolved to make for more legible code.
+
+I started writing C in the earnest because I hat to speed up
+a simulation in a scripting language, R.
+Like so many other scripting languages,
+R has a C interface and encourages the user to make use of it
+any time the host language is too slow.
+Eventually, I had so many functions jumping out from the host script
+to C code that I just dropped the host language entirely.
+
+(Klemens, 2015) xi Preface
+```
 
