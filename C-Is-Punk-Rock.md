@@ -16,4 +16,16 @@ that doesn't have a corporation or foundation spending money to promote it.
 ```
 
 This preface owes an obvious and huge debt to [Punk Rock Languages: A Polemic] by Chris Adamson.
-[Punk Rock Languages: A Polemic](https://pragprog.com/magazines/2011-03/punk-rock-languages) 
+[Punk Rock Languages: A Polemic](https://pragprog.com/magazines/2011-03/punk-rock-languages)
+
+```
+Also, the language is about 40 years old,
+which makes it middle-aged.
+It was written by a few guys basically working against management
+- the perfect punk rock origins -
+but that was on the 1970's,
+and there's been a lot of time for the language to go mainstream.
+
+(Klemens, 2015) ix Preface
+```
+
