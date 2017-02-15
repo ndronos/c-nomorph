@@ -213,7 +213,7 @@ Don't expect to be an expert in C by the end of this tutorial
 ...
 
 
-(Klemens, 2015) C 101
+(Klemens, 2015) C 101 pp. 343
 ```
 
 ... All of the code samples in this appendix marked with a file name
@@ -230,6 +230,8 @@ Structurally, almost everything in a C program is:
 - A preprocessor directive, like #include <stdio.h>
 - A declaration of a variable or a type
 - A function block, like `main`, containing expressions to evaluate (like `printf`)
+
+(Klemens, 2015) C 101 pp. 343-344
 ```
 
 
