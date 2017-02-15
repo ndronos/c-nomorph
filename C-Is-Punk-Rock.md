@@ -127,7 +127,7 @@ not writing new ones from scratch.
 It is about writing code that is readable
 and has a friendly user interface.
 
-(Klemens, 2015) x Preface
+(Klemens, 2015) x xi Preface
 ```
 ... including
 - C for Programmers with Introduction to C11 (Deitel, 2013)
@@ -140,5 +140,30 @@ and has a friendly user interface.
 - The Waite Group's C Primer Plus (Prata, 2004)
 - C Programming (Ullman, 2004)
 
+```
+
+```
+Q: Who is this book for? Do I need to be a coding guru?
+
+A:
+You have experience coding in any language,
+maybe Java or a scripting language such as Perl.
+I don't have to sell you on why your code
+shouldn't be one long routine with no subfunctions.
+
+The body of the book assumes basic knowledge of C gained from
+time spent writing C code.
+If you are rusty on the details or are starting from zero, Appendix A
+offers a short tutorial on basic C for readers who are coming from
+a scripting language like Python or Ruby.
+
+I might as well point out to you that I have also written a textbook
+on statistical and scientific computing, Modeling with Data (Klemens, 2008).
+Along with lots of details of dealing with 
+numeric data and using statistical models for describing data,
+it has a longer, more standalone tutorial on C,
+which I naturally think overcomes many of the failings of older C tutorials.
+
+(Klemens, 2015) xi Preface
 ```
 
