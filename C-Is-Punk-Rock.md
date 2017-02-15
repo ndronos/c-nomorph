@@ -201,3 +201,17 @@ to C code that I just dropped the host language entirely.
 (Klemens, 2015) xi Preface
 ```
 
+
+
+### APPENDIX A C 101
+
+```
+... covers the basics of the language. It's not for everyone.
+...
+Don't expect to be an expert in C by the end of this tutorial
+- there is no substitue for real experience with the language.
+...
+
+
+(Klemens, 2015) C 101
+```
