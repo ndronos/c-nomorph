@@ -404,7 +404,11 @@ a single block of code to be executed when the function runs.
 If the full definition of the function is in your code before the use of the function,
 then the compiler has what it needs to do consistency checks, and you don't need to bother
 with a separate declaration.
-
+Because of this, a lot of C code is written and read in bottom-up style,
+with `main` as the last thing on the file,
+and above that the definition of functions called by `main`,
+and above those the definitions of functions called  by those functions,
+and so on up to the headers at the top of the file declaring all the library functions used.
 
 (Klemens, 2015) C 101 pp. 347-348
 ```
