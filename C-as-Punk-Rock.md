@@ -280,4 +280,11 @@ as computer code can be. This is where the `printf` function is defined.
 ```
 - Paths pp. 11
 
+```
+There's a preprocessor
 
+
+
+
+(Klemens, 2015) C 101 pp. 345-346
+```
