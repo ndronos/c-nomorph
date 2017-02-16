@@ -283,6 +283,16 @@ as computer code can be. This is where the `printf` function is defined.
 ```
 There's a preprocessor
 
+The libraries are in binary format, executable by the computer but illegible to humans.
+Unless you have binary-reading superpowers, you can't look at the compiled library
+to verify that you are using `printf` correctly.
+So there are companion filesto a library, *header files*, that list plain text declarations
+for the utilities in the library, giving the inputs that each function expects
+and the outputs they produce.
+If you include the approriate header in your program, the the compiler
+can do consistency checks to verify that your use of a function, variable, or type
+is consistent with what the binary code in the library expects.
+
 
 
 
