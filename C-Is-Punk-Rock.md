@@ -245,7 +245,19 @@ so there are programs to run the compiler for you.
 Your integrated development environments (IDEs) typically have a compile-and-run button.
 and on the command line, a POSIX-standard program named `make` will run the compiler for you.
 
-(Klemens, 2015) C 101 pp. 344
-```
+...
 
+... a `makefile`... instructs `make` to send some compilation flags to the compiler.
+... For now, I'll mention one flag: `-Wall`.
+This flag asks the compiler to list all warnings about parts of your program
+that are technically correct, but may not be what you meant.
+This is known as *static analysis*, and modern C compilers are very good at it.
+You can this think of the compilation steo not as useless formality,
+but as a chance to submit your code to a team of the world's foremost experts in C
+before running the program.
+
+...
+
+(Klemens, 2015) C 101 pp. 344-345
+```
 
