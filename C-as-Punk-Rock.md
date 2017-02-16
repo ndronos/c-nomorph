@@ -233,6 +233,7 @@ Structurally, almost everything in a C program is:
 
 (Klemens, 2015) C 101 pp. 343-344
 ```
+- hello.c
 
 ```
 C requires a compilation step, which consists of running a single command
