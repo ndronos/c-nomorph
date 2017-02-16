@@ -372,8 +372,12 @@ Variables have to be declared
 There are three basic types that I used throughout the book: `int`, `double`, and `char`,
 which are short for integer, double-precision floating-point real number, and character.
 
+There are bloggers who characterize the work ofo declaring a variable as a fate worse than death,
+but ... the only work required is often justputting a type name before the first use of the variable.
+And when reading unfamiliar code, having every variable's type and
+having a marker for its first use are nice guideposts.
 
-
+If you have multiple variables of the same type, you can even declare them all on one line.
 
 (Klemens, 2015) C 101 pp. 347
 ```
