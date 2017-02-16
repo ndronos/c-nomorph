@@ -301,6 +301,13 @@ at this point. The angle brackets in `<stdio.h>` indicate that the library is on
 which is distinct from the library path.
 If a file is in the working diretory for the project, use `#include "myfile.h"`.
 
+The .h ending indicates that the file is a header file.
+Header files are plain code, and the compiler doesn't know a header from other code files,
+but the custom is to put only declarations in header files.
+
+After the preprocessor has done its work, almost everything in the file will either be a
+declaration of a variable or type, or the definition of a function.
+
 (Klemens, 2015) C 101 pp. 345-346
 ```
 - The Preprocessor pp. 166
