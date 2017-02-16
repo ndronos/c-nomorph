@@ -353,5 +353,17 @@ in the rest of the tutorial:
 - `man 3 printf`
 - `man printf`
 
+```
+Variable Declarations
+
+Declarations are a big difference between C and a lot of scripting languages that infer
+the type of a variable - and even its existence - via the first use.
+Above, I suggested that the compilation step is really a chance to do prerun checks
+to verify that your code has some chance of doing what you promised it does;
+declaring the type of each variable gives the compiler much of an oportunity to check
+that your writing is coherent. There is also a declaration syntax for functions and new types.
+
+(Klemens, 2015) C 101 pp. 346
+```
 
 
