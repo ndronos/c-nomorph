@@ -261,3 +261,8 @@ before running the program.
 (Klemens, 2015) C 101 pp. 344-345
 ```
 
+- Use a Package Manager pp. 2
+- Using Makefiles pp. 15
+- A Few of My Favorite Flags pp. 10
+
+
