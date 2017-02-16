@@ -366,4 +366,10 @@ that your writing is coherent. There is also a declaration syntax for functions 
 (Klemens, 2015) C 101 pp. 346
 ```
 
+```
+Variables have to be declared
+
+(Klemens, 2015) C 101 pp. 347
+```
+
 
