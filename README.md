@@ -226,4 +226,5 @@ clang: ... C based language family frontend for LLVM `C C++ Objective-C`... for 
 
 ## Make
 
+https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
