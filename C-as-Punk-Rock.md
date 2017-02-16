@@ -387,7 +387,39 @@ If you have multiple variables of the same type, you can even declare them all o
 ```
 Even functions have to be declared or defined
 
+The definiton of a fuction describes the full working of a function...
+...
+We can also split off the declaration as its own statement, which gives
+the name, the input types (in parens) and the output type (in front)...
+
+This doesn't tell us what... actually does, but it is sufficient for the compiler
+to consistency-check every use of the function, verifying... As with all declarations,
+this might be in a code file as-is, or it might be in a header file inserted via line
+like `#include "mydeclarations.h".
+
+ 
 
 (Klemens, 2015) C 101 pp. 347-348
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
