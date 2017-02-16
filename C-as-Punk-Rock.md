@@ -384,4 +384,10 @@ If you have multiple variables of the same type, you can even declare them all o
 ```
 - ten_pi.c
 
+```
+Even functions have to be declared or defined
+
+
+(Klemens, 2015) C 101 pp. 347-348
+```
 
