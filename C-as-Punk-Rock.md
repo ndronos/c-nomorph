@@ -265,4 +265,18 @@ before running the program.
 - Using Makefiles pp. 15
 - A Few of My Favorite Flags pp. 10
 
+```
+There's a standard library, and it's part of your operating system
+
+Programs in the present day are typically not completely standalone,
+but link libraries of common functions possibly used by more than one program.
+The library path is a list of directories on your hard drive
+that the compiler searches for such libraries; ...
+Key among these libraries is the C standard library,
+defined in the ISO C standard and about as close to universally available
+as computer code can be. This is where the `printf` function is defined.
+
+(Klemens, 2015) C 101 pp. 345
+```
+
 
