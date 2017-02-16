@@ -369,6 +369,12 @@ that your writing is coherent. There is also a declaration syntax for functions 
 ```
 Variables have to be declared
 
+There are three basic types that I used throughout the book: `int`, `double`, and `char`,
+which are short for integer, double-precision floating-point real number, and character.
+
+
+
+
 (Klemens, 2015) C 101 pp. 347
 ```
 
