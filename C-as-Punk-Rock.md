@@ -288,3 +288,6 @@ There's a preprocessor
 
 (Klemens, 2015) C 101 pp. 345-346
 ```
+- The Preprocessor pp. 166
+- Paths pp. 11
+ 
