@@ -293,8 +293,13 @@ If you include the approriate header in your program, the the compiler
 can do consistency checks to verify that your use of a function, variable, or type
 is consistent with what the binary code in the library expects.
 
-
-
+The primary activity of the preprocesor is to substitute the text of preprocessor directives
+(which all begin with a #) with other text.
+There are many uses, but the only use I'll cover in this appendix is including other files.
+When the preprocessor sees `#include <stdio.h>` it will substitute the full text of `stdio.h`
+at this point. The angle brackets in `<stdio.h>` indicate that the library is on the include path,
+which is distinct from the library path.
+If a file is in the working diretory for the project, use `#include "myfile.h"`.
 
 (Klemens, 2015) C 101 pp. 345-346
 ```
