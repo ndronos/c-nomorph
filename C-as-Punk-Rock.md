@@ -410,8 +410,14 @@ and above that the definition of functions called by `main`,
 and above those the definitions of functions called  by those functions,
 and so on up to the headers at the top of the file declaring all the library functions used.
 
+By the way, your functions can have `void` type, meaning that they return nothing.
+This is useful for functions that don't output or change variables but have other effects.
+...
+
 (Klemens, 2015) C 101 pp. 347-348
 ```
+- error_print.c
+
 
 
 
