@@ -313,3 +313,18 @@ declaration of a variable or type, or the definition of a function.
 - The Preprocessor pp. 166
 - Paths pp. 11
  
+
+```
+There are two types of comment
+
+/* Multiline comments run better a slash-star
+   and a star-slash   */
+
+// Single-line comments run from a double-slash to the end of the line.
+  
+
+(Klemens, 2015) C 101 pp. 346
+
+```
+
+
