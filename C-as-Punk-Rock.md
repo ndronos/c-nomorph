@@ -327,4 +327,11 @@ There are two types of comment
 
 ```
 
+```
+There is no print keyword
 
+The `printf` function from the standard library prints the text to the screen.
+It has its own sublanguage for precisely expressing how variables are printed.
+I won't give you a detailed explanation of its working because there are
+comprehensive descriptions of the `printf` sublanguage everywhere
+(try `man 3 printf` from your command line),
