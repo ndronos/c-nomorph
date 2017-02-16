@@ -401,6 +401,10 @@ A *block* is a unity of code to be treated as a unit, surrounded by curly braces
 Thus, a function definition is a declaration immediately followed by
 a single block of code to be executed when the function runs.
 
+If the full definition of the function is in your code before the use of the function,
+then the compiler has what it needs to do consistency checks, and you don't need to bother
+with a separate declaration.
+
 
 (Klemens, 2015) C 101 pp. 347-348
 ```
