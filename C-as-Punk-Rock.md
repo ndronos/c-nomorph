@@ -335,3 +335,20 @@ It has its own sublanguage for precisely expressing how variables are printed.
 I won't give you a detailed explanation of its working because there are
 comprehensive descriptions of the `printf` sublanguage everywhere
 (try `man 3 printf` from your command line),
+and because you'll see examples throughout this tutorial and throughout the book.
+The sublanguage consists of plain text interspersed with `insert variable here` markers
+and codes for invisible characters like tabs and newlines.
+Here are six elements that will get you by as you read examples of `printf`-family functions
+in the rest of the tutorial:
+
+    \n  Newline
+    \t  Tab
+    %i  Insert an integer value here
+    %g  Insert a real number in general format here
+    %s  Insert a string of text here
+    %%  Insert a plain percent sign here
+
+(Klemens, 2015) C 101 pp. 346
+```
+
+
