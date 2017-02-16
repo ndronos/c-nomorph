@@ -350,5 +350,8 @@ in the rest of the tutorial:
 
 (Klemens, 2015) C 101 pp. 346
 ```
+- `man 3 printf`
+- `man printf`
+
 
 
