@@ -397,7 +397,10 @@ to consistency-check every use of the function, verifying... As with all declara
 this might be in a code file as-is, or it might be in a header file inserted via line
 like `#include "mydeclarations.h".
 
- 
+A *block* is a unity of code to be treated as a unit, surrounded by curly braces.
+Thus, a function definition is a declaration immediately followed by
+a single block of code to be executed when the function runs.
+
 
 (Klemens, 2015) C 101 pp. 347-348
 ```
