@@ -15,7 +15,14 @@ void print_ratio(ratio_s r){
     printf("%i/%i= %g\n", r.numerator, r.denominator, r.value);
 }
 
-ratio_s ratio_add(ratio_s left, ratio_s right);
+ratio_s ratio_add(ratio_s left, ratio_s right){
+    return (ratio_s){
+        .numerator=left.numerator*right_denominator
+                     + right.numerator*left.denominator,
+        .denominator=left.denominator * right.denominator,
+        .value=left.value + right.value
+        };
+}
 
 int main() {
     ratio_s twothirds = new_ratio(2, 3);
