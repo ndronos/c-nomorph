@@ -17,7 +17,7 @@ void print_ratio(ratio_s r){
 
 ratio_s ratio_add(ratio_s left, ratio_s right){
     return (ratio_s){
-        .numerator=left.numerator*right_denominator
+        .numerator=left.numerator*right.denominator
                      + right.numerator*left.denominator,
         .denominator=left.denominator * right.denominator,
         .value=left.value + right.value
