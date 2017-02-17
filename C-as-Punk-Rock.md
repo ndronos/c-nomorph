@@ -418,6 +418,14 @@ This is useful for functions that don't output or change variables but have othe
 ```
 - error_print.c
 
+```
+Basic types can be aggregated into arrays and structs
+
+
+
+(Klemens, 2015) C 101 pp. 348-349
+```
+- item_seven.c
 
 
 
