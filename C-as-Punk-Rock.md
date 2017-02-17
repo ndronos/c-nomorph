@@ -483,7 +483,12 @@ There are other more terse (i.e., less legible) ways to initializea struct.
 ```
 - ratio_s.c
 
+```
+You can find out how much space a type takes
 
+
+(Klemens, 2015) C 101 pp. 350-351
+```
 
 
 
