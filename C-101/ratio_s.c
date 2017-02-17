@@ -11,7 +11,9 @@ ratio_s new_ratio(int num, int den){
     return (ratio_s){.numerator=num, .denominator=den, .value=num/(double)den};
 }
 
-void print_ratio(ratio_s r);
+void print_ratio(ratio_s r){
+    printf("%i/%i= %g\n", r.numerator, r.denominator, r.value);
+}
 
 ratio_s ratio_add(ratio_s left, ratio_s right);
 
