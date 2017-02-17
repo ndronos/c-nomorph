@@ -474,6 +474,10 @@ Heterogeneous types can be combined into a structured list (herein a 'struct')
 that can be treated as a unit. ...
 The type definition is basically a list of declarations inside curly braces.
 
+When using the defined struct, you'll see that there are a lot of dots...
+The means of setting up a new struct outside a declaration line looks like a type cast,
+with a type name in parens, followed by the dotted elements in curly braces.
+There are other more terse (i.e., less legible) ways to initializea struct.
 
 (Klemens, 2015) C 101 pp. 349-350
 ```
