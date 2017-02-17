@@ -486,6 +486,9 @@ There are other more terse (i.e., less legible) ways to initializea struct.
 ```
 You can find out how much space a type takes
 
+The `sizeof` operator can take a type name, and will tell you how much memory
+is required to write down an instance of that type.
+This is sometimes handy.
 
 (Klemens, 2015) C 101 pp. 350-351
 ```
