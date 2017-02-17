@@ -1,6 +1,16 @@
 # C Is Punk Rock
 
 ```
+  Preface                               pp. ix-xxi
+  ________________________________________________
+
+  C Is Punk Rock                             ix
+  Q & A (Or, the Parameters of the Book)      x
+  Standards: So Many to Choose From           xiii
+  Some Logistics                              xvii
+  ________________________________________________
+```
+```
   Appendix A. C 101   pp. 343-362
   _______________________________
 
