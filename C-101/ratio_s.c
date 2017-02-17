@@ -3,6 +3,8 @@
 #include <stdio.h>
 
 typedef struct {
+    int numerator, denominator;
+    double value;
 } ratio_s;
 
 ratio_s new_ratio(int num, int den);
