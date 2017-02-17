@@ -1,5 +1,16 @@
 # C Is Punk Rock
 
+```
+  Appendix A. C 101   pp. 343-362
+  _______________________________
+
+  The Structure               343
+  Variable Declarations       346
+  Expressions                 351
+  Pointers                    358
+  _______________________________
+```
+
 
 ```
 C has only a handful of keywords and is a bit rough the edges, and it rocks.
