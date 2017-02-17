@@ -421,6 +421,10 @@ This is useful for functions that don't output or change variables but have othe
 ```
 Basic types can be aggregated into arrays and structs
 
+How can one get any work done with only three basic types?
+By compounding them into arrays of homogeneous types,
+and structures of heteregeneous types.
+
 
 
 (Klemens, 2015) C 101 pp. 348-349
