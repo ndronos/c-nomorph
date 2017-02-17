@@ -425,6 +425,14 @@ How can one get any work done with only three basic types?
 By compounding them into arrays of homogeneous types,
 and structures of heteregeneous types.
 
+An array is list of identical typed elements.
+...
+
+The index is an *offset* from the first element.
+The first element is zero steps from the head of the array...
+This is another cause of panic and flame wars, but it has its own sense.
+
+
 
 
 (Klemens, 2015) C 101 pp. 348-349
