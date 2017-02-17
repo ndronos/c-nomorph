@@ -467,8 +467,16 @@ I try to stick with language like 'element 6 of the array'.
 - item_seven.c
 - the first item in the array is ...[0], the element 0 of the array
 
+```
+New structure types can be defined
+
+Heterogeneous types can be combined into a structured list (herein a 'struct')
+that can be treated as a unit. ...
+The type definition is basically a list of declarations inside curly braces.
 
 
+(Klemens, 2015) C 101 pp. 349-350
+```
 
 
 
