@@ -432,12 +432,20 @@ The index is an *offset* from the first element.
 The first element is zero steps from the head of the array...
 This is another cause of panic and flame wars, but it has its own sense.
 
+You can find a zeroth symphony from various composers...
+But in most situations, we use counting words like first, second, seventh
+that clash with offset numbering:
+the seventh item in the array is `array[6].
+I try to stick with language like `element 6 of the array`.
+
 
 
 
 (Klemens, 2015) C 101 pp. 348-349
 ```
 - item_seven.c
+- the first item in the array is ...[0], the element 0 of the array
+
 
 
 
