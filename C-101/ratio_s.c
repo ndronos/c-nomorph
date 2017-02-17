@@ -7,7 +7,9 @@ typedef struct {
     double value;
 } ratio_s;
 
-ratio_s new_ratio(int num, int den);
+ratio_s new_ratio(int num, int den){
+    return (ratio_s){.numerator=num, .denominator=den, .value=num/(double)den};
+}
 
 void print_ratio(ratio_s r);
 
