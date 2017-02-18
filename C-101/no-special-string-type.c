@@ -15,11 +15,12 @@ int main(){
  
 //  string.h
     char *str1 = "hello", str2[100];
-    strlen(str1);
-    printf("%lu \n", strlen(str1));   // long unsigned int   
+    printf("%lu \n", strlen(str1));   // long unsigned int   // strlen(str1);
+
 //    strncpy(str2, 100, str1);
 //    strncat(str2, 100, str1);
 //    strncmp(str1, str2);
+
     snprintf(str2, 100, "str1 says: %s", str1);
     printf("%s \n", str2);
   
