@@ -630,6 +630,10 @@ The second is side effect that a state has changed:
 the value of the variable.. is changed to...
 There are languages that strive to be more pure in evaluation,
 but C allows evaluations to have side effects that change state.
+You saw another example several times above:
+in the evaluation of `printf("hello\n")`,
+the expression is replaced by a zero on success,
+but the evaluation is useful for the side effect of changing the state of the screen.
 
 
 (Klemens, 2015) C 101 pp. 352-353
