@@ -560,12 +560,18 @@ If a variable is declared inside a block (including the block defining a functio
 then the variable is created at the declaration line and destroyed at the closing
 curly brace of the block.
 
+... notes on static variables, including how we can have long-lived variables inside a function.
+
 (Klemens, 2015) C 101 pp. 351
 ```
 - Persistent State Variables
 
+```
+The main function is special
 
 
+(Klemens, 2015) C 101 pp. 352-353
+```
 
 
 
