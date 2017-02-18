@@ -614,6 +614,9 @@ So the global variables have been set up,
 the operating system has prepared the inputs to `main`,
 and the program is starting to actually execute code int the `main` function block.
 
+From here on out, everything will be the declaration of a local variable, flow control
+(branching on an `if-else`, looping through a `while` loop),
+or the evaluation of an expression.
 
 
 (Klemens, 2015) C 101 pp. 352-353
