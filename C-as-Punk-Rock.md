@@ -531,6 +531,18 @@ because with enough intelligent functions,  string handling can be pleasant agai
 - no-special-string-type.c
 
 
+## Expressions
+
+```
+A program that does nothing but declare types, functions,
+and variables would be just a list of noums,
+so its time to move on to some verbs making use of our noums.
+C's mechanism for executing any sort of action is evaluation of an expression,
+and expressions are always grouped into functions.
+
+(Klemens, 2015) C 101 pp. 351
+```
+
 
 
 
