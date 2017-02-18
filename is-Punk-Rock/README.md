@@ -674,6 +674,9 @@ There are many shortcuts for incrementing or scaling a variable
 C has few pleasant shorthand expressions for arithmetic to modify a variable.
 We can shorten... Incrementing a variable by one is so common that there are
 two ways of doing it.
+Both x++ and ++x have the side effect of incrementing x,
+but   the evaluation of x++ replaces the expression with the preincrement   value of x,
+while the evaluation of ++x replaces the expression with the postinscrement value of x+1.
 
 
 (Klemens, 2015) C 101 pp. 354
