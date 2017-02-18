@@ -594,6 +594,14 @@ or
     int main(int argc, char** argv)
 
 
+You have already seen examples of the first version,
+where nothing comes in but a single integer comes out.
+That integer is generally treated as an error code,
+interpreted to indicate trouble if it is nonzero,
+and OK execution (reaching the end of `main` and exiting normally) if it is zero.
+This is such ingrained custom that the C standard specifies that there is an implied `return 0`;
+at the end of `main`...
+
 (Klemens, 2015) C 101 pp. 352-353
 ```
 
