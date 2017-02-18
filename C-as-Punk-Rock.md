@@ -573,6 +573,12 @@ When a program runs, the first thing that happens is the setup of the file-globa
 No math happens yet,so they can be assigned either a given a constant value
 (if declared like `int gv=24;`), or the default value of zero (if declared like `int gv`;).
 
+Scripting languages usually allow some instructions to be inside functions,
+and some loose in the main body of the script.
+Any C expresion that needs to be evaluated is in the body of a function,
+and the evaluations start with the main function.
+In... the... had to be inside of main, because getting... is too much math
+for the startup phase of the program.
 
 
 (Klemens, 2015) C 101 pp. 352-353
