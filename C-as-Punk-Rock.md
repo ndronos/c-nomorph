@@ -543,8 +543,13 @@ and expressions are always grouped into functions.
 (Klemens, 2015) C 101 pp. 351
 ```
 
+```
+The scoping rules for C are very simple
 
+The 'scope' of a variable is the range of the program over which it can be used.
 
+(Klemens, 2015) C 101 pp. 351
+```
 
 
 
