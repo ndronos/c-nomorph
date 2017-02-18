@@ -15,13 +15,17 @@ int main(){
  
 //  string.h
     char *str1 = "hello", str2[100];
-    printf("%lu \n", strlen(str1));   // long unsigned int   // strlen(str1);
+    printf("%lu \n", strlen(str1));   // long unsigned int
+//  strlen(str1);                     //get the length up to but excluding the '\0'
 
-//    strncpy(str2, 100, str1);       // warning... note...
+//    strncpy(str2, 100, str1);       //copy at most 100 bytes from str1 to str2
+                                      // warning... note...
 
-//    strncat(str2, 100, str1);       // warning... note...
+//    strncat(str2, 100, str1);       /append at most 100 bytes from str1 onto str2
+                                      // warning... note...
 
-//    strncmp(str1, str2);            // error: too few arguments to function ‘strncmp’
+//    strncmp(str1, str2);            //writing to a string, as above
+                                      // error: too few arguments to function ‘strncmp’
 
     snprintf(str2, 100, "str1 says: %s", str1);
     printf("%s \n", str2);
