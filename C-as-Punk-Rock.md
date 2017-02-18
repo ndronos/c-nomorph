@@ -618,6 +618,13 @@ From here on out, everything will be the declaration of a local variable, flow c
 (branching on an `if-else`, looping through a `while` loop),
 or the evaluation of an expression.
 
+... consider what the systemhas to do to evaluate...
+After the declarations, the line... requires first evaluating the expression...
+then evaluating... expression... which can be replaced with...
+This is exactly how we humans do it when facing an expression like this,
+but C carries this evaluate-and-substitute principle further.
+
+
 
 (Klemens, 2015) C 101 pp. 352-353
 ```
