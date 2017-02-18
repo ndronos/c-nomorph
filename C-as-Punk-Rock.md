@@ -580,6 +580,19 @@ and the evaluations start with the main function.
 In... the... had to be inside of main, because getting... is too much math
 for the startup phase of the program.
 
+Because the main function is effectively called by the operating system,
+its declaration must have one of two forms that the OS knows how to use:
+
+either
+
+    int main(void)          //which can be written as
+    int main()
+
+or
+
+    int main(int, char**)             //where the two inputs are customarily named:
+    int main(int argc, char** argv)
+
 
 (Klemens, 2015) C 101 pp. 352-353
 ```
