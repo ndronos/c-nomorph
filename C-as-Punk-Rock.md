@@ -548,6 +548,15 @@ The scoping rules for C are very simple
 
 The 'scope' of a variable is the range of the program over which it can be used.
 
+If a variable is declared outside of a function, then it can be used by any expression
+from the declaration until the end of the file.
+Any function in that range can make use of that variable.
+Such variables are initialized at the start of the program and persists
+until the program terminates.
+They are referred to as static variables, perhaps because they sit in one place
+for the entire program.
+
+
 (Klemens, 2015) C 101 pp. 351
 ```
 
