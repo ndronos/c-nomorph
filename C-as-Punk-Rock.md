@@ -635,6 +635,8 @@ in the evaluation of `printf("hello\n")`,
 the expression is replaced by a zero on success,
 but the evaluation is useful for the side effect of changing the state of the screen.
 
+After all those substitutions, we'd be left with only... on the line.
+With nothing left to evaluate, the system moves on to the next line.
 
 (Klemens, 2015) C 101 pp. 352-353
 ```
