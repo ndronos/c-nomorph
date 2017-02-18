@@ -17,7 +17,7 @@ int main(){
     char *str1 = "hello", str2[100];
     printf("%lu \n", strlen(str1));   // long unsigned int   // strlen(str1);
 
-//    strncpy(str2, 100, str1);
+//    strncpy(str2, 100, str1);       // warning... note...
 
 //    strncat(str2, 100, str1);       // warning... note...
 
