@@ -671,6 +671,9 @@ and tabs anywhere they would improve readability.
 ```
 There are many shortcuts for incrementing or scaling a variable
 
+C has few pleasant shorthand expressions for arithmetic to modify a variable.
+We can shorten... Incrementing a variable by one is so common that there are
+two ways of doing it.
 
 
 (Klemens, 2015) C 101 pp. 354
