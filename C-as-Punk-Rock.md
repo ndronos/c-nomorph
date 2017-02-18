@@ -569,9 +569,25 @@ curly brace of the block.
 ```
 The main function is special
 
+When a program runs, the first thing that happens is the setup of the file-global variables...
+No math happens yet,so they can be assigned either a given a constant value
+(if declared like `int gv=24;`), or the default value of zero (if declared like `int gv`;).
+
+
 
 (Klemens, 2015) C 101 pp. 352-353
 ```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
