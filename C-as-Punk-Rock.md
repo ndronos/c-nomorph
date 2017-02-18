@@ -501,9 +501,11 @@ type output produced by `sizeof`.
 ```
 There is no special string type
 
-...
+Both the integer 5100 and the integer 51 take up `sizeof(int) space.
+But "Hi" and "Hello" are strings of different number of characters.
+Scripting languages typically have a dedicated string type,
+which manages lists of indeterminate number of characters for you.
 A string in C is an array of `char`s, pure and simple.
-
 
 The end of a string is marked with a NUL character, '\0',
 though it is never printed and is usually taken care for you.
