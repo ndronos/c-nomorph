@@ -645,7 +645,12 @@ With nothing left to evaluate, the system moves on to the next line.
 ```
 Functions are evaluated using copies of the inputs
 
-
+... a copy of the value of... is handed to the function, not.. itself.
+That means that the function has no way to modify the value of... itself.
+If you have function code that looks like it is modifying an input,
+it is really modifying a copy of the input's value.
+A workaround for when we want to modify the variables sent to a function call
+will be presented below.
 
 
 (Klemens, 2015) C 101 pp. 353
