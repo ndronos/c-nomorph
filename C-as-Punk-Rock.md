@@ -607,9 +607,17 @@ at the end of `main`...
 - Don't bother Explicitly Returning from main
 
 
+```
+Most of what a C program actually does is evaluate expressions
+
+So the global variables have been set up, 
+the operating system has prepared the inputs to `main`,
+and the program is starting to actually execute code int the `main` function block.
 
 
 
+(Klemens, 2015) C 101 pp. 352-353
+```
 
 
 
