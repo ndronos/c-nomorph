@@ -505,6 +505,24 @@ There is no special string type
 A string in C is an array of `char`s, pure and simple.
 
 
+The end of a string is marked with a NUL character, '\0',
+though it is never printed and is usually taken care for you.
+(Note that single characters are given single-ticks,
+like 'x', while strings are given double-ticks, like "xx" or
+the one-character string "x".)
+The function `strlen(mystring)` will count
+the number of characters up to (but not including) that NUL character.
+How much space was allocated for the string is anothe matter entirely:
+you could easily declare char pants[1000] = "trousers",
+though you are wasting 991 bytes after the NUL character.
+
+Some things  are surprisingly easy thanks to the array nature of strings.
+...
+
+But most of what you want to do with a string involves calling a library function
+to do the byte-twiddling for you... making life easier with strings,
+because with enough intelligent functions,  string handling can be pleasant again.
+
 (Klemens, 2015) C 101 pp. 350
 ```
 
