@@ -20,8 +20,8 @@ int main(){
 //    strncpy(str2, 100, str1);
 //    strncat(str2, 100, str1);
 //    strncmp(str1, str2);
-//    snprintf(str2, 100, "str1 says: %s", str1);
-
+    snprintf(str2, 100, "str1 says: %s", str1);
+    printf("%s \n", str2);
   
 /*
     printf("size of two ints: %zu\n", 2*sizeof(int));
