@@ -525,7 +525,7 @@ But most of what you want to do with a string involves calling a library functio
 to do the byte-twiddling for you... making life easier with strings,
 because with enough intelligent functions,  string handling can be pleasant again.
 
-(Klemens, 2015) C 101 pp. 350
+(Klemens, 2015) C 101 pp. 350-351
 ```
 - Chapter 9
 - no-special-string-type.c
