@@ -8,8 +8,13 @@
 int main(){
 
     char* str = "Hello";
-    str[4]='\0';
     printf("%s \n", str);   
+
+    str[4]='\0'; // warning: format specifies type 'double' but the argument has type 'char *' [-Wformat]
+    printf("%s \n", str); // Segmentation fault (core dumped)
+//  printf("%f \n", str); // warning: format ‘%f’ expects argument of type ‘double’, but argument 2 has type ‘char *’ [-Wformat=]
+ 
+ 
   
 /*
     printf("size of two ints: %zu\n", 2*sizeof(int));
