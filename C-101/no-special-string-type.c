@@ -18,7 +18,8 @@ int main(){
     printf("%lu \n", strlen(str1));   // long unsigned int   // strlen(str1);
 
 //    strncpy(str2, 100, str1);
-//    strncat(str2, 100, str1);
+
+//    strncat(str2, 100, str1);       // warning... note...
 
 //    strncmp(str1, str2);            // error: too few arguments to function ‘strncmp’
 
