@@ -678,6 +678,14 @@ Both x++ and ++x have the side effect of incrementing x,
 but   the evaluation of x++ replaces the expression with the preincrement   value of x,
 while the evaluation of ++x replaces the expression with the postinscrement value of x+1.
 
+    x++;  //increment x. Evaluates to x.
+    ++x;  //increment x. Evaluates to x+1.
+
+    x--;  //decrement x. Evaluates to x.
+    --x;  //decrement x. Evaluates to x-1.
+
+
+
 
 (Klemens, 2015) C 101 pp. 354
 ```
