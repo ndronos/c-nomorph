@@ -624,6 +624,12 @@ then evaluating... expression... which can be replaced with...
 This is exactly how we humans do it when facing an expression like this,
 but C carries this evaluate-and-substitute principle further.
 
+In the evaluation of the expression... two things occur.
+The first is the replacement of the expression with the value...
+The second is side effect that a state has changed:
+the value of the variable.. is changed to...
+There are languages that strive to be more pure in evaluation,
+but C allows evaluations to have side effects that change state.
 
 
 (Klemens, 2015) C 101 pp. 352-353
