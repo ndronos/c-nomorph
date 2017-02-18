@@ -556,6 +556,9 @@ until the program terminates.
 They are referred to as static variables, perhaps because they sit in one place
 for the entire program.
 
+If a variable is declared inside a block (including the block defining a function),
+then the variable is created at the declaration line and destroyed at the closing
+curly brace of the block.
 
 (Klemens, 2015) C 101 pp. 351
 ```
