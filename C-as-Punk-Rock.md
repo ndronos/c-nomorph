@@ -527,7 +527,7 @@ because with enough intelligent functions,  string handling can be pleasant agai
 
 (Klemens, 2015) C 101 pp. 350
 ```
-
+- Chapter 9
 
 
 
