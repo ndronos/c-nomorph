@@ -695,7 +695,7 @@ while the evaluation of ++x replaces the expression with the postinscrement valu
 
 (Klemens, 2015) C 101 pp. 354
 ```
-
+- shortcuts-for-scaling-variable.c
 
 
 
