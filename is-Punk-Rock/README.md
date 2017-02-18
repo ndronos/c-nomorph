@@ -668,7 +668,13 @@ and tabs anywhere they would improve readability.
 (Klemens, 2015) C 101 pp. 354
 ```
 
+```
+There are many shortcuts for incrementing or scaling a variable
 
+
+
+(Klemens, 2015) C 101 pp. 354
+```
 
 
 
