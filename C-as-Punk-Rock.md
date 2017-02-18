@@ -604,6 +604,8 @@ at the end of `main`...
 
 (Klemens, 2015) C 101 pp. 352-353
 ```
+- Don't bother Explicitly Returning from main
+
 
 
 
