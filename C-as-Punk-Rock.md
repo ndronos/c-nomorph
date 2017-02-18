@@ -660,10 +660,24 @@ will be presented below.
 ```
 Expressions are delimited by semicolons
 
-
+Yes, C uses semmicolons to delimit expressions.
+This is a contentious stylistic choice,
+but it allow you to put newlines, extra spaces,
+and tabs anywhere they would improve readability.
 
 (Klemens, 2015) C 101 pp. 354
 ```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
