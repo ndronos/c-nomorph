@@ -19,7 +19,8 @@ int main(){
 
 //    strncpy(str2, 100, str1);
 //    strncat(str2, 100, str1);
-//    strncmp(str1, str2);
+
+//    strncmp(str1, str2);            // error: too few arguments to function ‘strncmp’
 
     snprintf(str2, 100, "str1 says: %s", str1);
     printf("%s \n", str2);
