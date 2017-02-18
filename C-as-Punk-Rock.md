@@ -642,8 +642,14 @@ With nothing left to evaluate, the system moves on to the next line.
 ```
 
 
+```
+Functions are evaluated using copies of the inputs
 
 
+
+
+(Klemens, 2015) C 101 pp. 353
+```
 
 
 
