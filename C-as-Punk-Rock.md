@@ -498,7 +498,15 @@ type output produced by `sizeof`.
 ```
 - sizeof.c
 
+```
+There is no special string type
 
+...
+A string in C is an array of `char`s, pure and simple.
+
+
+(Klemens, 2015) C 101 pp. 350
+```
 
 
 
