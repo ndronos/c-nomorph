@@ -21,17 +21,11 @@ int main(){
     printf("%d \t\t\t\t",   x||y);              printf("  x||y              \n");
     printf("%d \t\t\t\t",   x&&y);              printf("  x&&y              \n");
 
-/*
-    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
-    x > y || y >= z     //x is greather than y or is greater than or equal to z
+    int z=2000;                                 printf("\n");
 
-    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
+    printf("%d \t\t\t\t",   z);                 printf("                z   \n");
 
-
-
-    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
-
-*/
+    printf("%d \t\t\t\t",   y > y || y >= z );  printf("  x > y || y >= z   \n");
 
                                                 printf("\n");
 
