@@ -821,6 +821,7 @@ The `for` loop is just a compact version of the while loop
 (Klemens, 2015) C 101 pp. 357-358
 ```
 - for_loop.c
+- for_loop2.c
 
 
 
