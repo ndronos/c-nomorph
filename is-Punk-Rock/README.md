@@ -701,6 +701,14 @@ while the evaluation of ++x replaces the expression with the postinscrement valu
 ```
 C has an expensive definition of truth
 
+We will sometimes need to know whether an expression is true or false,
+such as deciding which branch to choose in a if-else construction.
+There are no true and false keywords in C,
+though they are commonly defined...
+Instead, if the expression is zero (or the NUL character '\0', or a NULL pointer),
+then the expression is taken to be false;
+if it is anything else at all, it is taken to be true.
+
 
 
 (Klemens, 2015) C 101 pp. 354-355
