@@ -816,6 +816,16 @@ But the `do-while` loop is garanteed to run at least once.
 ```
 The `for` loop is just a compact version of the while loop
 
+Traffic control for the `while` loop had three parts:
+
+  - The initializer `int i=0`
+  - The test condition `i < 10`
+  - The stepper `i++`
+
+The `for` loop encapsulates all of these into one place.
+...
+
+Because this block is one line, even the curly braces are optional...
 
 
 (Klemens, 2015) C 101 pp. 357-358
