@@ -827,6 +827,15 @@ The `for` loop encapsulates all of these into one place.
 
 Because this block is one line, even the curly braces are optional...
 
+...
+
+On the other hand, this form is easy to modify for different situations.
+If you need to steep by two, you want `for (int i=0; i<=100; i+=2)`.
+...
+You can leave any of the elements blank,
+so if you are initializing a new variable,
+you might wind up with something like `for (       ; i<=100; i++)`.
+
 
 (Klemens, 2015) C 101 pp. 357-358
 ```
