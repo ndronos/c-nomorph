@@ -698,6 +698,21 @@ while the evaluation of ++x replaces the expression with the postinscrement valu
 - shortcuts-for-scaling-variable.c
 
 
+```
+C has an expensive definition of truth
+
+
+
+(Klemens, 2015) C 101 pp. 354-355
+```
+
+
+
+
+
+
+
+
 
 
 
