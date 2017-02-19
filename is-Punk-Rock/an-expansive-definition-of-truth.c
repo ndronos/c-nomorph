@@ -10,27 +10,42 @@ int main(){
     printf("%d \t\t\t\t",  !x);                 printf(" !x              \n");
     printf("%d \t\t\t\t", !!x);                 printf("!!x              \n");
 
+    int y=900;                                  printf("\n");
 
+    printf("%d \t\t\t\t",   y);                 printf("     y              \n");
 
-                                                printf("\n");
+    printf("%d \t\t\t\t",   x==y);              printf("  x==y              \n");
+
 
 /*
-
-    !x                  //not x
-    x==y                //x equals y
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x != y              //x is not equal to y
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x < y               //x is less than y
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x <= y              //x is less than equal to y
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x || y              //x or y
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x && y              //x and y
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x > y || y >= z     //x is greather than y or is greater than or equal to z
 
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
 
-For example, if `x` is any nonzero value, then `!x` evaluates to zero,
-and `!!x` evaluates to one.
+
+
+    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
 
 */
 
+                                                printf("\n");
 
 
 }
+
