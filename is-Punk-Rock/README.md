@@ -741,6 +741,12 @@ is left ignored and unevaluated...
 ```
 Dividing two integers always produce an integer
 
+Many authors prefer to avoid floating-point real numbers to the greatest extent possible,
+because integers are processed faster without roundoff errors.
+C facilitates this by having three distinct operators:
+real division, integer division, and modulo.
+The firts two happen to look identical.
+
 
 (Klemens, 2015) C 101 pp. 355
 ```
