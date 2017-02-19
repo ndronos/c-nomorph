@@ -747,9 +747,22 @@ C facilitates this by having three distinct operators:
 real division, integer division, and modulo.
 The firts two happen to look identical.
 
+...
+The expression '3.' is a floating-point real number, and
+if there is a real number in the numerator or denominator,
+then floating-point division happens,
+producing a floating-point result.
+If both numerator and denominator are integers,
+then the result is the integer you would get
+from doing the division with real numbers and
+then rounding toward zero to an integer.
+The modulo operator, '%', gives the remainder.
+
+
 
 (Klemens, 2015) C 101 pp. 355
 ```
+- divisions.c
 - Cast Less pp. 145
 
 
