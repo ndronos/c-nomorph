@@ -734,6 +734,8 @@ is left ignored and unevaluated...
 (Klemens, 2015) C 101 pp. 354-355
 ```
 - an-expansive-definition-of-truth.c
+- True and False pp. 183
+- _Generic pp. 271
 
 
 
