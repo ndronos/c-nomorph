@@ -29,11 +29,9 @@ int main(){
 
     printf("\n\n");
 
-    int w=10; printf("%d \n", w);
-              printf("%d \n", ++w);
-              printf("%d \n", w);
-              printf("%d \n", --w);
-              printf("%d \n", w);
+    int w=10; printf("\t%d \n", w);
+              printf("++%d \t", ++w); printf("%d \n", w);
+              printf("--%d \t", --w); printf("%d \n", w);
 
 
 
