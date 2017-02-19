@@ -800,7 +800,10 @@ is run through if the condition is true.
 The `while` loop repeats a block until the given condition is false.
 ...
 
-
+If the controlling condition in parens after the `while` keyword is false on the first try,
+then the body of the `while` loop will be skipped entirely.
+But the `do-while` loop is garanteed to run at least once.
+...
 
 
 (Klemens, 2015) C 101 pp. 355-356
