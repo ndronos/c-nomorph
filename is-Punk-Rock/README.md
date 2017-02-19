@@ -806,11 +806,26 @@ But the `do-while` loop is garanteed to run at least once.
 ...
 
 
-(Klemens, 2015) C 101 pp. 355-356
+(Klemens, 2015) C 101 pp. 356-357
 ```
 - if_else.c
 - while.c
 - do-while.c
+
+
+```
+The `for` loop is just a compact version of the while loop
+
+
+
+(Klemens, 2015) C 101 pp. 357-358
+```
+- for_loop.c
+
+
+
+
+
 
 
 
