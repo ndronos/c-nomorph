@@ -709,6 +709,24 @@ Instead, if the expression is zero (or the NUL character '\0', or a NULL pointer
 then the expression is taken to be false;
 if it is anything else at all, it is taken to be true.
 
+Conversely, all of these expressions evaluate to either zero or one:
+
+
+    !x                  //not x
+    x==y                //x equals y
+    x != y              //x is not equal to y
+    x < y               //x is less than y
+    x <= y              //x is less than equal to y
+    x || y              //x or y
+    x && y              //x and y
+    x > y || y >= z     //x is greather than y or is greater than or equal to z
+
+
+For example, if `x` is any nonzero value, then `!x` evaluates to zero,
+and `!!x` evaluates to one.
+
+
+
 
 
 (Klemens, 2015) C 101 pp. 354-355
