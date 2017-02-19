@@ -767,8 +767,25 @@ typecast the denominator via `num/(double)den`.
 - divisions.c
 - Cast Less pp. 145
 
+```
+C has a trinary conditional operator
+
+The expression
+
+    x ? a : b
+
+evaluates to `a` if `x`is true, and to `b` if `x` is false.
+
+I used to think this was illegible, and few  scripting languages have such an operator,
+but it has grown on me for its great utility.
+Being just another expression, we can put anywhere...
+
+The trinary conditional operator has the same short-circuit behaviour as `&&` and `||`...
+if `x`, then `b` is never evaluated.
 
 
+(Klemens, 2015) C 101 pp. 355
+```
 
 
 
