@@ -795,6 +795,12 @@ Branching and looping expressions are not very different from any other language
 Probably the only unique point about `if-else` statements in C is that there is no `then` keyword.
 Parens mark the condition to be evaluated, and then the following expression or block
 is run through if the condition is true.
+...
+
+The `while` loop repeats a block until the given condition is false.
+...
+
+
 
 
 (Klemens, 2015) C 101 pp. 355-356
