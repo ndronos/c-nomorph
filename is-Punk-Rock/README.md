@@ -738,6 +738,21 @@ is left ignored and unevaluated...
 - _Generic pp. 271
 
 
+```
+Dividing two integers always produce an integer
+
+
+(Klemens, 2015) C 101 pp. 355
+```
+- Cast Less pp. 145
+
+
+
+
+
+
+
+
 
 
 
