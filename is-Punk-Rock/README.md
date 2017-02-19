@@ -725,8 +725,10 @@ Conversely, all of these expressions evaluate to either zero or one:
 For example, if `x` is any nonzero value, then `!x` evaluates to zero,
 and `!!x` evaluates to one.
 
-
-
+The && and || are lazy, and will evaluate only as much of the expression
+as is necessary to stablish the truth or falsehood of the whole.
+... evaluates... without even looking at the second half of the expression...
+is left ignored and unevaluated...
 
 
 (Klemens, 2015) C 101 pp. 354-355
