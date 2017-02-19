@@ -27,6 +27,15 @@ int main(){
               printf("%d \n", y--);
               printf("%d \n", y);
 
+    printf("\n\n");
+
+    int w=10; printf("%d \n", w);
+              printf("%d \n", ++w);
+              printf("%d \n", w);
+              printf("%d \n", --w);
+              printf("%d \n", w);
+
+
 
 
 }
