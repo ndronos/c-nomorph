@@ -4,20 +4,20 @@
 
 int main(){
 
-    
+    int x=100;                                    printf("%d \n", x);    
 
-    x++;  //increment x. Evaluates to x.
-    ++x;  //increment x. Evaluates to x+1.
+    x++;  /*increment x. Evaluates to x.  */      printf("%d \n", x);    
+    ++x;  /*increment x. Evaluates to x+1.*/      printf("%d \n", x);
 
-    x--;  //decrement x. Evaluates to x.
-    --x;  //decrement x. Evaluates to x-1.
+    x--;  /*decrement x. Evaluates to x   */      printf("%d \n", x);
+    --x;  /*decrement x. Evaluates to x-1.*/      printf("%d \n", x);
 
 
-    x+=3; //add 3 to x.
-    x-=7; //subtract 7 from x.
-    x*=2; //multiply x by 2.
-    x/=2; //divide x by 2.
-    x%=2; //replace x with modulo.
+    x+=3; /*add 3 to x.*/                         printf("%d \n", x);
+    x-=7; /*subtract 7 from x.*/                  printf("%d \n", x);
+    x*=2; /*multiply x by 2.*/                    printf("%d \n", x);
+    x/=2; /*divide x by 2.*/                      printf("%d \n", x);
+    x%=2; /*replace x with modulo.*/              printf("%d \n", x);
 
 
 }
