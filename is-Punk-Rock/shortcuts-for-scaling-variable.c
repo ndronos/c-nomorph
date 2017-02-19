@@ -21,15 +21,13 @@ int main(){
 
     printf("\n\n");
 
-    int y=10; printf("%d \n", y);
-              printf("%d \n", y++);
-              printf("%d \n", y);
-              printf("%d \n", y--);
-              printf("%d \n", y);
+    int y=0;  printf("\t%d \n", y);
+              printf("%d++ \t", y++); printf("%d \n", y);
+              printf("%d-- \t", y--); printf("%d \n", y);
 
     printf("\n\n");
 
-    int w=10; printf("\t%d \n", w);
+    int w=0;  printf("\t%d \n", w);
               printf("++%d \t", ++w); printf("%d \n", w);
               printf("--%d \t", --w); printf("%d \n", w);
 
