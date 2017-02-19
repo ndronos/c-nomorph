@@ -17,10 +17,9 @@ int main(){
     printf("%d \t\t\t\t",   x==y);              printf("  x==y              \n");
     printf("%d \t\t\t\t",   x!=y);              printf("  x!=y              \n");
     printf("%d \t\t\t\t",   x<y);               printf("  x<y               \n");
-/*
-    printf("%d \t\t\t\t",   y);                 printf("  y              \n");
-    x <= y              //x is less than equal to y
+    printf("%d \t\t\t\t",   x<=y);              printf("  x<=y              \n");
 
+/*
     printf("%d \t\t\t\t",   y);                 printf("  y              \n");
     x || y              //x or y
 
