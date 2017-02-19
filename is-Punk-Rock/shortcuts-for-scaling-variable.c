@@ -19,5 +19,14 @@ int main(){
     x/=2; /*divide x by 2.*/                      printf("%d \n", x);
     x%=2; /*replace x with modulo.*/              printf("%d \n", x);
 
+    printf("\n\n");
+
+    int y=10; printf("%d \n", y);
+              printf("%d \n", y++);
+              printf("%d \n", y);
+              printf("%d \n", y--);
+              printf("%d \n", y);
+
+
 
 }
