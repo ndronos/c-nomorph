@@ -758,6 +758,8 @@ from doing the division with real numbers and
 then rounding toward zero to an integer.
 The modulo operator, '%', gives the remainder.
 
+The difference between floating-point and integer division is why...
+typecast the denominator via `num/(double)den`.
 
 
 (Klemens, 2015) C 101 pp. 355
