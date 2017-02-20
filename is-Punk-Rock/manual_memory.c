@@ -9,7 +9,16 @@
 
 int main(){
 
+    int *intspace = malloc(3000*sizeof(int));
+    for (int i=0; i < 3000; i++)
+        inspace[i] = i;
 
+    FILE *cf = fopen("counter_file.txt", "w");
+    for (int i=0; i < 3000; i++)
+        fprintf(cf, "%i\n", intspace[i]);
+
+    free(intspace);
+    fclose(cf);
 
 }
 
