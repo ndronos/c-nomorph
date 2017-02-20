@@ -940,10 +940,12 @@ If we have a pointer to any contiguous span of memory,
 the same operations of finding the location and stepping forward
 could be done with the pointer.
 
+...
 
 
 (Klemens, 2015) C 101 pp. 359-360
 ```
+- manual_memory.c
 - Chapter 6
 
 
