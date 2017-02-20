@@ -928,6 +928,11 @@ Arrays are just blocks of memory; any block of memory can be used like an array
 ... I discuss exactly how arrays and pointers are and are not identical,
 but they certainly have a lot in common.
 
+In memory, an array is a contigous span set aside for one data type.
+If you request element 6 of an array declared a `int list[100]`,
+the system would start at wherever the list is located,
+then step `6*sizeof(int)` bytes down.
+
 
 
 (Klemens, 2015) C 101 pp. 359-360
