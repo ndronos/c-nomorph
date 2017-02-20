@@ -1024,6 +1024,12 @@ The copy of a pointer refers to the same space
 that the original pointer refers to.
 ... using this strategy to modify what the input refers to...
 
+This workaround is common, so you will find many functions that take in a pointer,
+not a plain value.
+But sometimes you will want to use those functions to operate on a plain value.
+In these cases, you can use the ampersand (&) toget the address of the variable.
+That is, if x is a variable, &x is a pointer to that variable.
+This simplifies the... code...
 
 (Klemens, 2015) C 101 pp. 360-361
 ```
