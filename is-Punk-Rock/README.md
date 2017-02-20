@@ -1045,11 +1045,27 @@ But you cand send a pointer toa function to a function,
 and you can have arrays of pointers to functions.
 ...
 
+Functions that don't really care what data is present,
+but only handle pointers to data, are surprisingly common.
+For example, a function thaat builds a linked list doesn't care
+what data it is linking together, only where it is located.
+To give another example, we can pass pointers to functions,
+so you could have a function whose sole purpose is to run other functions,
+and the inputs to those  called functions can be pointed to
+whithout regard to their content.
+In these cases, C provides an out from the type system, the void pointer.
+Given the declaration
+
+    void *x;
+
+the pointer `x` can be pointing to a function, a struct, an integer, or anything else.
+See... how void pointers can be used for all sorts of purposes. 
+
 
 (Klemens, 2015) C 101 pp. 362
 ```
 - Typedef as a teaching tool pp. 139
-
+- The Void Pointer and the Structures It Points To pp 234
 
 
 
