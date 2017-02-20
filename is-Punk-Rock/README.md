@@ -885,7 +885,9 @@ where the original does not affect the copy.
 You cand directly request a block of memory
 
 The `malloc` function allocates memory for use by the program.
-For example, we might allocate enough space for 3,000 integers via: `malloc(3000*sizeof(int));
+For example, we might allocate enough space for 3,000 integers via: 
+
+    `malloc(3000*sizeof(int));
 
 This is the first mention of memory allocation in this tutorial
 because the declarations... like `int list[100]`auto-allocate memory.
@@ -897,6 +899,13 @@ This sort of longevity is sometimes desirable.
 Also, an array cannot be resized after it is initialized,
 whereas manually allocated memoty can be.
 Other differences between manually and automatically allocated memory ...
+
+Now that we've allocated this space, how do we refer to it?
+This is where pointers come in, because we can assign an alias to the `malloc`ed space:
+
+    `int * intspace = malloc(3000*sizeof(int));
+
+The star on the declaration (int *) indicates that we are declaring a pointer to a location.
 
 
 
