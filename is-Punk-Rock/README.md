@@ -982,9 +982,22 @@ a star on any other line indicates the value being pointed to.
 - assert.c
 
 
+```
+There is a special notation for elements of pointed-to structs
+
+Given the declaration
+
+    ratio_s *pr;
+
+we know that `pr` is a pointer to a `ratio_s`, not a `ratio_s` itself.
+The size of `pr` in memory is exactly as much as is required to hold a single pointer,
+not a full `ratio_s` structure.
 
 
 
+
+(Klemens, 2015) C 101 pp. 359-360
+```
 
 
 
