@@ -1031,9 +1031,10 @@ In these cases, you can use the ampersand (&) toget the address of the variable.
 That is, if x is a variable, &x is a pointer to that variable.
 This simplifies the... code...
 
-(Klemens, 2015) C 101 pp. 360-361
+(Klemens, 2015) C 101 pp. 361-362
 ```
 - pointer_in.c
+- address_in.c
 
 
 
