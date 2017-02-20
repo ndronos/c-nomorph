@@ -941,6 +941,15 @@ the same operations of finding the location and stepping forward
 could be done with the pointer.
 
 ...
+    int *intspace = malloc(3000*sizeof(int));
+
+Memory reserved via `malloc` can be reliably used by the program,
+but it is not initialized and so many contain any sort of unknown junk.
+Allocate and clear to all zeros with:
+
+    int *intspace = calloc(3000, sizeof(int));
+
+Notice that this takes two numbers as input, while `malloc` takes one.
 
 
 (Klemens, 2015) C 101 pp. 359-360

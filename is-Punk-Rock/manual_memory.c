@@ -12,7 +12,8 @@
 
 int main(){
 
-    int *intspace = malloc(3000*sizeof(int));
+    int *intspace = calloc(3000, sizeof(int));  // Allocate and clear to all zeros
+//  int *intspace = malloc(3000*sizeof(int));
     for (int i=0; i < 3000; i++)
         intspace[i] = i;
 
