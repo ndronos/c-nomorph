@@ -907,6 +907,14 @@ This is where pointers come in, because we can assign an alias to the `malloc`ed
 
 The star on the declaration (int *) indicates that we are declaring a pointer to a location.
 
+Memory is a finite resource, so indiscriminate use will eventually cause
+the sort out-of-memory errors that have bothered us all at one time or another.
+Free memory back to the system via `free` function; e.g.:
+
+    `free(intspace)`
+
+Or just wait until the end of the program, when the operating system deallocates 
+all memory used by your program for you.
 
 
 (Klemens, 2015) C 101 pp. 358-359
