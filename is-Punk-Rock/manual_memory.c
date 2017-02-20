@@ -7,11 +7,14 @@
     but for demonstration purposes, here it is:
 */
 
+#include <stdlib.h> // malloc and free
+#include <stdio.h>
+
 int main(){
 
     int *intspace = malloc(3000*sizeof(int));
     for (int i=0; i < 3000; i++)
-        inspace[i] = i;
+        intspace[i] = i;
 
     FILE *cf = fopen("counter_file.txt", "w");
     for (int i=0; i < 3000; i++)
