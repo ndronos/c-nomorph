@@ -887,6 +887,10 @@ You cand directly request a block of memory
 The `malloc` function allocates memory for use by the program.
 For example, we might allocate enough space for 3,000 integers via: `malloc(3000*sizeof(int));
 
+This is the first mention of memory allocation in this tutorial
+because the declarations... like `int list[100]`auto-allocate memory.
+When the scope in which the declaration was made comes to a close,
+auto-allocated memory is auto-allocated.
 
 
 
