@@ -1037,7 +1037,18 @@ This simplifies the... code...
 - address_in.c
 
 
+```
+Everything is somewhere, so everything can be pointed to
 
+You can't send a function to another function, and you can't have arrays of functions.
+But you cand send a pointer toa function to a function,
+and you can have arrays of pointers to functions.
+...
+
+
+(Klemens, 2015) C 101 pp. 362
+```
+- Typedef as a teaching tool pp. 139
 
 
 
