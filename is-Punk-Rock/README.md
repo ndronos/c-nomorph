@@ -862,8 +862,16 @@ you might wind up with something like `for (       ; i<=100; i++)`.
 - for_loop2.c
 
 
+```
+# Pointers
+
+Pointers to variables are sometimes called aliases, references, or labels
+(though C has unrelated things called labels, which are rarely used; ...
 
 
+(Klemens, 2015) C 101 pp. 358
+````
+- Labels, gotos, switches, and breaks pp. 148
 
 
 
