@@ -933,11 +933,26 @@ If you request element 6 of an array declared a `int list[100]`,
 the system would start at wherever the list is located,
 then step `6*sizeof(int)` bytes down.
 
+So the square-bracket notation like `list[6]` is really just a notation
+about offsetting from the position pointed toby the named variable,
+and this happens to be the operation we need to work with an array.
+If we have a pointer to any contiguous span of memory,
+the same operations of finding the location and stepping forward
+could be done with the pointer.
+
 
 
 (Klemens, 2015) C 101 pp. 359-360
 ```
 - Chapter 6
+
+
+
+
+
+
+
+
 
 
 
