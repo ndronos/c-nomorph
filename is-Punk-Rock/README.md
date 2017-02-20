@@ -958,6 +958,31 @@ Notice that this takes two numbers as input, while `malloc` takes one.
 - manual_memory.c
 
 
+```
+A pointer to a scalar is really just a one-item array
+
+Say that we have a pointer named `i` to a single integer.
+It is an array of lenght 1, and if you request `i[0]`,
+finding the location pointed to by `i` and stepping forward 0 steps
+works exactly as it did for longer arrays.
+
+But we humans don't really think of single values as arrays of lenght 1,
+so there is a notational convenience for the common case of a one-item array:
+outside of a declaration line, `i[0]` and `*i` are equivalent.
+This can be confusing, because on the declaration line,
+the star seems to mean something different.
+There are rationales for why this makes sense...
+but for now remember that a star on a declaration line indicates a new pointer;
+a star on any other line indicates the value being pointed to.
+
+
+
+(Klemens, 2015) C 101 pp. 359-360
+```
+
+
+
+
 
 
 
