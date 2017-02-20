@@ -945,9 +945,8 @@ could be done with the pointer.
 
 (Klemens, 2015) C 101 pp. 359-360
 ```
-- manual_memory.c
 - Chapter 6
-
+- manual_memory.c
 
 
 
