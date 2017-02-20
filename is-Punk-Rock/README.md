@@ -922,13 +922,17 @@ all memory used by your program for you.
 - Automatic, Static, and Manual Memory pp. 123
 
 
+```
+Arrays are just blocks of memory; any block of memory can be used like an array
+
+... I discuss exactly how arrays and pointers are and are not identical,
+but they certainly have a lot in common.
 
 
 
-
-
-
-
+(Klemens, 2015) C 101 pp. 359-360
+```
+- Chapter 6
 
 
 
