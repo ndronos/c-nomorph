@@ -868,6 +868,13 @@ you might wind up with something like `for (       ; i<=100; i++)`.
 Pointers to variables are sometimes called aliases, references, or labels
 (though C has unrelated things called labels, which are rarely used; ...
 
+A pointer or alias to a `double` does not itseld hold a `double`,
+but points to some location that does.
+Now you have two names for the same thing.
+If the thing is changed, then both versions see the change.
+This is in contrast to a full copy of a thing,
+where the original does not affect the copy.
+
 
 (Klemens, 2015) C 101 pp. 358
 ````
