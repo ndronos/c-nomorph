@@ -993,10 +993,21 @@ we know that `pr` is a pointer to a `ratio_s`, not a `ratio_s` itself.
 The size of `pr` in memory is exactly as much as is required to hold a single pointer,
 not a full `ratio_s` structure.
 
-
-
-
 (Klemens, 2015) C 101 pp. 359-360
+```
+One could get the numerator at the pointed-to struct via `(*pr).numerator`,
+because `(*pr)` is just a plain `ratio_s`, and the dot notation gets a subelement.
+There is an arraow notation that saves the trouble of the parens-and-star combination.
+For example:
+
+    ratio_s *pr = malloc(sizeof(ratio_s));
+    pr->numerator = 3;
+
+The two forms `pr->numerator` and `(*pr).numerator` are exactly identical,
+but the first is generally preferred as more legible.
+
+
+(Klemens, 2015) C 101 pp. 360-361
 ```
 
 
