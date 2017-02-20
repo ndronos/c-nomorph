@@ -1011,6 +1011,22 @@ but the first is generally preferred as more legible.
 ```
 
 
+```
+Pointers let you modify functions inputs
+
+Recall that copies of input variables are sent to a function,
+not the variables themselves.
+When the function exits, the copies are destroyed,
+and the original function inputs are entirely unmodified.
+
+Now say that a pointer is sent in to a function.
+The copy of a pointer refers to the same space
+that the original pointer refers to.
+... using this strategy to modify what the input refers to...
+
+
+(Klemens, 2015) C 101 pp. 360-361
+```
 
 
 
