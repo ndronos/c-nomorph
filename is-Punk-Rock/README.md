@@ -891,11 +891,27 @@ This is the first mention of memory allocation in this tutorial
 because the declarations... like `int list[100]`auto-allocate memory.
 When the scope in which the declaration was made comes to a close,
 auto-allocated memory is auto-allocated.
+Conversely, memory you manually allocated via `malloc` exists until
+you manually free it (ot the end of the program).
+This sort of longevity is sometimes desirable.
+Also, an array cannot be resized after it is initialized,
+whereas manually allocated memoty can be.
+Other differences between manually and automatically allocated memory ...
 
 
 
 (Klemens, 2015) C 101 pp. 358-359
 ```
+- Automatic, Static, and Manual Memory pp. 123
+
+
+
+
+
+
+
+
+
 
 
 
