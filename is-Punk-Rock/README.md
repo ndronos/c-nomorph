@@ -881,10 +881,17 @@ where the original does not affect the copy.
 - Labels, gotos, switches, and breaks pp. 148
 
 
+```
+You cand directly request a block of memory
+
+The `malloc` function allocates memory for use by the program.
+For example, we might allocate enough space for 3,000 integers via: `malloc(3000*sizeof(int));
 
 
 
 
+(Klemens, 2015) C 101 pp. 358-359
+```
 
 
 
