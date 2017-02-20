@@ -2,6 +2,9 @@
 
 #include <assert.h>
 
+#include <stdio.h>  // added to test
+
+
 int main(){
 
     int list[100];
@@ -13,5 +16,8 @@ int main(){
 
     assert(list[0] == 7);
 
+    // added to test
+    printf("%d \n", list[0]);
+    printf("%d \n", list2[0]);
 }
 
