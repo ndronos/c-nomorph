@@ -99,6 +99,17 @@ the arithmetic and logical operators implemented by real machines.
 ```
 
 ```
+C provides no operations to deal directly with composite objects such as
+character strings, sets, lists, or arrays.
+There are no operations that manipulate an entire array or string,
+although structures may be copies as a unit.
+The language does not define any storage allocation facility other than
+static definition and the stack discipline provided by the local varibles of functions;
+there is no heap or garbage collection.
+Finally, C itself provides no input/output facilities;
+there are no READ or WRITE statements, and no built-in file access methods.
+All these higher-level mechanisms must be provided by explicitly-called functions.
+Most C implementations have included a reasonably standard collection of such functions.
 ...
 ...
 
