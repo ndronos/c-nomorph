@@ -23,20 +23,21 @@ We hope that this book will help you to learn C to use it well.
 ```
 
 ```
-C is a general-purpose programming language...
-C is not a "very high level" language, nor a "big" one, and is not specialized
-to any particular area of application.
+C is a general-purpose programming language
+which features economy of expression, modern control flow and data structures, and a rich set of operators.
+C is not a "very high level" language, nor a "big" one,
+and is not specialized to any particular area of application.
 But its absence of restrictions and its generality make it more convenient and effective for many tasks
-than more powerful languages.
-
+than supposedly more powerful languages.
+...
 C is not tied to any particular hardware or systems,
 however, and it is easy to write programs that will run without change on any machine that supports C.
-
+...
 In our experience, C has proven to be pleasant, expressive, and versatile language for a variety of programs.
 It is easy to learn, and
 it wears well as one's experience with it grows.
 
-(K&R, 1988) xi Preface
+(K&R, 1988) xi Preface to the First Edition
 ```
 
 ```
