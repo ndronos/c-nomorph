@@ -81,6 +81,9 @@ The functions of a C program may exist in separate source files that are compile
 Variables may be internal to a function, external bu known only within a single source file,
 or visible to the entire program.
 
+A preprocessing step performs macro substitution on program text,
+inclusion of other source files, and conditional compilation.
+
 (K&R, 1988) 1 Introduction
 ```
 
