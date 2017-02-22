@@ -110,14 +110,16 @@ Finally, C itself provides no input/output facilities;
 there are no READ or WRITE statements, and no built-in file access methods.
 All these higher-level mechanisms must be provided by explicitly-called functions.
 Most C implementations have included a reasonably standard collection of such functions.
-...
-...
+
+Similarly, C offers only straightforward, single-thread control-flow:
+tests, loops, grouping, and subprograms, but not multiprogramming,
+parallel operations, synchronization, or coroutines.
 
 (K&R, 1988) 2 Introduction
 ```
 
 ```
-Although the absence of some... features may seem like a grave deficiency...
+Although the absence of some of there features may seem like a grave deficiency...
 keeping the language down to a modest size has real benefits.
 Since C is relatively small, it can be described in a small space, and learned quickly.
 A programmer can reasonably expect to know and understand and indeed regularly use the
