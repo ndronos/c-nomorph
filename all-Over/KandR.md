@@ -202,3 +202,15 @@ can be moved from one system to another without change.
 (K&R, 1999) 4 Introduction
 ```
 
+```
+Chapter 8 describes an interface between C programs and the UNIX operating system,
+concentrating on input/output, the file system, and storage allocation.
+Although some of this chapter is specific to UNIX systems,
+programmers who use other systems should still find useful material here,
+including some insight intohow one version of the standard library is implemented,
+and suggestions on portability.
+
+(K&R, 1999) 4 Introduction
+```
+
+
