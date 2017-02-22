@@ -182,3 +182,11 @@ when forced to make a choice, we have concentrated on the language.
 (K&R, 1999) 4 Introduction
 ```
 
+```
+Chapters 2 through 6 discuss various aspects of C in more detail,
+and rather more formally, than does Chapter 1, although the emphasis is still on
+examples of complete programs, rather than isolated fragments.
+...
+
+(K&R, 1999) 4 Introduction
+
