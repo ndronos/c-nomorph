@@ -213,4 +213,19 @@ and suggestions on portability.
 (K&R, 1999) 4 Introduction
 ```
 
+```
+Appendix A contains a language reference manual.
+The official statement of syntax and semantics of C is the ANSI standard itself.
+That document, however, is intended foremost for compilers writers.
+The reference manual here conveys the definition of the language more concisely
+and without the same legalistic style.
+Appendix B is a summary of the standard library,
+again for users rather than implementers.
+Appendix C is a short summary of changes of the original language.
+In cases of doubt, however, the standard and one's own
+compiler remains the final authorities on the language.
+
+(K&R, 1999) 4 Introduction
+```
+
 
