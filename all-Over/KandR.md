@@ -91,8 +91,9 @@ inclusion of other source files, and conditional compilation.
 C is a relatively "low level" language.
 This characterization is not pejorative;
 it simply means that C deals with the same sort of objects that most computers do,
-namely characters, numbers, and adresses. These may be combined and moved about with
-the arithmetic and logical operators implementedby real machines.
+namely characters, numbers, and adresses. 
+These may be combined and moved about with
+the arithmetic and logical operators implemented by real machines.
 
 (K&R, 1998) 1-2 Introduction
 ```
@@ -116,11 +117,11 @@ entire language.
 
 ```
 Because the data types and control structures provided by C
-are supported directly by most computers, the run time library required
+are supported directly by most computers, the run-time library required
 to implement self-contained programs is tiny.
 The standard library functions are only called explicitly, so they
 can be avoided if they are not needed.
-Most can be written in C, and except for the operating system detil they conceal,
+Most can be written in C, and except for the operating system details they conceal,
 are themselves portable.
 
 (K&R, 1988) 3 Introduction
