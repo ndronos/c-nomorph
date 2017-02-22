@@ -13,7 +13,11 @@ C is not a big language, and it is not well served by a big book.
 ```
 
 ```
+...
 C wears well as one's experience with it grows.
+
+With a decade more experience, we still feel that way.
+We hope that this book will help you to learn C to use it well.
 
 (K&R, 1988) x Preface
 ```
