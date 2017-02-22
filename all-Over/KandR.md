@@ -73,6 +73,18 @@ Pointers provide for machine-independent address arithmetic.
 ```
 
 ```
+Functions may return values of basic types, structures, unions, or pointers.
+Any function can be called recursively.
+Local variables are typically "automatic", or created anew with each invocation.
+Function definitions may not be nested but variables may be declared in a block-structured fashion.
+The functions of a C program may exist in separate source files that are compiled separately.
+Variables may be internal to a function, external bu known only within a single source file,
+or visible to the entire program.
+
+(K&R, 1988) 1 Introduction
+```
+
+```
 C is a relatively "low level" language.
 This characterization is not pejorative;
 it simply means that C deals with the same sort of objects that most computers do,
