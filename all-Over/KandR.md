@@ -58,6 +58,17 @@ developed by Martin Richards.
 The influence of BCPL on C proceeded inderectly through the language B,
 which was written by Ken Thompson in 1970 for the first UNIX system on the DEC PDP-7.
 
+BCPL and B are "typeless" languages.
+By contrast, C provides a variet of data types.
+The fundamental types are characters, and integers and floating-point numbers of several sizes.
+In addition, there is hierarchy of derived data types created
+with pointers, arrays, structures, and unions.
+Expressions are formed from operators and operands;
+any expression, including an assignment or a function call, can be a statement.
+Pointers provide for machine-independent address arithmetic.
+
+
+
 ...
 ...
 ...
