@@ -190,3 +190,15 @@ examples of complete programs, rather than isolated fragments.
 
 (K&R, 1999) 4 Introduction
 
+
+```
+Chapter 7 describes the standard library, which provides a common interface
+to the operating system.
+This library is defined by the ANSI standard and is meant to be supported
+on all machines that support C,
+so programs that use it for input, output, and other operating systems access
+can be moved from one system to another without change.
+
+(K&R, 1999) 4 Introduction
+```
+
