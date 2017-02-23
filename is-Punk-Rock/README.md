@@ -242,6 +242,18 @@ to C code that I just dropped the host language entirely.
 ```
 
 
+```
+Q: It's nice that application programmers
+coming from scripting languages will like this book,
+but I *am* a kernel hacker.
+I taught myself C in fifth grade and sometimes have dreams that correctly compile.
+What new material can be there for me?
+
+
+
+(Klemens, 2015) xii Preface
+```
+
 
 ### APPENDIX A C 101
 
