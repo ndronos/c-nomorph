@@ -300,7 +300,11 @@ and what other textbooks missed (which is a lot).
 ### Standard: So Many to Choose From
 
 ```
-
+Unles explicitly stated otherwise, everything in this book conforms
+to the ISO C99 and C11 standards.
+To make sense of what that means, and givesome historical background,
+let us go through the list of major C standards
+(passing over the minor revisions and corrections).
 
 
 (Klemens, 2015) xiii Preface
