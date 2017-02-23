@@ -376,7 +376,10 @@ with a standard type for complex numbers and some type-generic functions.
 A few conveniences from C++ got lifted, including one-line comments
 (which originally came from one of C's predecessor languages, BCPL)
 and being able to declare variables at the head of `for` loops.
-
+Using structures was made easier thanks to a few additions to the rules
+for how they can be declared and initialized, plus some notational conveniences.
+Things where modernized to acknowledge that security matters and
+that not everybody speaks English.
 
 
 (Klemens, 2015) xiv Preface
