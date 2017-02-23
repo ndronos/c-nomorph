@@ -317,13 +317,32 @@ Denis Ritchie, Ken Thompson, and a handful of other contriibutors came up with C
 while putting together the UNIX operating system.
 Brian Kernighan and Dennis Ritchie eventually wrote down a description of the
 language in the first edition of their book, which set first de facto standard.
+
+
+(Klemens, 2015) xiii Preface
 ```
 - (Kernighan, 1978), (K&R, 1978)
 
 
+```
+ANSIC89
+
+Bell Labs handed over the stewardship of the language to the
+American National Standards Institute (ANSI).
+In 1989 the institute published its standard,
+which made few improvements over K&R.
+The second edition of K&R's book include full specification of
+the language, which meant that tens of thousands of programmers
+had a copy of the ANSI standard on their desks.
+The ANSI standard was adopted by the 
+International Organization for Standardization (ISO) in 1990
+with no serious changes, but ANSI'89 seems to be the more common term
+(and would make a great t-shirt slogan).
 
 
-
+(Klemens, 2015) xiii Preface
+```
+- Kernighan, 1988), (K&R, 1988)
 
 
 
