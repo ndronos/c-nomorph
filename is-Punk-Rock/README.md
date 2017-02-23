@@ -310,6 +310,20 @@ let us go through the list of major C standards
 (Klemens, 2015) xiii Preface
 ```
 
+```
+K & R (circa 1978)
+
+Denis Ritchie, Ken Thompson, and a handful of other contriibutors came up with C
+while putting together the UNIX operating system.
+Brian Kernighan and Dennis Ritchie eventually wrote down a description of the
+language in the first edition of their book, which set first de facto standard.
+```
+- (Kernighan, 1978), (K&R, 1978)
+
+
+
+
+
 
 
 
