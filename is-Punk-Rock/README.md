@@ -367,7 +367,20 @@ like moist hudred dollar bills got C++, and everybody was happy.
 (Klemens, 2015) xiii-xiv Preface
 ```
 
+```
+ISO C99
 
+The C standard underwent a major revision a decade later.
+Addition where made for numeric and scientific computing,
+with a standard type for complex numbers and some type-generic functions.
+A few conveniences from C++ got lifted, including one-line comments
+(which originally came from one of C's predecessor languages, BCPL)
+and being able to declare variables at the head of `for` loops.
+
+
+
+(Klemens, 2015) xiv Preface
+```
 
 
 ### APPENDIX A C 101
