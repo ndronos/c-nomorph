@@ -354,6 +354,20 @@ which is as mainstream as human endeavor could possibly become.
 (Klemens, 2015) xiii Preface
 ```
 
+```
+During this period, C++ split off and hit it big (although not quite as big).
+C++ was the best thing to ever happen to C.
+While every other language was bolting on extra syntax to follow
+the object-oriented trend and whatever other new tricks came ot the author's minds,
+C stuck to the standard.
+The people who wanted stability and portability used C,
+the people who wanted more and more features so they could wallow in them
+like moist hudred dollar bills got C++, and everybody was happy.
+
+(Klemens, 2015) xiii-xiv Preface
+```
+
+
 
 
 ### APPENDIX A C 101
