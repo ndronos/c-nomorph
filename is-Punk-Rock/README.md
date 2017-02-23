@@ -292,8 +292,20 @@ to get your bearings and ask your search engine coherent questions,
 and what other textbooks missed (which is a lot).
 
 
-(Klemens, 2015) xii Preface
+(Klemens, 2015) xii-xiii Preface
 ```
+
+
+
+### Standard: So Many to Choose From
+
+```
+
+
+
+(Klemens, 2015) xiii Preface
+```
+
 
 
 
