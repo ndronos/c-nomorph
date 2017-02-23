@@ -276,6 +276,15 @@ where everybody is mandated to use the same IDE.
 (Klemens, 2015) xii Preface
 ```
 
+```
+Q: I have the Internet and can look up commands and syntax details
+in a second or two, really, why should I read this book?
+
+
+(Klemens, 2015) xii Preface
+```
+
+
 
 ### APPENDIX A C 101
 
