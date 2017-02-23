@@ -263,6 +263,8 @@ or a instance you just pulled up from your cloud computing provider,
 the tools I cover here should be easy and quick to install.
 I mention a few platform-specif tools, but will be explict in those cases.
 
+I do not cover any integrated development environment (IDEs)
+because few if any reliably work across all platforms...
 
 
 (Klemens, 2015) xii Preface
