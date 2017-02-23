@@ -249,6 +249,20 @@ but I *am* a kernel hacker.
 I taught myself C in fifth grade and sometimes have dreams that correctly compile.
 What new material can be there for me?
 
+A:
+More than most, the C community holds itseld a high standard of interoperability.
+There is a lot of C extensions provided by the GNU environment,
+IDEs that work only forWindows, and compiler extensions that exist only in LLVM.
+This is why past textbooks shied away from covering tools.
+But in present day there are some systems that work on anything 
+we commonly recognize as a computer.
+Many of them are from the GNU; LLVM and its associated tools
+are quickly making ground but are still not as prevalent.
+Whatever you are using, be it a Windows box, a Linux box,
+or a instance you just pulled up from your cloud computing provider,
+the tools I cover here should be easy and quick to install.
+I mention a few platform-specif tools, but will be explict in those cases.
+
 
 
 (Klemens, 2015) xii Preface
