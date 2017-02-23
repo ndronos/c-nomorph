@@ -265,6 +265,12 @@ I mention a few platform-specif tools, but will be explict in those cases.
 
 I do not cover any integrated development environment (IDEs)
 because few if any reliably work across all platforms...
+and the choice of IDE is heavly infuenced by personal preference.
+IDEs typically have a project build system, which is usually incompatible
+with every other IDE's project build system.
+IDE project files are therefore unusable for project distribution outside of situations
+(classrooms, certain offices, some computer platforms)
+where everybody is mandated to use the same IDE.
 
 
 (Klemens, 2015) xii Preface
