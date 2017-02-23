@@ -345,6 +345,16 @@ with no serious changes, but ANSI'89 seems to be the more common term
 - Kernighan, 1988), (K&R, 1988)
 
 
+```
+A decade passed. C went mainstream, in the sense that the base code
+for more or less everyPC and every Internet server was written in C,
+which is as mainstream as human endeavor could possibly become.
+
+
+(Klemens, 2015) xiii Preface
+```
+
+
 
 ### APPENDIX A C 101
 
