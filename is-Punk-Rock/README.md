@@ -280,6 +280,17 @@ where everybody is mandated to use the same IDE.
 Q: I have the Internet and can look up commands and syntax details
 in a second or two, really, why should I read this book?
 
+A:
+It's true: you can get an operator precedence table from Linux or Mac
+command prompt with `man operator`, so why am I going to put one here?
+
+I've got the same Internet you've got, and I've spend a lot of time reading it.
+So I have a good idea of what isn't being talked about,
+and that's what I stick to here.
+When introducing a new tool, like `gprof` or `gdb`, I give you what you need to know
+to get your bearings and ask your search engine coherent questions,
+and what other textbooks missed (which is a lot).
+
 
 (Klemens, 2015) xii Preface
 ```
