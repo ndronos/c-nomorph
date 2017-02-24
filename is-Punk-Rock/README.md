@@ -312,6 +312,18 @@ such as for threading and atomics, is complete on some systems but catching up o
 (Klemens, 2015) xiv Preface
 ```
 
+```
+The POSIX Standard
+
+That’s the state of things as far as C itself goes, but the language coevolved with the
+Unix operating system, and you will see throughout the book that the interrelationship
+matters for day-to-day work.
+If something is easy on the Unix command line, it is probably because it is easy in C;
+Unix tools are often written to facilitate writing C code.
+
+(Klemens, 2015) xv Preface
+```
+
 
 
 
