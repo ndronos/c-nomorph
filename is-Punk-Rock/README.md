@@ -591,13 +591,25 @@ if you are unsure about how the details apply to your situation.
 - http://opensource.org/licenses
 
 
+### Some Logistics
+```
+The Second Edition
 
+...
+The big addition from the first edition is the chapter on concurrent threads,
+aka parallelization.
+It focuses on OpenMP and atomic variables and structs.
+OpenMP is not part of the C standard, but it is a reliable part of the C ecosystem,
+so it comfortably fits on this book.
+Atomic variables were added in the December 2011 revision of the standard, ...
+We are now far enough along that I could write this chapter based both on the
+theory presented in the standard and the practice of a real-world implementation
+and tested code. ...
+...
 
-
-
-
-
-
+(Klemens, 2015) xvii Preface
+```
+- Chapter 12
 
 
 
