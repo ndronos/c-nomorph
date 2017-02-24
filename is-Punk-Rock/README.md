@@ -381,6 +381,21 @@ for how they can be declared and initialized, plus some notational conveniences.
 Things where modernized to acknowledge that security matters and
 that not everybody speaks English.
 
+When you think about just how much of an inpact C89 had,
+and how the entire globe was running on C code,
+it's hard to imagine the ISO being able to put out anything
+that wouldn't be widely criticized
+- even a refusal to make any changes would be reviled.
+And indeed, this standard was controversial.
+There are two common ways to express a comple variable
+(rectangular and polar coordinates)
+- so where does the ISO get off picking one?
+Why do we need a mechanism for variable-length macro inputs
+when all the good code got written without it?
+In other words, the purists accused the ISO of selling out
+to the pressure for more features.
+
+
 
 (Klemens, 2015) xiv Preface
 ```
