@@ -324,6 +324,26 @@ Unix tools are often written to facilitate writing C code.
 (Klemens, 2015) xv Preface
 ```
 
+```
+Unix
+
+C and Unix were designed at Bell Labs in the early 1970s. During most of the
+20th century, Bell was being investigated for monopolistic practices, and one of
+its  agreements  with  the  US  federal  government  included  promises  that  Bell
+would not expand its reach into software. So Unix was given away for free for
+researchers  to  dissect  and  rebuild.  The  name  Unix  is  a  trademark,  originally
+owned  by  Bell  Labs  and  subsequently  traded  off  like  a  baseball  card  among  a
+number of companies.
+
+Variants  of  Unix  blossomed  as  the  code  was  looked  over,  reimplemented,  and
+improved in different ways by diverse hackers. It just takes one little incompatibility
+to make a program or script unportable, so the need for some standardization quickly
+became apparent.
+
+(Klemens, 2015) xv Preface
+```
+
+
 
 
 
