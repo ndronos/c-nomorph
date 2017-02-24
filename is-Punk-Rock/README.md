@@ -395,6 +395,16 @@ when all the good code got written without it?
 In other words, the purists accused the ISO of selling out
 to the pressure for more features.
 
+As of this writing, most compilers support C99 plus or minus
+a few caveats;
+the `long double` type seems to cause a lot of trouble, for example.
+However, there is one notable exception to this broad consensus:
+Microsoft currently refuses to add C99 support to its
+Visual Studio C++ compiler.
+... covers some of the many ways to compile C code for Windows,
+so not using Visual Studio is at most a inconvenience, and having
+a major establishment player tell us that we can't use
+ANSI- and ISO-standard C only bolsters the punk rock of it all.
 
 
 (Klemens, 2015) xiv Preface
