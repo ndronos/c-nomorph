@@ -377,7 +377,32 @@ prevalence and influence:
 (Klemens, 2015) xv-xvi Preface
 ```
 
+```
+BSD
 
+After  Unix  was  made  available  from  Bell  Labs  for  the  public  to  dissect,
+the researchers at the University of California, Berkeley, made major improvements,
+eventually rewriting the entire Unix code base to produce the Berkeley Software Distribution.
+If you are using a computer from Apple, Inc., you are using BSD
+with  an  attractive  graphical  frontend.  BSD  goes  beyond  POSIX  in  several
+respects, and we’ll see some functions that are not part of the POSIX standard
+but are too useful to pass up (most notably the lifesaver that is  asprintf ).
+
+(Klemens, 2015) xvi Preface
+```
+
+```
+GNU
+
+It stands for GNU’s Not Unix, and is the other big success story in independently
+reimplementing and improving on the Unix environment. The great majority of
+Linux distributions use GNU tools throughout. There are very good odds that
+you have the GNU Compiler Collection ( gcc ) on your POSIX box—even BSD
+uses it. Again, the  gcc  defines a de facto standard that extends C and POSIX in a
+few ways, and I will be explicit when making use of those extensions.
+
+(Klemens, 2015) xvi Preface
+```
 
 
 
