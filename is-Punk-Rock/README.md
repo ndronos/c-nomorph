@@ -465,6 +465,15 @@ Example: Libxml2, under the BSD-like MIT license.
 (Klemens, 2015) xvii Preface
 ```
 
+```
+Please note the usual disclaimer: I am not a lawyer, and this is a sidebar summary of
+several rather long legal documents. Read the documents themselves or consult a lawyer
+if you are unsure about how the details apply to your situation.
+
+(Klemens, 2015) xvii Preface
+```
+
+
 
 
 ### APPENDIX A C 101
