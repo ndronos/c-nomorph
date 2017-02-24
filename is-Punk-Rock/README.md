@@ -409,6 +409,8 @@ ANSI- and ISO-standard C only bolsters the punk rock of it all.
 
 (Klemens, 2015) xiv Preface
 ```
+- Compiling C with Windows
+
 
 ```
 C11
@@ -587,6 +589,16 @@ if you are unsure about how the details apply to your situation.
 (Klemens, 2015) xvii Preface
 ```
 - http://opensource.org/licenses
+
+
+
+
+
+
+
+
+
+
 
 
 
