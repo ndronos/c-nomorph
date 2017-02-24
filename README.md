@@ -190,6 +190,7 @@ Terminal `cmd+space` > `xcode-select --install`
 
   Fully Integrated C/C++ Development Environment
 
+  [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV)
 
 
 ## [GCC](https://gcc.gnu.org) [Documentation](https://gcc.gnu.org/onlinedocs/gcc/)
