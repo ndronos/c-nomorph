@@ -612,6 +612,18 @@ and tested code. ...
 - Chapter 12
 
 
+```
+Other additions to this edition:
+
+- Appendix A provides a basic C tutorial for readers comig from another language.
+I was reluctant to include it in the first edition because there are so many C
+tutorials out there, but the book is more useful with it than without.
+
+(Klemens, 2015) xvii Preface
+```
+- Appendix A
+
+
 
 
 
