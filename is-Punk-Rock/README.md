@@ -343,8 +343,30 @@ became apparent.
 (Klemens, 2015) xv Preface
 ```
 
+```
+POSIX (Portable Operating System Interface)
 
+This standard, first established by the Institute of Electrical and Electronics Engi‐
+neers (IEEE) in 1988, provided a common basis for Unix-like operating systems.
+It specifies how the shell should work, what to expect from commands like  ls
+and  grep , and a number of C libraries that C authors can expect to have available.
+For  example,  the  pipes  that  command-line  users  use  to  string  together  com‐
+mands are specified in detail here, which means C’s  popen  (pipe open) function is
+POSIX-standard,  not  ISO  C-standard.  The  POSIX  standard  has  been  revised
+many times; the version as of this writing is POSIX:2008, and that is what I am
+referring  to  when  I  say  that  something  is  POSIX-standard.  A  POSIX-standard
+system must have a C compiler available, via the command name  c99 .
 
+This book will use the POSIX standard, though I’ll tell you when.
+
+With the exception of many members of a family of OSes from Microsoft, just
+about  every  current  operating  system  you  could  name  is  built  on  a  POSIX-
+compliant  base:  Linux,  Mac  OS  X,  iOS,  webOS,  Solaris,  BSD—even  Windows
+servers offer a POSIX subsystem. And for the hold-out OSes, “Compiling C with
+Windows” on page 4 will show you how to install a POSIX subsystem.
+
+(Klemens, 2015) xv Preface
+```
 
 
 ### APPENDIX A C 101
