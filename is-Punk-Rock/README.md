@@ -368,6 +368,18 @@ Windows” on page 4 will show you how to install a POSIX subsystem.
 (Klemens, 2015) xv Preface
 ```
 
+```
+Finally, there are two more implementations of POSIX worth noting because of their
+prevalence and influence:
+- BSD
+- GNU
+
+(Klemens, 2015) xv-xvi Preface
+```
+
+
+
+
 
 ### APPENDIX A C 101
 
