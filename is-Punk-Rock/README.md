@@ -434,12 +434,12 @@ The GNU Public License (GPL)
 This  allows  unlimited  copying  and  use  of  the  source  code  and  its  executable
 version.  There  is  one  major  condition:  If  you  distribute  a  program  or  library
 based on the GPLed source code, then you must distribute the source code to
-your program. Note well that if you use your program in-house and don’t distrib‐
-ute  it,  this  condition  doesn’t  hold,  and  you  have  no  obligation  to  distribute
+your program. Note well that if you use your program in-house and don’t distribute  it,
+this  condition  doesn’t  hold,  and  you  have  no  obligation  to  distribute
 source. Running a GPLed program, like compiling your code with  gcc , does not
 in itself obligate you to distribute source code, because the program output (such
-as the executable you just compiled) is not considered to be based on or a deriva‐
-tive of  gcc . Example: the GNU Scientific Library.
+as the executable you just compiled) is not considered to be based on or a derivative
+of  gcc . Example: the GNU Scientific Library.
 
 (Klemens, 2015) xvi Preface
 ```
@@ -448,9 +448,9 @@ tive of  gcc . Example: the GNU Scientific Library.
 The Lesser GPL (LGPL)
 
 The LGPL is much like the GPL, but it explicitly stipulates that if you are linking
-to an LGPL library as a shared library, then your code doesn’t count as a deriva‐
-tive work, and you aren’t obligated to distribute source. That is, you can distrib‐
-ute closed-source code that links to an LGPL library. Example: GLib.
+to an LGPL library as a shared library, then your code doesn’t count as a derivative work,
+and you aren’t obligated to distribute source. That is, you can distribute closed-source code
+that links to an LGPL library. Example: GLib.
 
 (Klemens, 2015) xvii Preface
 ```
