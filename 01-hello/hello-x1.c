@@ -8,12 +8,11 @@ int main(){
     scanf("%c", &initial);
     printf("Hello, %c \n", initial);
 
-/*
+
     printf("Name? \n");
-    char name;
-    scanf("%c", &name);
-    printf("Hello, %c \n", name);
-*/
+    char name[20];
+    scanf("%s", name);
+    printf("Hello, %s \n", name);
 
 }
 
