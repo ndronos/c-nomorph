@@ -405,6 +405,17 @@ few ways, and I will be explicit when making use of those extensions.
 ```
 
 
+```
+Legally, the BSD license is slightly more permissive than the GNU license. Because
+some parties are deeply concerned with the political and business implications of the
+licenses, one can typically find both GNU and BSD versions of most tools. For exam‐
+ple, both the  gcc  and the BSD’s  clang  are top-notch C compilers. The authors from
+both camps closely watch and learn from each other’s work, so we can expect that the
+differences that currently exist will tend to even out over time.
+
+(Klemens, 2015) xvi Preface
+```
+
 
 ### APPENDIX A C 101
 
