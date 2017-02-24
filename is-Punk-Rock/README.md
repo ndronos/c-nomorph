@@ -416,6 +416,19 @@ differences that currently exist will tend to even out over time.
 (Klemens, 2015) xvi Preface
 ```
 
+```
+The Legal Sidebar
+
+US law no longer has a registration system for copyright: with few exceptions, as soon
+as anybody writes something down, it is copyrighted.
+Of course, distribution of a library depends on copying from hard drive to hard drive,
+and  there  are  a  number  of  common  mechanisms  for  granting  the  right  to  copy  a
+copyrighted work with little hassle.
+
+(Klemens, 2015) xvi Preface
+```
+
+
 
 ### APPENDIX A C 101
 
