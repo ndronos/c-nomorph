@@ -428,6 +428,22 @@ copyrighted work with little hassle.
 (Klemens, 2015) xvi Preface
 ```
 
+```
+The GNU Public License (GPL)
+
+This  allows  unlimited  copying  and  use  of  the  source  code  and  its  executable
+version.  There  is  one  major  condition:  If  you  distribute  a  program  or  library
+based on the GPLed source code, then you must distribute the source code to
+your program. Note well that if you use your program in-house and don’t distrib‐
+ute  it,  this  condition  doesn’t  hold,  and  you  have  no  obligation  to  distribute
+source. Running a GPLed program, like compiling your code with  gcc , does not
+in itself obligate you to distribute source code, because the program output (such
+as the executable you just compiled) is not considered to be based on or a deriva‐
+tive of  gcc . Example: the GNU Scientific Library.
+
+(Klemens, 2015) xvi Preface
+```
+
 
 
 ### APPENDIX A C 101
