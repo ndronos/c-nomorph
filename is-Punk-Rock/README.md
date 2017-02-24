@@ -296,6 +296,23 @@ and what other textbooks missed (which is a lot).
 ```
 
 
+```
+C11
+
+Self-conscious  about  the  accusations  of  selling  out,  the  ISO  made  few  serious
+changes  in  the  third  edition  of  the  standard.  We  got  a  means  of  writing  type-
+generic functions, and things were modernized to further acknowledge that secu‐
+rity matters and that not everybody speaks English.
+The C11 standard came out in December of 2011, but support for the standard
+has been implemented by compiler authors at a surprisingly rapid pace, to the
+point that a number of major compilers already claim near-complete conform‐
+ance. However, the standard defines behavior for both the compiler and the stan‐
+dard library—and library support, such as for threading and atomics, is complete
+on some systems but catching up on others.
+
+(Klemens, 2015) xiv Preface
+```
+
 
 ### APPENDIX A C 101
 
