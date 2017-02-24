@@ -410,6 +410,186 @@ ANSI- and ISO-standard C only bolsters the punk rock of it all.
 (Klemens, 2015) xiv Preface
 ```
 
+```
+C11
+
+Self-conscious  about  the  accusations  of  selling  out,  the  ISO  made  few  serious
+changes  in  the  third  edition  of  the  standard.  We  got  a  means  of  writing  type-
+generic functions, and things were modernized to further acknowledge that securitymatters and
+that not everybody speaks English.
+The C11 standard came out in December of 2011, but support for the standard
+has been implemented by compiler authors at a surprisingly rapid pace, to the
+point that a number of major compilers already claim near-complete conformance.
+However, the standard defines behavior for both the compiler and the standard library—and library support,
+such as for threading and atomics, is complete on some systems but catching up on others.
+
+(Klemens, 2015) xiv Preface
+```
+
+```
+The POSIX Standard
+
+That’s the state of things as far as C itself goes, but the language coevolved with the
+Unix operating system, and you will see throughout the book that the interrelationship
+matters for day-to-day work.
+If something is easy on the Unix command line, it is probably because it is easy in C;
+Unix tools are often written to facilitate writing C code.
+
+(Klemens, 2015) xv Preface
+```
+
+```
+Unix
+
+C and Unix were designed at Bell Labs in the early 1970s. During most of the
+20th century, Bell was being investigated for monopolistic practices, and one of
+its  agreements  with  the  US  federal  government  included  promises  that  Bell
+would not expand its reach into software. So Unix was given away for free for
+researchers  to  dissect  and  rebuild.  The  name  Unix  is  a  trademark,  originally
+owned  by  Bell  Labs  and  subsequently  traded  off  like  a  baseball  card  among  a
+number of companies.
+
+Variants  of  Unix  blossomed  as  the  code  was  looked  over,  reimplemented,  and
+improved in different ways by diverse hackers. It just takes one little incompatibility
+to make a program or script unportable, so the need for some standardization quickly
+became apparent.
+
+(Klemens, 2015) xv Preface
+```
+
+```
+POSIX (Portable Operating System Interface)
+
+This standard, first established by the Institute of Electrical and Electronics Engi‐
+neers (IEEE) in 1988, provided a common basis for Unix-like operating systems.
+It specifies how the shell should work, what to expect from commands like  ls
+and  grep , and a number of C libraries that C authors can expect to have available.
+For  example,  the  pipes  that  command-line  users  use  to  string  together  com‐
+mands are specified in detail here, which means C’s  popen  (pipe open) function is
+POSIX-standard,  not  ISO  C-standard.  The  POSIX  standard  has  been  revised
+many times; the version as of this writing is POSIX:2008, and that is what I am
+referring  to  when  I  say  that  something  is  POSIX-standard.  A  POSIX-standard
+system must have a C compiler available, via the command name  c99 .
+
+This book will use the POSIX standard, though I’ll tell you when.
+
+With the exception of many members of a family of OSes from Microsoft, just
+about  every  current  operating  system  you  could  name  is  built  on  a  POSIX-
+compliant  base:  Linux,  Mac  OS  X,  iOS,  webOS,  Solaris,  BSD—even  Windows
+servers offer a POSIX subsystem. And for the hold-out OSes, “Compiling C with
+Windows” on page 4 will show you how to install a POSIX subsystem.
+
+(Klemens, 2015) xv Preface
+```
+
+```
+Finally, there are two more implementations of POSIX worth noting because of their
+prevalence and influence:
+- BSD
+- GNU
+
+(Klemens, 2015) xv-xvi Preface
+```
+
+```
+BSD
+
+After  Unix  was  made  available  from  Bell  Labs  for  the  public  to  dissect,
+the researchers at the University of California, Berkeley, made major improvements,
+eventually rewriting the entire Unix code base to produce the Berkeley Software Distribution.
+If you are using a computer from Apple, Inc., you are using BSD
+with  an  attractive  graphical  frontend.  BSD  goes  beyond  POSIX  in  several
+respects, and we’ll see some functions that are not part of the POSIX standard
+but are too useful to pass up (most notably the lifesaver that is  asprintf ).
+
+(Klemens, 2015) xvi Preface
+```
+
+```
+GNU
+
+It stands for GNU’s Not Unix, and is the other big success story in independently
+reimplementing and improving on the Unix environment. The great majority of
+Linux distributions use GNU tools throughout. There are very good odds that
+you have the GNU Compiler Collection ( gcc ) on your POSIX box—even BSD
+uses it. Again, the  gcc  defines a de facto standard that extends C and POSIX in a
+few ways, and I will be explicit when making use of those extensions.
+
+(Klemens, 2015) xvi Preface
+```
+
+
+```
+Legally, the BSD license is slightly more permissive than the GNU license. Because
+some parties are deeply concerned with the political and business implications of the
+licenses, one can typically find both GNU and BSD versions of most tools. For exam‐
+ple, both the  gcc  and the BSD’s  clang  are top-notch C compilers. The authors from
+both camps closely watch and learn from each other’s work, so we can expect that the
+differences that currently exist will tend to even out over time.
+
+(Klemens, 2015) xvi Preface
+```
+
+```
+The Legal Sidebar
+
+US law no longer has a registration system for copyright: with few exceptions, as soon
+as anybody writes something down, it is copyrighted.
+Of course, distribution of a library depends on copying from hard drive to hard drive,
+and  there  are  a  number  of  common  mechanisms  for  granting  the  right  to  copy  a
+copyrighted work with little hassle.
+
+(Klemens, 2015) xvi Preface
+```
+
+```
+The GNU Public License (GPL)
+
+This  allows  unlimited  copying  and  use  of  the  source  code  and  its  executable
+version.  There  is  one  major  condition:  If  you  distribute  a  program  or  library
+based on the GPLed source code, then you must distribute the source code to
+your program. Note well that if you use your program in-house and don’t distribute  it,
+this  condition  doesn’t  hold,  and  you  have  no  obligation  to  distribute
+source. Running a GPLed program, like compiling your code with  gcc , does not
+in itself obligate you to distribute source code, because the program output (such
+as the executable you just compiled) is not considered to be based on or a derivative
+of  gcc . Example: the GNU Scientific Library.
+
+(Klemens, 2015) xvi Preface
+```
+
+```
+The Lesser GPL (LGPL)
+
+The LGPL is much like the GPL, but it explicitly stipulates that if you are linking
+to an LGPL library as a shared library, then your code doesn’t count as a derivative work,
+and you aren’t obligated to distribute source. That is, you can distribute closed-source code
+that links to an LGPL library. Example: GLib.
+
+(Klemens, 2015) xvii Preface
+```
+
+```
+The BSD License
+
+This  license  requires  that  you  preserve  copyrights  and  disclaimers  for  BSD-licensed
+source  code,  but  it  doesn’t  require  that  you  redistribute  source  code.
+Example: Libxml2, under the BSD-like MIT license.
+
+(Klemens, 2015) xvii Preface
+```
+
+```
+Please note the usual disclaimer: I am not a lawyer, and this is a sidebar summary of
+several rather long legal documents. Read the documents themselves or consult a lawyer
+if you are unsure about how the details apply to your situation.
+
+(Klemens, 2015) xvii Preface
+```
+- http://opensource.org/licenses
+
+
+
 
 ### APPENDIX A C 101
 
