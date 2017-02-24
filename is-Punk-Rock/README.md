@@ -444,6 +444,27 @@ tive of  gcc . Example: the GNU Scientific Library.
 (Klemens, 2015) xvi Preface
 ```
 
+```
+The Lesser GPL (LGPL)
+
+The LGPL is much like the GPL, but it explicitly stipulates that if you are linking
+to an LGPL library as a shared library, then your code doesn’t count as a deriva‐
+tive work, and you aren’t obligated to distribute source. That is, you can distrib‐
+ute closed-source code that links to an LGPL library. Example: GLib.
+
+(Klemens, 2015) xvii Preface
+```
+
+```
+The BSD License
+
+This  license  requires  that  you  preserve  copyrights  and  disclaimers  for  BSD-licensed
+source  code,  but  it  doesn’t  require  that  you  redistribute  source  code.
+Example: Libxml2, under the BSD-like MIT license.
+
+(Klemens, 2015) xvii Preface
+```
+
 
 
 ### APPENDIX A C 101
