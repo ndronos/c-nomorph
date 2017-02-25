@@ -3,17 +3,17 @@
 
 int main(){
 
-    printf("\n Initial? ");
+    printf("Initial? ");
     char initial;
     scanf("%c", &initial);
-    printf("\nHello, %c.", initial);
+    printf("Hello, %c.", initial);
+    printf("\n");
 
-
-    printf("\n Name? ");
+    printf("Name? ");
     char name[20];
     scanf("%s", name);
-    printf("\n Hello, %s.", name);
-
+    printf("Hello, %s.", name);
+    printf("\n");
 
 
 
