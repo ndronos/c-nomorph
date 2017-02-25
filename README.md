@@ -265,7 +265,15 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     The Basics of C Programming
     _________________________________________________________
 
-
+1   What is C?
+2   The Simplest C Program
+3   The Simplest C Program: What's Happening?
+4   Variables
+5   printf
+6   printf: Reading User Values
+7   scanf
+8   Branching and looping
+9   Looping: A Real Example
     _________________________________________________________
 
     HowStuffWorks, Marshall Brain & Stephaine Crawford
