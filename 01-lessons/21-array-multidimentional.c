@@ -13,5 +13,15 @@ int main() {
         {1, 5, 8, 6}
     };
 
- }
+    for(int i = 0; i < 3; i++) {         // monitoring rows
+
+      for (int j = 0; j < 4; j++) {      // monitoring elements
+
+          printf("salary[%d][%d]: %d\n", i, j, salary[i][j]);
+
+      }
+
+    }
+
+}
 
