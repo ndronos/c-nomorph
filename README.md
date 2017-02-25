@@ -284,6 +284,18 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 17  Text Files
 18  Text Files: Opening
 19  Text Files: Reading
+20  Pointers
+21  Pointers: Why?
+22  Pointers Basics
+23  Pointers: Understanding Memory Addresses
+24  Pointers: Pointing to the Same Address
+25  Pointers: Common Bugs
+25  Pointers: Common Bugs
+26  Using Pointers for Function Parameters
+27  Dynamic Data Structures
+28  Dynamic Data Structures: The Heap
+29  Dynamic Data Structures: Malloc and Free
+
     _________________________________________________________
 
     HowStuffWorks, Marshall Brain & Stephaine Crawford
