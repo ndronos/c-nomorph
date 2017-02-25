@@ -274,6 +274,16 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 7   scanf
 8   Branching and looping
 9   Looping: A Real Example
+10  Arrays
+11  More on Arrays Variable Types
+12  Functions
+13  Functions: Function Prototypes
+14  Libraries
+15  Making a Library
+16  Makefiles
+17  Text Files
+18  Text Files: Opening
+19  Text Files: Reading
     _________________________________________________________
 
     HowStuffWorks, Marshall Brain & Stephaine Crawford
