@@ -295,6 +295,16 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 27  Dynamic Data Structures
 28  Dynamic Data Structures: The Heap
 29  Dynamic Data Structures: Malloc and Free
+30  Advanced Pointers
+31  Pointers to Structures
+32  Pointers to Pointers
+33  A Linked Stack Example
+34  Using Pointers with Arrays
+35  Strings
+36  Special Note on Strings
+37  Operator Precedence
+38  Command Line Arguments
+
 
     _________________________________________________________
 
