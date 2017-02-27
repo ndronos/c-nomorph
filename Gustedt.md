@@ -182,8 +182,14 @@ should master this level.
 
 ### Level  4. Ambition
 ```
-Last but not least comes
-`ambition`...
+Last but not least comes `ambition`.
+It discusses my personal ideas for a future edevelopment of C.
+C as it is today has some rough edges and particularities that only have historical justification.
+I propose paths to improve on the lack of general constants,
+to simplify the memory model, and more generally to improve the modularity of the language.
+This level is clearly much more specialized than the others,
+most C programmers can probably live without it,
+but the curious ones among you could perhaps take up some of the ideas.
 
 
 (Gustedt, 2016) Organization pp. 3
