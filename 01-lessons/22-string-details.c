@@ -5,6 +5,8 @@
 //  `string` is an array of characters
 //            char this[10] = "THIS" ... "%s",this
 
+//  string comes with additional functionality
+#include <string.h>
 #include <stdio.h>
 
 int main() {
@@ -17,6 +19,11 @@ int main() {
 
     char player3[10] = {'H', 'E', 'L', 'L', 'O', '\0'};   // Old way, before C99
     printf("%s \n", player3);
+
+    char combo[20];
+    strcpy(combo, player3);
+    printf("%s \n", combo);
+
 
     return 0;
 
