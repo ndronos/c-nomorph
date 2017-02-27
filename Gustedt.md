@@ -48,6 +48,14 @@ and elaborated in later ones...
 ```
 This book is organized in levels.
 
+
+(Gustedt, 2016) Organization pp. 3
+```
+
+```
+The starting level, ENCOUNTER...
+
+
 (Gustedt, 2016) Organization pp. 3
 ```
 
