@@ -28,3 +28,14 @@ I a way, C fails to motivate its users to climb to higher levels of knowledge.
 (Gustedt, 2016) Preliminaries pp. 3
 ```
 
+```
+This book is intended to change that general attitude.
+It is organized in chapters called "Levels" that summarize levels of familiarity
+with the C language and programming in general.
+Some features of the language are presented in parts on earlier levels,
+and elaborated in later ones...
+
+
+(Gustedt, 2016) Preliminaries pp. 3
+```
+
