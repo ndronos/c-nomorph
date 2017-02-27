@@ -81,9 +81,22 @@ and societal context.
 (Gustedt, 2016) Preliminaries pp. 3
 ```
 
+```
+An important part of the contecxt in which C developed was the early appearance
+of its sister language C++.
+One common misconception is that C++ evolved from C by adding its particular features.
+Whereas this is historically correct (C++ evolved from a very early C)
+it is not particularly relevant today.
+In fact, C and C++ separated from a common ancestor more than 30 years ago,
+and have evolved separately ever since.
+But this evolution of the two languages has not taken place in isolation,
+they have exchanged and adopted each other's concepts over the years.
+Some new features, such as the recent addition of atomics and threads
+have been designed in a close collaboration between the C and C++ standard committees.
 
 
-
+(Gustedt, 2016) Preliminaries pp. 3
+```
 
 
 
