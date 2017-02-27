@@ -66,3 +66,10 @@ The ACQUAINTANCE level...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+```
+The COGNITION level...
+
+
+(Gustedt, 2016) Organization pp. 3
+```
+
