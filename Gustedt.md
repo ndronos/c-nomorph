@@ -63,6 +63,8 @@ In this book we will mainly referto C11, as defined in  JTC1/SC22/WG14 (2011)...
 
 (Gustedt, 2016) Preliminaries pp. 3
 ```
+- http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
+
 
 
 ## Rule A :: C and C++ are different, don't mix them and don't mix them up.
