@@ -195,3 +195,43 @@ but the curious ones among you could perhaps take up some of the ideas.
 (Gustedt, 2016) Organization pp. 3
 ```
 
+
+
+
+---
+
+
+
+
+
+# Level 0. Encounter
+
+```
+This first level of the book may be your first encounter with the programming language C.
+It provides you with a rough knowledge about C programs, about their purpose,
+their structure and how to use them.
+It is not meant to give you a complete overview, it can't and it doen't even try.
+On contrary, it is supposed to give you a general idea of what this is all about and 
+open up questions, promote ideas and concepts.
+These then will be explained in detail on the higher levels.
+
+
+(Gustedt, 2016) Level 0. Encounter pp. 1
+```
+
+```
+1. Getting Started
+
+In this section I will try to introduce you to one simple program that has been chosen
+because it contains many of the constructs of the C language.
+If you already have experience in programming you may find parts of it feel like
+needless repetition.
+If you lack experience, you might feel overwhelmed by the stream of new terms and concepts.
+
+
+
+
+(Gustedt, 2016) Level 0. Encounter pp. 1
+```
+
+
