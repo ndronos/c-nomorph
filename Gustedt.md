@@ -53,28 +53,28 @@ This book is organized in levels.
 ```
 
 ```
-The starting level, ENCOUNTER...
+The starting level, `encounter`...
 
 
 (Gustedt, 2016) Organization pp. 3
 ```
 
 ```
-The ACQUAINTANCE level...
+The `acquaintance` level...
 
 
 (Gustedt, 2016) Organization pp. 3
 ```
 
 ```
-The COGNITION level...
+The `cognition` level...
 
 
 (Gustedt, 2016) Organization pp. 3
 ```
 
 ```
-The EXPERIENCE level...
+The `experience` level...
 
 
 (Gustedt, 2016) Organization pp. 3
