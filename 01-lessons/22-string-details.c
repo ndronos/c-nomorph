@@ -28,6 +28,9 @@ int main() {
     strcat(newcombo, player3);
     printf("%s \n", newcombo);
 
+    int l;
+    l = strlen(player3);   //len()... // warning: implict declaration of len in c99
+    printf("%d \n", l);
 
     return 0;
 
