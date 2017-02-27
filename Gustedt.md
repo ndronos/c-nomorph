@@ -228,7 +228,15 @@ If you already have experience in programming you may find parts of it feel like
 needless repetition.
 If you lack experience, you might feel overwhelmed by the stream of new terms and concepts.
 
-
+In either case, be patient.
+For those of you with programming experience,
+it's very possible that there are subtle details you're not aware of,
+or assumptions you have made about the language that are not valid,
+even if you have programmed C before.
+For the ones approaching programming for the first time,
+be assured that after approximately ten pages from now your understanding
+will have increasead a lot, and you should have a much clearer idea
+of what programming might represent.
 
 
 (Gustedt, 2016) Level 0. Encounter pp. 1
