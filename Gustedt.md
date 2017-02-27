@@ -45,6 +45,7 @@ and elaborated in later ones...
 
 ## Organization
 
+
 ```
 This book is organized in levels.
 
@@ -52,6 +53,8 @@ This book is organized in levels.
 (Gustedt, 2016) Organization pp. 3
 ```
 
+
+### Level  0. Encounter
 ```
 The starting level, `encounter`...
 
@@ -59,6 +62,8 @@ The starting level, `encounter`...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+
+### Level  1. Acquaintance
 ```
 The `acquaintance` level...
 
@@ -66,6 +71,8 @@ The `acquaintance` level...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+
+### Level  2. Cognition
 ```
 The `cognition` level...
 
@@ -73,6 +80,8 @@ The `cognition` level...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+
+### Level  3. Experience
 ```
 The `experience` level...
 
@@ -80,6 +89,7 @@ The `experience` level...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+### Level  4. Ambition
 ```
 Last but not least comes
 `ambition`...
