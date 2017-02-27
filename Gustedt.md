@@ -59,3 +59,10 @@ The starting level, ENCOUNTER...
 (Gustedt, 2016) Organization pp. 3
 ```
 
+```
+The ACQUAINTANCE level...
+
+
+(Gustedt, 2016) Organization pp. 3
+```
+
