@@ -104,10 +104,10 @@ Many code examples that are given will not even compile with a C++ compiler.
 
 
 
-
-
-
 ## Rule A :: C and C++ are different, don't mix them and don't mix them up.
+
+
+
 
 
 ## Organization
@@ -123,7 +123,9 @@ This book is organized in levels.
 
 ### Level  0. Encounter
 ```
-The starting level, `encounter`...
+The starting level, `encounter`, will introduc you to the very basics of programming with C.
+By the end of it, even if you don't have much experience in programming,
+you should be able to understand the structure of simple programs and start writing your own.
 
 
 (Gustedt, 2016) Organization pp. 3
