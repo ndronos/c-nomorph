@@ -39,6 +39,25 @@ and elaborated in later ones...
 (Gustedt, 2016) Preliminaries pp. 3
 ```
 
+```
+As the title of this book suggests, today's C is not the same language
+as the one originally designed by its creators...(usually referred to as K&R C).
+In particular, it has undergone an important standardization and extension process
+now driven by ISO, the International Standards Organization.
+This led to three major publications of C standards
+in the years 1989, 1999 and 2011, commonly referred to as C89, C99 and C11.
+The C standards committee puts a lot effort into guaranteeing backwards compatibility
+such that code written for earlier versions of the languagea, say C89,
+should compile to a semantically equivalent executable with a compiler
+that implements a newer version.
+Unfortunately, this backwards compatibility has had the unwanted side effect of
+not motivating projects that could benefit greatly from the new features
+to update their code base.
+
+
+(Gustedt, 2016) Preliminaries pp. 3
+```
+
 
 ## Rule A :: C and C++ are different, don't mix them and don't mix them up.
 
