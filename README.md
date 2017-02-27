@@ -260,7 +260,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
 ```
 
-
+## (HowStuffWorks, 2017) 41p
 ```
     The Basics of C Programming
     _________________________________________________________
