@@ -166,7 +166,15 @@ Don't be satisfied with less.
 
 ### Level  3. Experience
 ```
-The `experience` level...
+The `experience` level then goes into detail in specific topics,
+such as performance, reentrancy, atomicity, threads and type generic programming.
+These are probably best discovered as you go,
+that is when you encounter them in the real world.
+Nevertheless, as a whole they are necessary to round off the picture
+and to provide you with full expertise in C.
+Anybody with some years of professional programming in C or
+who heads a software project that uses C as its main programming language
+should master this level.
 
 
 (Gustedt, 2016) Organization pp. 3
