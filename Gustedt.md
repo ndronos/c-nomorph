@@ -43,4 +43,11 @@ and elaborated in later ones...
 ## Rule A :: C and C++ are different, don't mix them and don't mix them up.
 
 
+## Organization
+
+```
+This book is organized in levels.
+
+(Gustedt, 2016) Organization pp. 3
+```
 
