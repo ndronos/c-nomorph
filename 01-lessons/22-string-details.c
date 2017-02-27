@@ -24,6 +24,10 @@ int main() {
     strcpy(combo, player3);
     printf("%s \n", combo);
 
+    char newcombo[10] = "World";  //??? [11] not [10], to  add \0 character
+    strcat(newcombo, player3);
+    printf("%s \n", newcombo);
+
 
     return 0;
 
