@@ -61,9 +61,32 @@ to update their code base.
 ```
 In this book we will mainly referto C11, as defined in  JTC1/SC22/WG14 (2011)...
 
+
 (Gustedt, 2016) Preliminaries pp. 3
 ```
 - http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
+
+
+```
+Programming has become a very important cultural and economic activity and
+C remains an important element in the programming world.
+As in all human activities, progress in C is driven by many factors,
+corporate or individual interest, politics, beauty, luck, ignorance,
+selfishness, ego, sectarianism,... (add your primary motive here).
+Thus the development of C has not been and cannot be ideal.
+It has flaws and artifacts that can only be understood with their historic
+and societal context.
+
+
+(Gustedt, 2016) Preliminaries pp. 3
+```
+
+
+
+
+
+
+
 
 
 
