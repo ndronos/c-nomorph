@@ -149,7 +149,15 @@ introduced at this level.
 
 ### Level  2. Cognition
 ```
-The `cognition` level...
+The `cognition` level goes to the heart of the C language.
+It fully explains pointers, familiarizes you with C's memory model,
+and allows you to understand most of C's library interface.
+Completing this level should enable you to write C code professionally,
+it therefore begins with an essential discussion about the 
+writing and organization of C programs.
+I personally would expect anybody who graduated from an engineering school
+with a major related to computer science or programming in C to master this level.
+Don't be satisfied with less.
 
 
 (Gustedt, 2016) Organization pp. 3
