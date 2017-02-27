@@ -134,7 +134,13 @@ you should be able to understand the structure of simple programs and start writ
 
 ### Level  1. Acquaintance
 ```
-The `acquaintance` level...
+The `acquaintance` level details most principal concepts and features such as
+control structures, data types, operators and functions.
+It should give you a deeper understanding of the things that are going on when you run
+your programs.
+This knowledge should be sufficient for an introductory course in algoritms and
+other work at that level, with the notable caveat that pointers aren't fully
+introduced at this level.
 
 
 (Gustedt, 2016) Organization pp. 3
