@@ -39,3 +39,8 @@ and elaborated in later ones...
 (Gustedt, 2016) Preliminaries pp. 3
 ```
 
+
+## Rule A :: C and C++ are different, don't mix them and don't mix them up.
+
+
+
