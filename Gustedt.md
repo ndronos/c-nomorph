@@ -94,6 +94,10 @@ they have exchanged and adopted each other's concepts over the years.
 Some new features, such as the recent addition of atomics and threads
 have been designed in a close collaboration between the C and C++ standard committees.
 
+Nevertheless, many differences remain and generally all that is said in this book
+is about C and not C++.
+Many code examples that are given will not even compile with a C++ compiler.
+
 
 (Gustedt, 2016) Preliminaries pp. 3
 ```
