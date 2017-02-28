@@ -283,3 +283,7 @@ the language that helps us *to talk about C*.
 ```
 
 
+## Rule 0.1.2.1 ::  C is a compiled programming language.
+
+
+
