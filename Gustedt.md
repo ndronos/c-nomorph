@@ -272,3 +272,14 @@ the computer, to tell it what to do - give it "orders".
 ## Rule 0.1.1.1 :: C is an imperative programming language.
 
 
+```
+In this book, we will not only encounter the C programming language,
+but also some vocabulary from an English dialect, C jargon,
+the language that helps us *to talk about C*.
+...
+
+
+(Gustedt, 2016) Level 0. Encounter pp. 1
+```
+
+
