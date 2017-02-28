@@ -243,8 +243,25 @@ and for this book in particular, is summarized in the following...
 - Don't panic.
 It's not worth it.
 
+
 (Gustedt, 2016) Level 0. Encounter pp. 1
 ```
 
 ## Rule B :: Don't panic.
+
+
+
+
+
+```
+1.1 Imperative programming
+
+To get started and see what we are talking about to consider our first program
+in Listing 1:
+
+
+(Gustedt, 2016) Level 0. Encounter pp. 1
+```
+- Listing 1: 1-getting-started.c
+
 
