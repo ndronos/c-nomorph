@@ -304,3 +304,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.2.3 ::  Declarations are bound to the scope in which they appear.
 
 
+## Rule 0.2.3.1 ::  Declarations specify identifiers whereas definitions specify objects.
+
+
