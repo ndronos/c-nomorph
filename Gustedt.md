@@ -322,3 +322,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.4.1 ::  Domain iterations should be coded with a `for` statement.
 
 
+## Rule 0.2.4.2 ::  The loop variable should be definedd in the initial part of a `for`.
+
+
