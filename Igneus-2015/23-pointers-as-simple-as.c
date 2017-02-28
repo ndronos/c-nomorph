@@ -18,6 +18,9 @@ int main() {
 
     ip = &HighScore;
 
+    printf("%d \n",  HighScore);
+    printf("%x \n",  HighScore);
+    printf("%x \n", &HighScore);  // & address  // warning...
 
 
 
