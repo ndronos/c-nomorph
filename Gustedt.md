@@ -269,7 +269,7 @@ the computer, to tell it what to do - give it "orders".
 - Listing 1: 1-getting-started.c
 
 
-## Rule 0.1.1.1 :: C is an imperative programming language.
+## Rule 0.1.1.1 ::  C is an imperative programming language.
 
 
 ```
@@ -284,6 +284,9 @@ the language that helps us *to talk about C*.
 
 
 ## Rule 0.1.2.1 ::  C is a compiled programming language.
+
+
+## Rule 0.1.2.2 ::  A C program is portable between different platforms.
 
 
 
