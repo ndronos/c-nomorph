@@ -265,3 +265,6 @@ in Listing 1:
 - Listing 1: 1-getting-started.c
 
 
+## Rule 0.1.1.1 :: C is an imperative programming language.
+
+
