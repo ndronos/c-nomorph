@@ -238,8 +238,13 @@ be assured that after approximately ten pages from now your understanding
 will have increasead a lot, and you should have a much clearer idea
 of what programming might represent.
 
+An important bit of wisdom for programming in general,
+and for this book in particular, is summarized in the following... 
+- Don't panic.
+It's not worth it.
 
 (Gustedt, 2016) Level 0. Encounter pp. 1
 ```
 
+## Rule B :: Don't panic.
 
