@@ -319,3 +319,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.3.5 ::  Each object must have exactly one definition.
 
 
+## Rule 0.2.4.1 ::  Domain iterations should be coded with a `for` statement.
+
+
