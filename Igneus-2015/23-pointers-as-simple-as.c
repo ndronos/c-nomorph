@@ -12,13 +12,14 @@
 
 int main() {
 
-    int player1 = 4;
-    int player2[10];
-    int player3[100];
+    int HighScore = 111;
 
-    printf("%x \n",  player1);  // 4
-    printf("%x \n", &player2);  //player2); // eb086xxx // warning:... format unsigned int ... argument int
-    printf("%x \n", &player3); 
+
+
+
+
+
+
    // %x for memory space
 
 }
