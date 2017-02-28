@@ -16,7 +16,7 @@ int main() {
 
     int *ip;  //* declare pointer  //ip integer pointer by the author   
 
-    ip = &HighScore;
+    ip = &HighScore;  // assign address value
 
     printf("%d \n",  HighScore);
     printf("%x \n",  HighScore);
@@ -24,9 +24,9 @@ int main() {
 
     printf("\n");
 
-    printf("%x \n",  ip);
-    printf("%d \n", *ip);
-    printf("%d \n",  ip); //mess number
+    printf("%x \n",  ip); // address
+    printf("%d \n", *ip); // value
+    printf("%d \n",  ip); // messy number
 
 
    // %x for memory space
