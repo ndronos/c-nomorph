@@ -25,5 +25,11 @@ int main() {
     printf("%s is in %s stage and his score is %d\n",
             john.playerName, john.stageLevel, john.score);
 
+  //strcpy(jessy.playerName, "");
+    strcpy(jessy.stageLevel, "Knight Room");
+  //jessy.score = 100;
+    printf("%s \n",
+            jessy.stageLevel);
+
 }
 
