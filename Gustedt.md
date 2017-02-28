@@ -289,4 +289,7 @@ the language that helps us *to talk about C*.
 ## Rule 0.1.2.2 ::  A C program is portable between different platforms.
 
 
+## Rule 0.1.2.3 ::  A C program should compile cleanly without warnings.
+
+
 
