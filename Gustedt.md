@@ -316,3 +316,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.3.4 ::  For an array with `n` the first element has index 0, the last has index `n-1`.
 
 
+## Rule 0.2.3.5 ::  Each object must have exactly one definition.
+
+
