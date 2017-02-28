@@ -295,3 +295,9 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.1.1 ::  Punctuation characters can be used with several different meanings.
 
 
+## Rule 0.2.2.1 ::  All identifiers of a program have to be declared.
+
+
+## Rule 0.2.2.2 ::  Identifiers may have several consistent declarations.
+
+
