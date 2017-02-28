@@ -259,6 +259,10 @@ It's not worth it.
 To get started and see what we are talking about to consider our first program
 in Listing 1:
 
+You probably see that this is a sort of language,...
+It is designed to provide a link between us, the human programmers, and a machine,
+the computer, to tell it what to do - give it "orders".
+
 
 (Gustedt, 2016) Level 0. Encounter pp. 1
 ```
