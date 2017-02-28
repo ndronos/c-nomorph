@@ -292,4 +292,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.1.2.3 ::  A C program should compile cleanly without warnings.
 
 
+## Rule 0.2.1.1 ::  Punctuation characters can be used with several different meanings.
+
 
