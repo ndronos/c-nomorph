@@ -307,3 +307,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.3.1 ::  Declarations specify identifiers whereas definitions specify objects.
 
 
+## Rule 0.2.3.2 ::  An object is defined at the same time as it is initialized.
+
+
