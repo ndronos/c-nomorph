@@ -15,7 +15,7 @@ int main() {
     int player2[10];
 
     printf("%x \n", player1);
-    printf("%x \n", player1);
+    printf("%x \n", player2);
 
 
 }
