@@ -28,8 +28,12 @@ int main() {
     printf("%d \n", *ip); // point memory address and gets value
 //  printf("%d \n",  ip); // messy number, not interesting
 
-
    // %x for memory space
+    printf("\n");
+    
+    int *np = NULL;  // Null pointer have nothing in memory
+    printf("%x \n",  np);
+    printf("%d \n", *np); // segmentation fault
 
 }
 
