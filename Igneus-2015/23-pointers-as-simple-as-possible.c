@@ -14,9 +14,9 @@ int main() {
     int player1 = 4;
     int player2[10];
 
-    printf("%x \n", player1);
-    printf("%x \n", player2);
-
+    printf("%x \n",  player1);  // 4
+    printf("%x \n", &player2);  //player2); // eb086xxx // warning:... format unsigned int ... argument int
+   // %x for memory space
 
 }
 
