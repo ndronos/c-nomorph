@@ -14,6 +14,7 @@ int main() {
 
     int HighScore = 111;
 
+    int *ip;  //* declare pointer  //ip integer pointer by the author   
 
 
 
