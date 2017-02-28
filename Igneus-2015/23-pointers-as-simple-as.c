@@ -22,7 +22,11 @@ int main() {
     printf("%x \n",  HighScore);
     printf("%x \n", &HighScore);  // & address  // warning...
 
+    printf("\n");
 
+    printf("%x \n",  ip);
+    printf("%d \n", *ip);
+    printf("%d \n",  ip); //mess number
 
 
    // %x for memory space
