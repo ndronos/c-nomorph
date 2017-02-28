@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 
-struct player {
+struct player {               // a blueprint
     char playerName[50];
     char stageLevel[50];
     int score;
@@ -15,17 +15,15 @@ struct player {
 
 int main() {
 
-    struct player john;
-    struct player jessy;
+    struct player john;       // 1st object
+    struct player jessy;      // 2nd object
 
-    strcpy(john.playerName, "John Keller");
+    strcpy(john.playerName, "John Keller");  // . (dot operator) access properties
     strcpy(john.stageLevel, "Kings Room");
     john.score = 200;
 
     printf("%s is in %s stage and his score is %d\n",
-            john.playerName,
-            john.stageLevel,
-            john.score);
+            john.playerName, john.stageLevel, john.score);
 
 }
 
