@@ -310,3 +310,6 @@ the language that helps us *to talk about C*.
 ## Rule 0.2.3.2 ::  An object is defined at the same time as it is initialized.
 
 
+## Rule 0.2.3.3 ::  Missing elements in initializers default to 0.
+
+
