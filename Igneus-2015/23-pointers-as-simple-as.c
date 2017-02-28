@@ -18,15 +18,15 @@ int main() {
 
     ip = &HighScore;  // assign address value
 
-    printf("%d \n",  HighScore);
-    printf("%x \n",  HighScore);
+    printf("%d \n",  HighScore);  // value
+//  printf("%x \n",  HighScore);  // value hex, not interesting
     printf("%x \n", &HighScore);  // & address  // warning...
 
     printf("\n");
 
     printf("%x \n",  ip); // address
-    printf("%d \n", *ip); // value
-    printf("%d \n",  ip); // messy number
+    printf("%d \n", *ip); // point memory address and gets value
+//  printf("%d \n",  ip); // messy number, not interesting
 
 
    // %x for memory space
