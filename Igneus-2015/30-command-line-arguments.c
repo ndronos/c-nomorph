@@ -19,7 +19,11 @@ int main(int argc, const char * argv[]) {
         printf("One argument expected. \n");
     }
 
+    printf("Arguments passed: %d ", argc-1);
+    printf("(argc is %d minus 1, which is the program name) \n", argc);
+
     // tests
+    printf("\n");
     printf("%s \n", argv[0]);
     printf("%s \n", argv[1]);
     printf("%s \n", argv[2]);
