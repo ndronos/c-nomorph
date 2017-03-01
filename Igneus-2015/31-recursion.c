@@ -1,5 +1,8 @@
 // (Igneus, 2015) Recursion
 
+// Recursion means repetition     // Allow a function be called inside the same function
+// Factorial of n is n*n-1*n-2*...
+
 #include <stdio.h>
 
 int factorial(int i){
