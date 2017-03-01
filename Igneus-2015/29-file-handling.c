@@ -11,9 +11,11 @@ int main() {
     
     fputs("Please put this text in my file. \n", fp);             //
 
-    fprintf(fp, "Please ALSO put this text in my file... \n");    //
+    fprintf(fp, "Please ALSO put this text in my file... \n");    // 
 
-    fclose(fp);
+    fclose(fp);                                                   // close file
+
+
 
     printf("%s created and written file-test.txt \n", __FILE__);
 
