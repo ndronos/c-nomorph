@@ -1,5 +1,7 @@
 // (Igneus, 2015) Error Handling
 
+// man fprintf // give raw input and detailed information
+
 #include <stdio.h>
 #include <stdlib.h>
 
