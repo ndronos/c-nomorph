@@ -264,6 +264,21 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     C Programming for Beginners Hands-On
     ________________________________________________________
 
+1   Introduction to C Language                         20:00
+2   Bonus: IDE                                         00:00
+3   Basic Elements of C Program                        45:09
+4   Operators                                          43:55
+5   Input Output Statements                         01:01:25
+6   Conditional Statements                          01:02:53
+7   Loop Statements                                 03:00:46
+8   Arrays                                             50:03
+9   Strings                                         01:09:20
+10  Pointers                                           51:24
+11  Functions                                          14:20
+12  Class Specifiers                                   25:13
+13  Type Modifiers                                     17:42
+14  A Thank You GIFT for You                           00:00
+15  Section for Continuity                             09:12
     ________________________________________________________
 
     https://udemy.com/user/leangoodin   
