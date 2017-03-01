@@ -7,16 +7,14 @@
 
 int factorial(int i){
 
-    if (i <= 1) {
-        return 1;
-    }
+    if (i <= 1) return 1;
 
     return i * factorial(i-1);
 }
 
 int main() {
 
-    int f = 7;
+    int f = 3;
 
     printf("The value of factorial of %d is %d \n", f, factorial(f));
 
