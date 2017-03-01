@@ -5,15 +5,17 @@
 int main() {
 
 
-    FILE *fp;
+    FILE *fp;                                                     // file datatype needs a pointer
 
-    fp = fopen("file-test.txt", "w+");
+    fp = fopen("file-test.txt", "w+");                            // open file on write mode, + create new
     
-    fputs("Please put this text in my file. \n", fp);
+    fputs("Please put this text in my file. \n", fp);             //
 
-    fprintf(fp, "Please ALSO put this text in my file... \n");
+    fprintf(fp, "Please ALSO put this text in my file... \n");    //
 
     fclose(fp);
+
+    printf("%s created and written file-test.txt \n", __FILE__);
 
     return 0;
 
