@@ -259,6 +259,20 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     https://udemy.com/learn-c-programming-from-scratch-build-20-terminal-apps/
 
 ```
+### (LearnGood, 2016) 11:45:23
+```
+    C Programming for Beginners Hands-On
+    ________________________________________________________
+
+    ________________________________________________________
+
+    https://udemy.com/user/leangoodin   
+    ... from Baby Steps to Hardcore Programmer
+    Learn the C Programming Language FAST
+    2016
+
+    https://udemy.com/c-programming-language-tutorial-from-baby-steps-to-hardcore-programmer/
+```
 
 ## (HowStuffWorks, 2017) 41p
 ```
