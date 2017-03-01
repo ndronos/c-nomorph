@@ -1,5 +1,7 @@
 // (Igneus, 2015) Linear Search in Array
 
+// Topic: Data Structures
+
 #include <stdio.h>
 
 int main() {
