@@ -12,18 +12,18 @@ int main(int argc, const char * argv[]) {
 
     printf("Program name %s \n", argv[0]);
 
-    if ( argc == 2 )
-    {
+    if ( argc == 2 ) {
         printf("The argument supplied is %s \n", argv[1]);
-    }
-    else if ( argc > 2)
-    {
+    } else if ( argc > 2) {
         printf("Too many arguments supplied. \n");
-    }
-    else
-    {
+    } else {
         printf("One argument expected. \n");
     }
+
+    // tests
+    printf("%s \n", argv[0]);
+    printf("%s \n", argv[1]);
+    printf("%s \n", argv[2]);
 
 }
 
