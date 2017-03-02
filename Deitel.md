@@ -22,6 +22,16 @@
 13  Preprocessor
 14  Other Topics
 
+A   Operator Precedence Chart
+B   ASCII Character Set
+C   Number Systems
+D   Sorting: A Deeper Look
+E   Additional Features of the C Standard
+F   Using the Visual Studio Debugger
+G   Using the GNU Debugger
+
+    Index
+
     _______________________________________________
 
     Paul Deitel, Haarvey Deitel
