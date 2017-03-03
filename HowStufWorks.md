@@ -123,3 +123,16 @@ Avoid
 
 (HowStuffWorks, 2017) pp. 9
 ```
+
+```
+Arrays
+
+- C has no range checking
+        so if you index past the end of the array, it will not tell you about it.
+        it will eventually crash or give you garbage data.
+
+
+(HowStuffWorks, 2017) pp. 10
+```
+
+
