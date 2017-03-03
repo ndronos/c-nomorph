@@ -76,4 +76,14 @@ and that will make your typos easier to find when you make them for real.
 (HowStuffWorks, 2017) pp. 7
 ```
 
+```
+Branching and Looping
+
+In C, both `if` statements and `while` loops rely on the idea of *boolean expressions*.
+
+
+(HowStuffWorks, 2017) pp. 8
+```
+
+
 
