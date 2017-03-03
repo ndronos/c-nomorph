@@ -81,6 +81,19 @@ Branching and Looping
 
 In C, both `if` statements and `while` loops rely on the idea of *boolean expressions*.
 
+Here are all the Boolean operators in C:
+
+    equality          ==      //  = to assign a value
+    less than         <
+    greather than     >
+    <=                <=
+    >=                >=
+    inequality        !=
+    not               !
+    and               &&
+    or                ||
+    
+
 
 (HowStuffWorks, 2017) pp. 8
 ```
