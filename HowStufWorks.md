@@ -29,5 +29,13 @@ A library is simply a package of code that someone else has written...
 ```
 - man 3 printf
 
+```
+Variables
+
+int i;  // Create a space called `i` able to hold integer value
+
+(HowStuffWorks, 2017) pp. 4
+```
+
 
 
