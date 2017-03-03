@@ -111,3 +111,15 @@ In C
 - How Boolean Logic Works - http://computer.howstuffworks.com/boolean.html/printable
 
 
+```
+Avoid
+
+- forgetting to increment the counter inside the while loop - get an infinite loop, never ends
+
+- accidentally putting a `;` at the end of `for` loop or `if` statement
+  so that the statement has no effect (semicolon acts as one (empty) line to execute)
+    for (x=1; x<10; x++); printf("%d, x);   // only prints one value
+
+
+(HowStuffWorks, 2017) pp. 9
+```
