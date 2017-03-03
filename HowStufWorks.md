@@ -12,3 +12,22 @@ can be written in C, and many modern operating systems are written in C.
 (HowStuffWorks, 2017) pp. 1
 ```
 
+```
+The Simplest C Program: What's Happening?
+
+...
+stdio.h   Standard I/O Library
+          standard in  ~ keyboard
+          standard out ~ screen
+
+A library is simply a package of code that someone else has written...
+
+{ }       block
+
+
+(HowStuffWorks, 2017) pp. 3
+```
+- man 3 printf
+
+
+
