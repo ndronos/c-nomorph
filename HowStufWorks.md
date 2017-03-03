@@ -67,5 +67,13 @@ Scanf
 
 ```
 
+Make each error by itself and run...
+By simulating error like these you can learn about different compiler errors,
+and that will make your typos easier to find when you make them for real.
+... watch how compiler reacts to... errors.
+
+
+(HowStuffWorks, 2017) pp. 7
+```
 
 
