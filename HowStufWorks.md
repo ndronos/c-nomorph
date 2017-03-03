@@ -93,7 +93,9 @@ Here are all the Boolean operators in C:
     and               &&
     or                ||
     
-
+The `,` comma operator lets you separate several different statements
+        in the initialization and increment sections (but notin the test section)
+        of the `for` loop
 
 (HowStuffWorks, 2017) pp. 8
 ```
