@@ -97,6 +97,15 @@ The `,` comma operator lets you separate several different statements
         in the initialization and increment sections (but notin the test section)
         of the `for` loop
 
+Boolean expressions evaluate to integers in C,
+                            and integers can be used inside Boolean expressions
+
+In C
+      The integer value 0 is        False
+      Any other integer value is    True
+   or Anything other than 0 is      True
+
+
 (HowStuffWorks, 2017) pp. 8
 ```
 - How Boolean Logic Works - http://computer.howstuffworks.com/boolean.html/printable
