@@ -9,7 +9,7 @@ int main() {
 
     for (i=0; i<5; i++) {
         
-        a=i; 
+        a[i]=i;        //a=i;  //initialize all values in the array to 0 //error: array... not assignable
         printf("a[%d] = %d \n", i, a[i]);
     
     }
