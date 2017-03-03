@@ -99,6 +99,6 @@ The `,` comma operator lets you separate several different statements
 
 (HowStuffWorks, 2017) pp. 8
 ```
-
+- How Boolean Logic Works - http://computer.howstuffworks.com/boolean.html/printable
 
 
