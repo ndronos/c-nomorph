@@ -43,12 +43,29 @@ Printf: Reading User Values
 
 %x    Placeholder must match types and number/order of parameters
 
-  &   Address Operator (topic: pointers)
-      need to use with `scanf`
 
 (HowStuffWorks, 2017) pp. 6
 ```
+
+```
+Scanf
+
+  &   Address Operator (topic: pointers)
+      need to use with `scanf`
+
+      can do a lot of different things
+      but generally unreliable unless used in the simplest ways
+                            |--> because it does not handle human errors very well.
+
+      in a real program, you will `gets` or `fgets` functions instead
+                                                    to read text a line at a time.
+                                                    then parse the line to read its values
+
+(HowStuffWorks, 2017) pp. 7
+```
 - man scanf
+
+```
 
 
 
