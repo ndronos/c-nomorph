@@ -35,7 +35,20 @@ Variables
 int i;  // Create a space called `i` able to hold integer value
 
 (HowStuffWorks, 2017) pp. 4
+
 ```
+
+```
+Printf: Reading User Values
+
+%x    Placeholder must match types and number/order of parameters
+
+  &   Address Operator (topic: pointers)
+      need to use with `scanf`
+
+(HowStuffWorks, 2017) pp. 6
+```
+- man scanf
 
 
 
