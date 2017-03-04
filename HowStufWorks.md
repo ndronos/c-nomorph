@@ -37,7 +37,10 @@ C developers worked through the 1980s to create standards for the language.
 C89   1989  /ANSI C   /ISO C
 C99   1999  /Revision
 
-
+As computer became more powerful, demand increased...
+to build their own compilers, and thus
+their own new programming languages, using C.
+These new languages could simplify coding complex tasks with lots of moving parts...
 
 
 
