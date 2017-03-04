@@ -62,6 +62,10 @@ functions:
     block of code,
     what computer should do when the program runs
     
+variables:
+
+    add flexibility to run programs without knowing values ahead of time
+    like in Algebra, a variable is a placeholder that stands for some value
 
 
 ```
