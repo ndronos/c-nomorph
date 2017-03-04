@@ -159,4 +159,15 @@ Typecasting
 (HowStuffWorks, 2017) pp. 11
 ```
 
+```
+Typedef
+
+- you declare named, user-defined types in C
+
+- you can place typef statements anywhere in a C program
+  as long as they come prior to their first use in the code
+
+
+(HowStuffWorks, 2017) pp. 11
+```
 
