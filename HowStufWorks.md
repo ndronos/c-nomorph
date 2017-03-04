@@ -54,6 +54,23 @@ These new languages could simplify coding complex tasks with lots of moving part
 (HowStuffWorks, 2017) pp. 1
 ```
 
+```
+Common Programming Concepts in C
+
+functions:
+
+    block of code,
+    what computer should do when the program runs
+    
+
+
+```
+
+
+
+
+---
+
 
 
 ## The Basics of C Programming
