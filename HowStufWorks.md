@@ -1,5 +1,19 @@
 ## (HowStuffWorks, 2017) 41p
 
+## How C Programming Works
+```
+If you are an IT specialist, you could also benefit from learning C.
+IT professionals often write, maintain and run scripts as part of their job.
+A script is a list of instructions for a computer's operating system to follow.
+To run certain scripts, the computer sets up a controlled execution environment
+called shell. Since most operating systems runs shell based on C,
+C shell is a popular scripting adaptation of C used by IT pros.
+
+
+(HowStuffWorks, 2017) pp. 1
+```
+
+
 ## The Basics of C Programming
 
 ```
