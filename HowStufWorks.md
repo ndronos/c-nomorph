@@ -76,6 +76,13 @@ loops:
     repeat an action some number of times, based on certain conditions
     a block of code designed to repeat based on give conditions
 
+data structures:
+
+    when need to sort or search through a lot of data
+    structured way of representing several pieces of data of the same data type
+    C has libraries available to handle some common data structures,
+    though you can always write functions and set up your own structures, too.
+
 
 ```
 
