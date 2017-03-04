@@ -22,6 +22,20 @@ This understanding can help you write programs that work more efficiently.
 (HowStuffWorks, 2017) pp. 1
 ```
 
+```
+What is C?
+...
+BCPL
+B
+ C    1970s /Ken Thompson     /Dennis Ritchie   /Bell Labs 
+K&R   1978  /Brian Kernighan  /Dennis Ritchie   /"White Book"   /pre-standard
+K&R   1988  /2nd Edition
+
+
+
+(HowStuffWorks, 2017) pp. 1
+```
+
 
 
 ## The Basics of C Programming
