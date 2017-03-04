@@ -34,6 +34,9 @@ B           /Ken Thompson   /first attempt at a high-level language   /BCPL base
 K&R   1978  /Brian Kernighan  /Dennis Ritchie   /"White Book"   /pre-standard
 K&R   1988  /2nd Edition
 
+When Bell Labs acquired DEC PDP-11, Thompson reworked B to better fit the demands
+of the newer, better system hardware. Thus, B's successor, C, was born.
+By 1973, C was stable enough that UNIX itself could be rewritten using... C.
 
 To ensure that people didn't create their own dialects over time,
 C developers worked through the 1980s to create standards for the language.
