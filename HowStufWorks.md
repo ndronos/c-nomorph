@@ -171,3 +171,11 @@ Typedef
 (HowStuffWorks, 2017) pp. 11
 ```
 
+```
+Structures
+
+- structures in C allow you to group variable into a package.
+
+
+(HowStuffWorks, 2017) pp. 11
+```
