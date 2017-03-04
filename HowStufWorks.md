@@ -149,3 +149,10 @@ More on Arrays Variable Types
 
 (HowStuffWorks, 2017) pp. 10
 ```
+
+```
+Typercasting
+
+
+(HowStuffWorks, 2017) pp. 11
+```

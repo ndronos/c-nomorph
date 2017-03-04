@@ -16,5 +16,10 @@ int main() {
     c = (float)10 / 3;  // 3 ????
     printf("%d \n", c);
 
+    int d;
+    d = 10/(float)3;    //3 ?????
+    printf("%f \n", d);
+
+
 }
 
