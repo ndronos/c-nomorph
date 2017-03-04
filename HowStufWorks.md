@@ -179,3 +179,18 @@ Structures
 
 (HowStuffWorks, 2017) pp. 11
 ```
+
+```
+Incrementing
+
+Long way    Short way
+i=i+1;      i++;
+i=i-1;      i--;
+i=i+3;      i+=3;
+-=i*j;      i*=j;
+
+(HowStuffWorks, 2017) pp. 11
+```
+
+
+
