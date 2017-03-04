@@ -4,9 +4,13 @@
 
 int main() {
 
-    float a;
-    a = 10 / 3;         // 3.000000
-    printf("%f \n", a);
+    int a;              // int
+    a = 10 / 3;         // 3
+    printf("%d \n", a); // %d
+
+    float b;            // float
+    b = 10 / 3;         // 3.000000
+    printf("%f \n", b); // %f
 
 
 }
