@@ -71,6 +71,12 @@ operations:
 
     built-in operations specifically designed for things to do with your data
 
+loops:
+
+    repeat an action some number of times, based on certain conditions
+    a block of code designed to repeat based on give conditions
+
+
 ```
 
 
