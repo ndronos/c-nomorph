@@ -34,9 +34,9 @@ K&R   1988  /2nd Edition
 To ensure that people didn't create their own dialects over time,
 C developers worked through the 1980s to create standards for the language.
 
-C89   1989  /ANSI 
-C90   1990  /ISO
-C99
+C89   1989  /ANSI C   /ISO C
+C99   1999  /Revision
+
 
 
 
