@@ -197,6 +197,8 @@ Terminal `cmd+space` > `xcode-select --install`
 
 GNU Compiler Collection... for `C C++ Objective-C Go Fortran Ada`...
 
+ `-std` standard version to compile `c99`
+  
 
 ` ` default file output
 
