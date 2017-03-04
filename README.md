@@ -345,4 +345,17 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     http://computer.howstuffworks.com/c.htm
 ```
 
+```
+    How C Programming Works
+    _________________________________________________________
 
+
+    _________________________________________________________
+
+    HowStuffWorks, Marshall Brain & Stephaine Crawford
+    2017, 2011, 2000
+
+    http://computer.howstuffworks.com/c-programming.htm/printable
+    http://computer.howstuffworks.com/c-programming.htm
+
+```
