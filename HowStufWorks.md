@@ -151,8 +151,12 @@ More on Arrays Variable Types
 ```
 
 ```
-Typercasting
+Typecasting
 
+  - placing the type name in parentheses and putting in front of the value you want to change
+    a=10/3 ~ a=(float)10/3 ~ a=10/(float)3
 
 (HowStuffWorks, 2017) pp. 11
 ```
+
+
