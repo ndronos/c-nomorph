@@ -12,6 +12,9 @@ int main() {
     b = 10 / 3;         // 3.000000
     printf("%f \n", b); // %f
 
+    int c;
+    c = (float)10 / 3;  // 3 ????
+    printf("%d \n", c);
 
 }
 
