@@ -25,11 +25,15 @@ This understanding can help you write programs that work more efficiently.
 ```
 What is C?
 ...
-BCPL
-B
- C    1970s /Ken Thompson     /Dennis Ritchie   /Bell Labs 
+Assembly programs, which speak directly to hardware,
+are long and difficult to debug, required tedious/time consuming work to add new features.
+
+BCPL  1967  /Basic Combined Programming Language      /"Before C" PL
+B           /Ken Thompson   /first attempt at a high-level language   /BCPL based
+ C    1970s /Ken Thompson     /Dennis Ritchie   /Bell Labs  /friendly+ instructions for UNIX  /DEC PDP-11
 K&R   1978  /Brian Kernighan  /Dennis Ritchie   /"White Book"   /pre-standard
 K&R   1988  /2nd Edition
+
 
 To ensure that people didn't create their own dialects over time,
 C developers worked through the 1980s to create standards for the language.
