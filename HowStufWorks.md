@@ -135,4 +135,17 @@ Arrays
 (HowStuffWorks, 2017) pp. 10
 ```
 
+```
+More on Arrays Variable Types
 
+  Operators and Operators Precedence
+
+    + addition
+    - subtraction
+    / division        // performs integer division if both are integer, floating point otherwise
+    * multiplication
+    % mod
+
+
+(HowStuffWorks, 2017) pp. 10
+```
