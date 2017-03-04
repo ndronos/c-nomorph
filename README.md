@@ -349,6 +349,19 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     How C Programming Works
     _________________________________________________________
 
+0   Intro
+1   What is C?
+2   Editing and Compiling C Code
+3   The Simplest C Program
+4   Common Programming Concepts in C
+5   Functions in C
+6   Function Prototypes
+7   Data Types and Operations in C
+8   Don't Start from Scratch, Use Libraries
+9   Some Pointers about Pointers in C
+10  Using Pointers Correctly in C
+11  The Importance of Memory Management in C
+12  More Great Links
 
     _________________________________________________________
 
