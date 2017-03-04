@@ -89,8 +89,24 @@ preprocessor operations:
     like including code from C libraries and 
     substituting constant values...
 
+
+(HowStuffWorks, 2017) pp. 4
 ```
 
+```
+C also requires programmers to handle some concepts which many programming languages
+have simplified or automated. These include:
+  - pointers
+  - memory management
+  - garbage collection
+
+...
+Before you move on to tackle a dense C programming guide,
+let's take a user-friendly look at the core concepts among those listed above...
+
+
+(HowStuffWorks, 2017) pp. 4
+```
 
 
 
