@@ -8,6 +8,10 @@ everything from microcontrollers to the most advanced scientific systems
 can be written in C, and many modern operating systems are written in C.
 ...
 
+... you'll better understand what high-level languages are doing behind the scenes,
+such as memory management and garbage collection.
+This understanding can help you write programs that work more efficiently.
+
 
 (HowStuffWorks, 2017) pp. 1
 ```
