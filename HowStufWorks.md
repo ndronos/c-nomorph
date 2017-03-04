@@ -83,6 +83,11 @@ data structures:
     C has libraries available to handle some common data structures,
     though you can always write functions and set up your own structures, too.
 
+preprocessor operations:
+
+    instructions on things to do BEFORE compiling into the executable
+    like including code from C libraries and 
+    substituting constant values...
 
 ```
 
