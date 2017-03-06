@@ -388,6 +388,8 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 6   Pointers, Arrays, Strings                      79
 7   Input, Output                                 107
 8   Structures, Unions                            125
+9   Dynamic Storage                               143
+
     _________________________________________________
 
     Donald Alcock
