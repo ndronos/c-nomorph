@@ -385,6 +385,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 3   Components                                     27
 4   Control                                        51
 5   Organization                                   65
+6   Pointers, Arrays, Strings                      79
     _________________________________________________
 
     Donald Alcock
