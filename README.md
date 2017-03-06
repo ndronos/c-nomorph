@@ -381,6 +381,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
     _________________________________________________
 
+    Donald Alcock
     2008, 1998, 1993, 1992
   
 
