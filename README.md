@@ -390,6 +390,9 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 8   Structures, Unions                            125
 9   Dynamic Storage                               143
 10  Library                                       163
+11  Summaries                                     195
+
+    Bibliography                                  209
     _________________________________________________
 
     Donald Alcock
