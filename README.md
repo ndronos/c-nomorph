@@ -383,7 +383,8 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 1   Introduction                                    1
 2   Concepts                                       11
 3   Components                                     27
-
+4   Control                                        51
+5   Organization                                   65
     _________________________________________________
 
     Donald Alcock
