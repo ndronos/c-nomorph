@@ -393,6 +393,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 11  Summaries                                     195
 
     Bibliography                                  209
+    Index                                         210
     _________________________________________________
 
     Donald Alcock
