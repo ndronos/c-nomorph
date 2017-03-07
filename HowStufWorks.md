@@ -342,6 +342,7 @@ A function call is a statement or part of a statement within another function.
 The function call names the function it's calling followed by parentheses.
 If the function has paameters, the function call must include corresponding
 values to match those parameters.
+This additional part of the function call is called passing parameters to the function.
 
 
 
