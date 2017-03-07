@@ -306,5 +306,13 @@ i=i+3;      i+=3;
 (HowStuffWorks, 2017) pp. 11
 ```
 
+```
+Functions
+
+functions let you chop up a long program
+into named sections so that the sections
+can be reused throughout the program.
 
 
+(HowStuffWorks, 2017) pp. 12
+```
