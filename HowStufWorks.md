@@ -328,6 +328,15 @@ Functions
 
 the block of code that comprises a function is its function definition
 
+basic structure of a function definition:
+
+  <return type> <function name> (<parameters>) {
+
+      <statements>
+
+      return <value appropriate for the return type>;
+  }
+
 
 (HowStuffWorks, 2017) pp. 5
 ```
