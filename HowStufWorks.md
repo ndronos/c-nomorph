@@ -349,6 +349,7 @@ the function requires to do its work.
 Functions in C can accept an unlimited number of parameters, sometimes called arguments.
 Each parameter added to a function definition must specify two things:
 its datatype and its variable name within the function block.
+Multiple parameters are separated by a comma.
 
 
 
