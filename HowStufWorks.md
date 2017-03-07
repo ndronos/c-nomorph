@@ -313,6 +313,9 @@ functions let you chop up a long program
 into named sections so that the sections
 can be reused throughout the program.
 
+functions accept parameters and return a result.
+
+
 
 (HowStuffWorks, 2017) pp. 12
 ```
