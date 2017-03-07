@@ -322,3 +322,12 @@ so long as a the function name is known to the compiler before it is called.
 
 (HowStuffWorks, 2017) pp. 12
 ```
+
+```
+Functions
+
+the block of code that comprises a function is its function definition
+
+
+(HowStuffWorks, 2017) pp. 5
+```
