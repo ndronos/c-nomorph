@@ -315,6 +315,8 @@ can be reused throughout the program.
 
 functions accept parameters and return a result.
 
+C functions can accept an unlimited number of parameters
+
 
 
 (HowStuffWorks, 2017) pp. 12
