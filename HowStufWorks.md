@@ -337,6 +337,11 @@ The compiler will look for a `main` function as the starting point
 for the program, even if the `main` function calls other functions
 within it.
 
+Functions other than main have a definition and one more function calls.
+A function call is a statement or part of a statement within another function.
+The function call names the function it's calling followed by parentheses.
+
+
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
