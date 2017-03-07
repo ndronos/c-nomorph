@@ -333,6 +333,9 @@ basic structure of a function definition:
 
 At a minimum, a C program has one function named `main`.
 
+The compiler will look for a `main` function as the starting point
+for the program, even if the `main` function calls other functions
+within it.
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
