@@ -320,12 +320,6 @@ C functions can accept an unlimited number of parameters
 C does not care in what order you put your functions in the program,
 so long as a the function name is known to the compiler before it is called.
 
-(HowStuffWorks, 2017) pp. 12
-```
-
-```
-Functions
-
 the block of code that comprises a function is its function definition
 
 basic structure of a function definition:
@@ -338,5 +332,5 @@ basic structure of a function definition:
   }
 
 
-(HowStuffWorks, 2017) pp. 5
+(HowStuffWorks, 2017) pp. 5 & 12
 ```
