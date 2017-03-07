@@ -331,6 +331,8 @@ basic structure of a function definition:
       return <value appropriate for the return type>;
   }
 
+At a minimum, a C program has one function named `main`.
+
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
