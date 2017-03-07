@@ -344,6 +344,8 @@ If the function has paameters, the function call must include corresponding
 values to match those parameters.
 This additional part of the function call is called passing parameters to the function.
 
+Paramter for a function is a piece of data of a certain data type that
+the function requires to do its work.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
