@@ -347,6 +347,7 @@ This additional part of the function call is called passing parameters to the fu
 Paramter for a function is a piece of data of a certain data type that
 the function requires to do its work.
 Functions in C can accept an unlimited number of parameters, sometimes called arguments.
+Each parameter added to a function definition must specify two things:
 
 
 
