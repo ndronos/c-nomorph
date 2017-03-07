@@ -375,8 +375,10 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
 ```
 
+## Illustrating C (ANSI/ISO Version, Revised Edition) 214p
+
 ```
-    Illustrating C (ANSI/ISO Version) Revised Edition
+    Illustrating C (ANSI/ISO Version, Revised Edition)
     _________________________________________________
 
     Preface
