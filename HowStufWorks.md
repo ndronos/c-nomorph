@@ -317,7 +317,8 @@ functions accept parameters and return a result.
 
 C functions can accept an unlimited number of parameters
 
-
+C does not care in what order you put your functions in the program,
+so long as a the function name is known to the compiler before it is called.
 
 (HowStuffWorks, 2017) pp. 12
 ```
