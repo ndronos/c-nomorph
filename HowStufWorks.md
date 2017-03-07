@@ -340,6 +340,8 @@ within it.
 Functions other than main have a definition and one more function calls.
 A function call is a statement or part of a statement within another function.
 The function call names the function it's calling followed by parentheses.
+If the function has paameters, the function call must include corresponding
+values to match those parameters.
 
 
 
