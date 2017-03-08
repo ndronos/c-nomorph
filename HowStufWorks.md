@@ -411,7 +411,11 @@ function declarations   did not require any parameters,
                         so the return type, function name and a pair of empty parentheses
                         were sufficient. You will hear the term function declarations
                         more than function prototype, especially among older C programmers.
-                      
+
+A prototype declares the function name, its parameters, and its return type
+to the rest of the program prior to the function's actual declaration.
+
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
