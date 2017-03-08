@@ -18,9 +18,9 @@ int factorial(int i) {
 
 int main() {
 
-    int x = 4;
+    int x = 3;
 
-    printf("Factorial of %d is %d. \n", x, factorial(4));
+    printf("Factorial of %d is %d. \n", x, factorial(x));
 
 }
 
