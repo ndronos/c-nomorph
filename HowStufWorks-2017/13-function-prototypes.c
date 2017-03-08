@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-
+int factorial(int);
+int add(int, int);
 
 //  warning: implicit declaration of function ... is invalid in C99
 //      [-Wimplicit-function-declaration]
