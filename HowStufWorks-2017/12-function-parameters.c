@@ -21,6 +21,15 @@ int add(int i, int j) {
 
 }
 
+/* Old Style
+int old(int i, int j)
+    int i;
+    int j;
+{
+    return i+j;
+}
+*/
+
 int main() {
 
     int x = 3, y = 4;
@@ -28,5 +37,6 @@ int main() {
     printf("Factorial of %d is %d. \n", x, factorial(x));
     
     printf("Add %d and %d is %d. \n", x, y, add(x, y));
+
 }
 
