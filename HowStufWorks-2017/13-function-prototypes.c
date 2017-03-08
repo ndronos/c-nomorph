@@ -5,6 +5,7 @@
 int factorial(int);
 int add(int, int);
 
+// Order changed, main first, NO function prototypes
 //  warning: implicit declaration of function ... is invalid in C99
 //      [-Wimplicit-function-declaration]
 // ... still running program.
