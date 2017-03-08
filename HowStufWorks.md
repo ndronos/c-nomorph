@@ -351,6 +351,9 @@ Each parameter added to a function definition must specify two things:
 its datatype and its variable name within the function block.
 Multiple parameters are separated by a comma.
 
+Function may have no local variables, but if needed locals,
+they would go right below the opening {, C allow you declare variables after any {
+they exist until the program reaches the matching } and then they disappear.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
