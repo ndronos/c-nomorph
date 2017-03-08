@@ -360,6 +360,8 @@ While they exist, local variables love in the system stack.
 Note that there is no ; after () in the first line.
 If you accidentally putone in, you will get a huge cascade of error messages
 from the compiler that make no sense.
+Also note that even though there are no parameters, you must use the ().
+
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
