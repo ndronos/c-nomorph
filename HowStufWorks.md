@@ -370,7 +370,8 @@ This means you can place multiple return statements in the function to give it
 multiple exit points.
 If you do not place a return statement in a function,
 the function returns when it reaches } and return a random value
-
+(many compilers will warn you if you fail to return a specif value).
+ 
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
