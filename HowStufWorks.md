@@ -416,6 +416,9 @@ A prototype declares the function name, its parameters, and its return type
 to the rest of the program prior to the function's actual declaration.
 
 Many C compilers do not check for parameter matching either in type or count.
+You can waste an enormous amount of time debugging code in which
+you are simply passing one too many or too few parameters by mistake.
+Code compiles properly, but it produces the wrong answer.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
