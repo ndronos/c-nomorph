@@ -363,6 +363,10 @@ from the compiler that make no sense.
 Also note that even though there are no parameters, you must use the ().
 They tell the compiler that you are declaring a function rather than simply declaring an int.
 
+The return statement is important to any function that returns a result.
+Is specifies the value that the function will return and causes the function
+to exit immediately.
+
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
