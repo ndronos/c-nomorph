@@ -407,7 +407,11 @@ function prototypes     gives the compiler important additional information
                         it will call. Prototypes have become a best approach
                         among coders today...
 
-
+function declarations   did not require any parameters,
+                        so the return type, function name and a pair of empty parentheses
+                        were sufficient. You will hear the term function declarations
+                        more than function prototype, especially among older C programmers.
+                      
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
