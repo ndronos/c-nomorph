@@ -1,6 +1,18 @@
-// (HowStuffWorks, 2017) Functions
+// (HowStuffWorks, 2017) Function Prototypes
 
 #include <stdio.h>
+
+
+int main() {
+
+    int x = 3, y = 4;
+    
+    printf("Factorial of %d is %d. \n", x, factorial(x));
+    
+    printf("Add %d and %d is %d. \n", x, y, add(x, y));
+
+}
+
 
 int factorial(int i) {
 
@@ -30,13 +42,4 @@ int old(int i, int j)
 }
 */
 
-int main() {
-
-    int x = 3, y = 4;
-    
-    printf("Factorial of %d is %d. \n", x, factorial(x));
-    
-    printf("Add %d and %d is %d. \n", x, y, add(x, y));
-
-}
 
