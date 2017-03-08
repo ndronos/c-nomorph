@@ -386,7 +386,8 @@ C functions can accept parameters of any type. Separate multiple parameters with
 ```
 Function Prototypes
 
-
+In C, you can add a function definition anywhere within the program (except another function).
+ 
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
