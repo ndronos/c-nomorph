@@ -376,7 +376,7 @@ Functions can use a void return type if you intend to return nothing.
 You must include () in the call. If you don't, the function is not called.
 even though it will compile correctly on many systems.
 
-C functions can accept parameters of any type.
+C functions can accept parameters of any type. Separate multiple parameters with commas.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
