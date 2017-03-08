@@ -402,6 +402,12 @@ before you start assembling the bookshelf.
 The compiler uses the function prototypes in the same way before it starts
 assembling your program.
  
+function prototypes     gives the compiler important additional information
+                        by including the number and data types of the parameters
+                        it will call. Prototypes have become a best approach
+                        among coders today...
+
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
