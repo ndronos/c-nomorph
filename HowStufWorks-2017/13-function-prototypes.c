@@ -33,13 +33,4 @@ int add(int i, int j) {
 
 }
 
-/* Old Style
-int old(int i, int j)
-    int i;
-    int j;
-{
-    return i+j;
-}
-*/
-
 
