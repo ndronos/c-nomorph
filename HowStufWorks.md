@@ -357,6 +357,8 @@ they exist until the program reaches the matching } and then they disappear.
 A function's local variable therefore vanish as soon as matching } is reached in the function.
 While they exist, local variables love in the system stack.
 
+Note that there is no ; after () in the first line.
+
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
