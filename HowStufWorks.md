@@ -368,6 +368,8 @@ Is specifies the value that the function will return and causes the function
 to exit immediately.
 This means you can place multiple return statements in the function to give it
 multiple exit points.
+If you do not place a return statement in a function,
+the function returns when it reaches } and return a random value
 
 
 
