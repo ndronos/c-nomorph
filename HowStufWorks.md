@@ -421,6 +421,9 @@ you are simply passing one too many or too few parameters by mistake.
 Code compiles properly, but it produces the wrong answer.
 
 Place one prototype for each function at the beginning of your program.
+They can save a great deal of debugging time, and they alse solve the problem
+you get when you compile with functions that you use before they are declared.
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
