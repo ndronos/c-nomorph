@@ -395,7 +395,11 @@ The prototype is a statement that looks similar to the first line of the definit
 In C, you don't have to give the names of the parameters in the prototype, only the data types.
 
 Imagine function prototypes as the packaging list for your program.
-
+The compiler will unpack and assemble your program just as you might unpack and assemble
+a new bookshelf.
+The package list helps you ensure you have all the pieces you need in the box
+before you start assembling the bookshelf.
+ 
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
