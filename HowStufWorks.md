@@ -390,6 +390,7 @@ In C, you can add a function definition anywhere within the program (except anot
 The only condition is that you msut tell the compiler in advance that the function exists
 somewhere later in the code.
 You'll do this with a function prototype at the beginning of the program.
+The prototype is a statement that looks similar to the first line of the definition.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
