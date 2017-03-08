@@ -366,6 +366,9 @@ They tell the compiler that you are declaring a function rather than simply decl
 The return statement is important to any function that returns a result.
 Is specifies the value that the function will return and causes the function
 to exit immediately.
+This means you can place multiple return statements in the function to give it
+multiple exit points.
+
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
