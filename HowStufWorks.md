@@ -399,6 +399,8 @@ The compiler will unpack and assemble your program just as you might unpack and 
 a new bookshelf.
 The package list helps you ensure you have all the pieces you need in the box
 before you start assembling the bookshelf.
+The compiler uses the function prototypes in the same way before it starts
+assembling your program.
  
 
 (HowStuffWorks, 2017) pp. 6 & 13
