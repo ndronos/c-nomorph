@@ -381,3 +381,13 @@ C functions can accept parameters of any type. Separate multiple parameters with
 
 (HowStuffWorks, 2017) pp. 5 & 12
 ```
+
+
+```
+Function Prototypes
+
+
+
+
+(HowStuffWorks, 2017) pp. 6 & 13
+```
