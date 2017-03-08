@@ -355,6 +355,7 @@ Function may have no local variables, but if needed locals,
 they would go right below the opening {, C allow you declare variables after any {
 they exist until the program reaches the matching } and then they disappear.
 A function's local variable therefore vanish as soon as matching } is reached in the function.
+While they exist, local variables love in the system stack.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
