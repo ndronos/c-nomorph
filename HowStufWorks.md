@@ -420,6 +420,7 @@ You can waste an enormous amount of time debugging code in which
 you are simply passing one too many or too few parameters by mistake.
 Code compiles properly, but it produces the wrong answer.
 
+Place one prototype for each function at the beginning of your program.
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
