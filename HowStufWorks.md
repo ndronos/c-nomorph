@@ -361,7 +361,7 @@ Note that there is no ; after () in the first line.
 If you accidentally putone in, you will get a huge cascade of error messages
 from the compiler that make no sense.
 Also note that even though there are no parameters, you must use the ().
-
+They tell the compiler that you are declaring a function rather than simply declaring an int.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
