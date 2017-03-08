@@ -372,6 +372,7 @@ If you do not place a return statement in a function,
 the function returns when it reaches } and return a random value
 (many compilers will warn you if you fail to return a specif value).
 In C, a function can return values of any type: int, float, char, struct, etc.
+Functions can use a void return type if you intend to return nothing.
 
 
 
