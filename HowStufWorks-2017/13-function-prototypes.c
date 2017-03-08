@@ -4,6 +4,10 @@
 
 
 
+//  warning: implicit declaration of function ... is invalid in C99
+//      [-Wimplicit-function-declaration]
+// ... still running program.
+
 int main() {
 
     int x = 3, y = 4;
