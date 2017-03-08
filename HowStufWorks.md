@@ -373,7 +373,8 @@ the function returns when it reaches } and return a random value
 (many compilers will warn you if you fail to return a specif value).
 In C, a function can return values of any type: int, float, char, struct, etc.
 Functions can use a void return type if you intend to return nothing.
-
+You must include () in the call. If you don't, the function is not called.
+even though it will compile correctly on many systems.
 
 
 (HowStuffWorks, 2017) pp. 5 & 12
