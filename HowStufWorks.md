@@ -445,6 +445,10 @@ The data type has a specific size plus its own way of performing operations
 In C, the size of the data type is related to the processor you are using.
 ...
 
+Given these constraints and system-specific peculiarities in C data types and operations,
+C programmers must choose their data types based on the needs of their programs.
+
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
