@@ -442,6 +442,8 @@ in addition to interpreting the data based on a given data type.
 A data type is a small set of rules that indicate how to make sense of a series of bits.
 The data type has a specific size plus its own way of performing operations
 (such as adding and multiplying) on data of that type.
+In C, the size of the data type is related to the processor you are using.
+...
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
