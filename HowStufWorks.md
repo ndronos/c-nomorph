@@ -434,6 +434,8 @@ Datatypes and Operations in C
 From your computer's perspective, data is nothing but a series of ones and zeros
 representing on and off states for the electronic bits on your hard drive or
 in your computer's processor or memory.
+It's the software you're running on a computer that determines how to make sense of
+those billions of binary digits.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
