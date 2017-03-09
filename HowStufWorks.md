@@ -455,6 +455,8 @@ and a set of functions that define how the data can be organized and manipulated
 Though the use of data structures is an advanced programming topic...
 we will take a look at one of the most common structures: arrays.
 An array is a virtual list containing pieces of data that are all the same data type.
+An array's size can't be changed, though its content can be copied to other
+larger or smaller arrays.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
