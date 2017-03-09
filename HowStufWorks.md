@@ -472,5 +472,9 @@ When you are combining several operations into a single statement,
 be sure to know the operator precedence 
 (or the order in which the program will perform each operation in expression)...
 
+If you are learning C, make it a priority to familiarize yourself with all of its
+primitive datatypes and operations and the precedence for operations in the same expression.
+
+
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
