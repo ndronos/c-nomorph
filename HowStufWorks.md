@@ -458,6 +458,12 @@ An array is a virtual list containing pieces of data that are all the same data 
 An array's size can't be changed, though its content can be copied to other
 larger or smaller arrays.
 
+Though programmers often use arrays of numbers,
+character arrays - called strings - have the most unique features.
+A string allows you to save something you might say (like "hello")
+into a series of characters, which your C program can read in from the user or
+print out on the screen.
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
