@@ -431,6 +431,10 @@ you get when you compile with functions that you use before they are declared.
 ```
 Datatypes and Operations in C
 
+From your computer's perspective, data is nothing but a series of ones and zeros
+representing on and off states for the electronic bits on your hard drive or
+in your computer's processor or memory.
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
