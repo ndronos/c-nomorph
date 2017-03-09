@@ -468,6 +468,9 @@ it has its own dedicated C library <string.h> with your typical string functions
 
 The built-in operations in C are the typical operations you'd find in most
 programming languages.
+When you are combining several operations into a single statement,
+be sure to know the operator precedence 
+(or the order in which the program will perform each operation in expression)...
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
