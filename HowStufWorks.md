@@ -474,6 +474,7 @@ be sure to know the operator precedence
 
 If you are learning C, make it a priority to familiarize yourself with all of its
 primitive datatypes and operations and the precedence for operations in the same expression.
+Also, experiment with different operations on variables and numbers of different data types.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
