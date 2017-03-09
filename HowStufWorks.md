@@ -463,7 +463,8 @@ character arrays - called strings - have the most unique features.
 A string allows you to save something you might say (like "hello")
 into a series of characters, which your C program can read in from the user or
 print out on the screen.
-
+String manipulation has such a unique set of operations,
+it has its own dedicated C library <string.h> with your typical string functions.
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
