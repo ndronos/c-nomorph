@@ -440,7 +440,8 @@ C is one of few high-level languages that can easy manipulate data at the bit le
 in addition to interpreting the data based on a given data type.
 
 A data type is a small set of rules that indicate how to make sense of a series of bits.
-
+The data type has a specific size plus its own way of performing operations
+(such as adding and multiplying) on data of that type.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
