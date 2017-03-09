@@ -427,3 +427,10 @@ you get when you compile with functions that you use before they are declared.
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
+
+```
+Datatypes and Operations in C
+
+
+(HowStuffWorks, 2017) pp. 6 & 13
+```
