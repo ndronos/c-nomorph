@@ -452,6 +452,8 @@ meaning those built in to the C programming language...
 
 C programmers can also create data structures, which combine primitive data types
 and a set of functions that define how the data can be organized and manipulated.
+Though the use of data structures is an advanced programming topic...
+we will take a look at one of the most common structures: arrays.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
