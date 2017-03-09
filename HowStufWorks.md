@@ -436,6 +436,8 @@ representing on and off states for the electronic bits on your hard drive or
 in your computer's processor or memory.
 It's the software you're running on a computer that determines how to make sense of
 those billions of binary digits.
+C is one of few high-level languages that can easy manipulate data at the bit level
+in addition to interpreting the data based on a given data type.
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
