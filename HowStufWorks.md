@@ -479,3 +479,15 @@ Also, experiment with different operations on variables and numbers of different
 
 (HowStuffWorks, 2017) pp. 7
 ```
+
+```
+Libraries; Don't Start from Scratch
+
+... how C enables you to write programs without starting from scratch every time.
+
+
+
+
+
+(HowStuffWorks, 2017) pp. 8
+```
