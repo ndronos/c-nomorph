@@ -477,5 +477,5 @@ primitive datatypes and operations and the precedence for operations in the same
 Also, experiment with different operations on variables and numbers of different data types.
 
 
-(HowStuffWorks, 2017) pp. 6 & 13
+(HowStuffWorks, 2017) pp. 7
 ```
