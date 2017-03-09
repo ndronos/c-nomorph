@@ -450,6 +450,9 @@ C programmers must choose their data types based on the needs of their programs.
 Some of the data types can choose are the primitive data types in C,
 meaning those built in to the C programming language...
 
+C programmers can also create data structures, which combine primitive data types
+and a set of functions that define how the data can be organized and manipulated.
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
