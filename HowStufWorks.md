@@ -447,7 +447,8 @@ In C, the size of the data type is related to the processor you are using.
 
 Given these constraints and system-specific peculiarities in C data types and operations,
 C programmers must choose their data types based on the needs of their programs.
-
+Some of the data types can choose are the primitive data types in C,
+meaning those built in to the C programming language...
 
 
 (HowStuffWorks, 2017) pp. 6 & 13
