@@ -439,6 +439,9 @@ those billions of binary digits.
 C is one of few high-level languages that can easy manipulate data at the bit level
 in addition to interpreting the data based on a given data type.
 
+A data type is a small set of rules that indicate how to make sense of a series of bits.
+
+
 
 (HowStuffWorks, 2017) pp. 6 & 13
 ```
