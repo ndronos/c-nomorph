@@ -575,6 +575,8 @@ Makefiles     *make working with libraries a bit easier*
 
 makefile      NOTE: must precede all `gcc` lines with a TAB
 
+main: main.o util.o
+    gcc -o main main.o util.o
 
 
 
