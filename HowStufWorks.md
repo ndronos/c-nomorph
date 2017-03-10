@@ -493,6 +493,11 @@ it's often put into a library to make it easily reusable.
 
 #include    instructs the C compiler to load the library from its header file name
 
+C maintainers include standard C libraries for
+  - I/O
+  - mathematical functions
+  - time manipulation
+  - common operations on certain data structures, such as a string of characters
 
 (HowStuffWorks, 2017) pp. 8
 ```
