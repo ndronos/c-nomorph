@@ -514,8 +514,8 @@ The function definitions you'll write are not any different whether they are
 in a library or in your main program.
 The difference is that you will *compile* them separately in something called
 an *object* file (.o extension), and you will create a second file, called
-*header* file (.h extension)
-
+*header* file (.h extension) which contains the function prototypes corresponding
+to each function in the library.
 
 
 (HowStuffWorks, 2017) pp. 8
