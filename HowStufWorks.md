@@ -553,6 +553,7 @@ $ gcc -c -g mylib.c
                     object file contains the library's machine code
                     it cannot be executed until it is linked to a program file
                     that contains a main function.
+                    the machine code resides in a separate file named *.o
 
 (HowStuffWorks, 2017) pp. 15
 ```
