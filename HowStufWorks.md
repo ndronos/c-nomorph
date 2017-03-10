@@ -582,6 +582,8 @@ main.o: main.c util.h
 util.o: util.c util.h
     gcc -c -g util.c
 
+$ make
+
 
 
 (HowStuffWorks, 2017) pp. 16
