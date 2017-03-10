@@ -512,6 +512,10 @@ A comprehensive C programming source should provide the instructions you need
 to write your own libraries in C.
 The function definitions you'll write are not any different whether they are
 in a library or in your main program.
+The difference is that you will *compile* them separately in something called
+an *object* file (.o extension),
+
+
 
 (HowStuffWorks, 2017) pp. 8
 ```
