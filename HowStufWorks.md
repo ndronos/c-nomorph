@@ -506,5 +506,7 @@ but it also makes for shorter program files which are easier to read, test and d
 <filename.h>  standard C libraries
 "filename.h"  non-standard, created libraries 
 
+No semicolon needed at the end of each line
+
 (HowStuffWorks, 2017) pp. 8
 ```
