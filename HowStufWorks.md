@@ -560,6 +560,11 @@ $ gcc -c -g main.c
                     create file named main.o that contains machine code for the main program
 
 $ gcc -o main main mylib.o
+                    create the final executable that contains the machine code
+                    for the entire program, and link the two object files
+
+$ ./main
+                    run program
 
 (HowStuffWorks, 2017) pp. 15
 ```
