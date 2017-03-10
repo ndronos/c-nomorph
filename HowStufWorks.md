@@ -575,6 +575,7 @@ Makefiles     *make working with libraries a bit easier*
 
 makefile      This makefile contains two times of lines
               Lines appearing flush left are dependency lines
+              Lines preceded by tab are executable lines, contain valid UNIX command
               NOTE: must precede all `gcc` lines with a TAB (not eight spaces)
 
 
