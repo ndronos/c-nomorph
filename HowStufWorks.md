@@ -573,6 +573,8 @@ $ ./main
 Makefiles     *make working with libraries a bit easier*
 
 
+makefile      NOTE: must precede all `gcc` lines with a TAB
+
 
 
 
