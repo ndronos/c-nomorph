@@ -1,3 +1,5 @@
+LDLIBS=-lm
+
 CC = gcc
 
 a.out: main.o hello.o
