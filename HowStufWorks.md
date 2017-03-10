@@ -536,8 +536,6 @@ header file   .h suffix
 extern ...    represents functions that will be linked later.        
 
 
-
-
 (HowStuffWorks, 2017) pp. 15
 ```
 
