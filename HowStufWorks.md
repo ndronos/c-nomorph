@@ -523,3 +523,17 @@ compiler command each time you compile that program.
 
 (HowStuffWorks, 2017) pp. 8 & 14
 ```
+
+```
+Making a Library
+
+Every library consists of two parts:
+- 
+-
+
+
+
+(HowStuffWorks, 2017) pp. 15
+```
+
+
