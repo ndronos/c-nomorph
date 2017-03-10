@@ -521,5 +521,5 @@ that uses your library, and you'll include the object file as an argument in the
 compiler command each time you compile that program.
 
 
-(HowStuffWorks, 2017) pp. 8
+(HowStuffWorks, 2017) pp. 8 & 14
 ```
