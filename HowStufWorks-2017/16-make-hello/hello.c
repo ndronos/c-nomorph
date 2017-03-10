@@ -2,6 +2,6 @@
 
 void hello(void) {
 
-    printf("Hello, from a library! \n");
+    printf("Hello makefile, from a library! \n");
 
 }
