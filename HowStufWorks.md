@@ -487,7 +487,7 @@ Libraries; Don't Start from Scratch
 
 Libraries are very important in C because the language supports
 only the most basic features that it needs...
-
+Anything that extends beyond the basics must be written by a programmer.
 
 
 (HowStuffWorks, 2017) pp. 8
