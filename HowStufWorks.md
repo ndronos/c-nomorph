@@ -485,7 +485,8 @@ Libraries; Don't Start from Scratch
 
 ... how C enables you to write programs without starting from scratch every time.
 
-
+Libraries are very important in C because the language supports
+only the most basic features that it needs...
 
 
 
