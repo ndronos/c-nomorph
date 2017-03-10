@@ -550,6 +550,7 @@ Makefiles     *make working with libraries a bit easier*
 
 $ gcc -c -g mylib.c
       -c            compile produces object file for the library
+                    object file contains the library's machine code
 
 (HowStuffWorks, 2017) pp. 15
 ```
