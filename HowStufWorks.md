@@ -548,6 +548,7 @@ Makefiles     *make working with libraries a bit easier*
             mylib.c
             main.c
 
+$ gcc -c -g mylib.c
 
 (HowStuffWorks, 2017) pp. 15
 ```
