@@ -577,6 +577,8 @@ makefile      NOTE: must precede all `gcc` lines with a TAB
 
 main: main.o util.o
     gcc -o main main.o util.o
+main.o: main.c util.h
+    gcc -c -g main.c
 
 
 
