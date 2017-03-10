@@ -539,4 +539,18 @@ extern ...    represents functions that will be linked later.
 (HowStuffWorks, 2017) pp. 15
 ```
 
+```
+Compiling and Running with a Library
+
+Makefiles     *make working with libraries a bit easier*
+
+            mylib.h
+            mylib.c
+            main.c
+
+
+(HowStuffWorks, 2017) pp. 15
+```
+
+
 
