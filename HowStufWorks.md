@@ -491,6 +491,7 @@ Anything that extends beyond the basics must be written by a programmer.
 If the chunk of code is useful to multiple different programs,
 it's often put into a library to make it easily reusable.
 
+#include    instructs the C compiler to load the library from its header file name
 
 
 (HowStuffWorks, 2017) pp. 8
