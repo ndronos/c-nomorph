@@ -549,6 +549,7 @@ Makefiles     *make working with libraries a bit easier*
             main.c
 
 $ gcc -c -g mylib.c
+      -c            compile produces object file for the library
 
 (HowStuffWorks, 2017) pp. 15
 ```
