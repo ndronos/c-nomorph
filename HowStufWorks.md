@@ -552,6 +552,7 @@ $ gcc -c -g mylib.c
       -c            compile produces object file for the library
                     object file contains the library's machine code
                     it cannot be executed until it is linked to a program file
+                    that contains a main function.
 
 (HowStuffWorks, 2017) pp. 15
 ```
