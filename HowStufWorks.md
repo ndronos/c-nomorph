@@ -527,9 +527,8 @@ compiler command each time you compile that program.
 ```
 Making a Library
 
-Every library consists of two parts:
-- 
--
+Every library consists of two parts: a header file and the actual code file.
+
 
 
 
