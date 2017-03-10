@@ -432,6 +432,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
 ```
     comp.lang.c FAQ list(s)
+    C Programming FAQs: Frequently Asked Questions
     _________________________________________________
 
 
@@ -439,7 +440,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
     http://c-faq.com/versions.html
     http://eskimo.com/~scs/C-faq.top.html
-    2017
+    2017, 2002, 1996
 ```
 
 
