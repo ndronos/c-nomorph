@@ -439,6 +439,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     _________________________________________________
 
     http://c-faq.com/versions.html
+    http://c-faq.com/book/Errata.html
     http://eskimo.com/~scs/C-faq.top.html
     2017, 2002, 1996
 ```
