@@ -578,6 +578,9 @@ makefile      This makefile contains two times of lines
               Lines preceded by tab are executable lines, contain valid UNIX command
               NOTE: must precede all `gcc` lines with a TAB (not eight spaces)
 
+              A large program may have several libraries and a main program.
+              makefile automatically recompiles everything needed because of a change
+              to recreate the final result that should always got on line 1: the `main` file
 
 main: main.o util.o
     gcc -o main main.o util.o
