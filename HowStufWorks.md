@@ -555,6 +555,10 @@ $ gcc -c -g mylib.c
                     that contains a main function.
                     the machine code resides in a separate file named *.o
 
+$ gcc -c -g main.c
+                    compile the main program
+
+
 (HowStuffWorks, 2017) pp. 15
 ```
 
