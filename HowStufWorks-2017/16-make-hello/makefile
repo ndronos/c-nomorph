@@ -1,7 +1,9 @@
+CC = gcc
+
 a.out: main.o hello.o
-	gcc -o a.out main.o hello.o
+	cc -o a.out main.o hello.o
 main.o: main.c hello.h
-	gcc -c -g main.c
+	cc -c -g main.c
 util.o: hello.c hello.h
-	gcc -c -g hello.c
+	cc -c -g hello.c
 
