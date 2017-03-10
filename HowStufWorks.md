@@ -531,8 +531,9 @@ Every library consists of two parts: a header file and the actual code file.
 
 header file   .h suffix
               contains information about the library that programs using it need to know
-
-
+              in general, contains constats and types,
+              along with prototypes for functions available in the library
+        
 
 
 
