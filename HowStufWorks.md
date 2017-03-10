@@ -569,5 +569,24 @@ $ ./main
 (HowStuffWorks, 2017) pp. 15
 ```
 
+```
+Makefiles     *make working with libraries a bit easier*
+
+
+
+
+
+(HowStuffWorks, 2017) pp. 16
+```
+
+
+
+
+
+
+
+
+
+
 
 
