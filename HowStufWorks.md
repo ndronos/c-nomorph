@@ -557,6 +557,7 @@ $ gcc -c -g mylib.c
 
 $ gcc -c -g main.c
                     compile the main program
+                    create file named main.o that contains machine code for the main program
 
 
 (HowStuffWorks, 2017) pp. 15
