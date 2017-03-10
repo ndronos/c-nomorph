@@ -508,5 +508,9 @@ but it also makes for shorter program files which are easier to read, test and d
 
 No semicolon needed at the end of each line
 
+A comprehensive C programming source should provide the instructions you need
+to write your own libraries in C.
+
+
 (HowStuffWorks, 2017) pp. 8
 ```
