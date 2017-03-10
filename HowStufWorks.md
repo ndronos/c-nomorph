@@ -503,6 +503,8 @@ Writing C libraries can split your programs into reusable modules.
 This modular approach not only makes it easy to include the same code in multiple programs,
 but it also makes for shorter program files which are easier to read, test and debug.
 
+<filename.h>  standard C libraries
+"filename.h"  non-standard, created libraries 
 
 (HowStuffWorks, 2017) pp. 8
 ```
