@@ -516,6 +516,8 @@ The difference is that you will *compile* them separately in something called
 an *object* file (.o extension), and you will create a second file, called
 *header* file (.h extension) which contains the function prototypes corresponding
 to each function in the library.
+It's the header file you'll reference in your #include line in each main program
+that uses your library,
 
 
 (HowStuffWorks, 2017) pp. 8
