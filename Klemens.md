@@ -1538,6 +1538,8 @@ Packages to definitely get:
                   vim is more minimalist and is very friendky to touch typists.
                   If you expect to spend hundreds of hours staring at a text editor,
                   it is worth taking the time to learn one of them.
+                  ...
+- or IDEs...
 
 
 (Klemens, 2015) pp. 2-3
