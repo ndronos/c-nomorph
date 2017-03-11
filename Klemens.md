@@ -1473,8 +1473,14 @@ to compile your program using external libraries.
 ```
 
 
+## Chapter 1 - Set Yourself Up for Easy Compilation
+```
 
 
+
+
+(Klemens, 2015) pp. 1
+```
 
 
 
