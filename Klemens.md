@@ -1532,6 +1532,7 @@ Packages to definitely get:
 - A profiler:     `gprof`
 -                 `make`, so you never have to call your compiler directly.
 -                 `pkg-config`, for finding libraries
+-                 `doxygen`, for documentation generation
 
 
 
