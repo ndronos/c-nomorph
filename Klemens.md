@@ -1518,8 +1518,11 @@ in the repository, he or she will have no problem building the final package.
 (Klemens, 2015) pp. 2
 ```
 
+```
+What packages will you need? Here's a quick rundown of the C developement basics.
 
 
+(Klemens, 2015) pp. 2-3
 
 
 
