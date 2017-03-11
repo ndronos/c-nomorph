@@ -1486,6 +1486,9 @@ then you will need libxml, libjpeg, or libtiff,
 which are all freely availble but not part of the standard.
 Unfortunately, this is the point where most textbooks taper off
 and leave you to work it out for yourself,
+which is why you can find C detractors who will say self-dissonant things like
+`C is over 40 years old, so you have to write everything from scratch in it`
+
 
 
 
