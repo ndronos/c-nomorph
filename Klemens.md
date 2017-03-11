@@ -1529,6 +1529,7 @@ Packages to definitely get:
 - A compiler:     Definitely install `gcc`; ``clang` may be available.
 - A debugger:     GDB
 -                 Valgrind, to test for C memory usage errors
+- A profiler:     `gprof`
 
 
 
