@@ -1504,6 +1504,9 @@ If you are not using a package manager, you are missing out.
 compiler for every language you've ever heard of, a half decent array of games,
 the usual office productivity tools, a few hundred C libraries, et cetera.
 
+Second, as C authors, the package manager is a key means by which we can get libraries
+for holding into our work.
+
 
 
 (Klemens, 2015) pp. 2
