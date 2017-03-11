@@ -1522,7 +1522,7 @@ in the repository, he or she will have no problem building the final package.
 What packages will you need? Here's a quick rundown of the C developement basics.
 ... When in doubt about a package, install it, because we're past the days
 when installing too many things could somehow cause system instability or slowdown...
-
+If you find that you are missing something, you can always go back and get it later.
 
 (Klemens, 2015) pp. 2-3
 
