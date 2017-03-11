@@ -1531,6 +1531,7 @@ Packages to definitely get:
 -                 Valgrind, to test for C memory usage errors
 - A profiler:     `gprof`
 -                 `make`, so you never have to call your compiler directly.
+-                 `pkg-config`, for finding libraries
 
 
 
