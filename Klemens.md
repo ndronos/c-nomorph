@@ -1542,7 +1542,9 @@ Packages to definitely get:
 - or IDEs...
 
 And, of course, there are the C libraries that will save you the trouble of reinventing
-the wheel... 
+the wheel... You might want more, but there are the libraries that will be used
+over the course of this book:
+
 
 (Klemens, 2015) pp. 2-3
 
