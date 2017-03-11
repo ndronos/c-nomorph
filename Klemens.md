@@ -1463,6 +1463,9 @@ many of these tools are absolutely necessary to write without pain.
 If you aren't using a debugger (standalone or within an IDE),
 then you are imposing arbitrary hardship on yourself.
 
+There is also an abundance of existing libraries waiting to be used in your code,
+so you can work on the problem at hand instead of wasting time reimplementing
+linked lists, parsers, or other basics.
 
 
 
