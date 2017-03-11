@@ -1460,6 +1460,8 @@ In the wilds outside the scripting languages' walled gardens,
 there is an abundance of tools that solve big annoyances about C,
 but you have to hunt for them. And I mean *have to*:
 many of these tools are absolutely necessary to write without pain.
+If you aren't using a debugger (standalone or within an IDE),
+then you are imposing arbitrary hardship on yourself.
 
 
 
