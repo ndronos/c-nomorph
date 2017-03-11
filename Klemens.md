@@ -1492,10 +1492,22 @@ they never worked out how to link to a library.
 
 ...
 
-(Klemens, 2015) pp. 1
+(Klemens, 2015) pp. 1-2
 ```
 
+```
+Use a Package Manager
 
+If you are not using a package manager, you are missing out.
+
+... first... A good package manager will have you set up quite rapidly with a full POSIX subsystem,
+compiler for every language you've ever heard of, a half decent array of games,
+the usual office productivity tools, a few hundred C libraries, et cetera.
+
+
+
+(Klemens, 2015) pp. 2
+```
 
 
 
