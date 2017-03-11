@@ -1536,7 +1536,8 @@ Packages to definitely get:
 - A text editor:  emacs and vim are the hardcore geek's favorites.
                   emacs is very inclusive (the E is for extensible)
                   vim is more minimalist and is very friendky to touch typists.
-
+                  If you expect to spend hundreds of hours staring at a text editor,
+                  it is worth taking the time to learn one of them.
 
 
 (Klemens, 2015) pp. 2-3
