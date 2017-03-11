@@ -1484,6 +1484,8 @@ doing textbook exercises.
 If you want to work with an XML file, a JPEG file image, or a TIFF file,
 then you will need libxml, libjpeg, or libtiff,
 which are all freely availble but not part of the standard.
+Unfortunately, this is the point where most textbooks taper off
+and leave you to work it out for yourself,
 
 
 
