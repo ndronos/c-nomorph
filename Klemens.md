@@ -1530,6 +1530,7 @@ Packages to definitely get:
 - A debugger:     GDB
 -                 Valgrind, to test for C memory usage errors
 - A profiler:     `gprof`
+-                 `make`, so you never have to call your compiler directly.
 
 
 
