@@ -1534,6 +1534,9 @@ Packages to definitely get:
 -                 `pkg-config`, for finding libraries
 -                 `doxygen`, for documentation generation
 - A text editor:  emacs and vim are the hardcore geek's favorites.
+                  emacs is very inclusive (the E is for extensible)
+                  vim is more minimalist and is very friendky to touch typists.
+
 
 
 (Klemens, 2015) pp. 2-3
