@@ -1477,6 +1477,11 @@ to compile your program using external libraries.
 ```
 The C standard library is just not enough to ge serious work done.
 
+Instead, the C ecosystem has expanded outside of the standard,
+which means that knowing how to easily call functions from common
+but not-ISO-standard libraries is essential if you want to get past
+doing textbook exercises.
+
 
 
 
