@@ -1481,7 +1481,9 @@ Instead, the C ecosystem has expanded outside of the standard,
 which means that knowing how to easily call functions from common
 but not-ISO-standard libraries is essential if you want to get past
 doing textbook exercises.
-
+If you want to work with an XML file, a JPEG file image, or a TIFF file,
+then you will need libxml, libjpeg, or libtiff,
+which are all freely availble but not part of the standard.
 
 
 
