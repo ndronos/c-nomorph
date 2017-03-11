@@ -1490,9 +1490,7 @@ which is why you can find C detractors who will say self-dissonant things like
 `C is over 40 years old, so you have to write everything from scratch in it`
 they never worked out how to link to a library.
 
-
-
-
+...
 
 (Klemens, 2015) pp. 1
 ```
