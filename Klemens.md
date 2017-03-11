@@ -1524,6 +1524,10 @@ What packages will you need? Here's a quick rundown of the C developement basics
 when installing too many things could somehow cause system instability or slowdown...
 If you find that you are missing something, you can always go back and get it later.
 
+Packages to definitely get:
+
+- 
+
 (Klemens, 2015) pp. 2-3
 
 
