@@ -1533,7 +1533,7 @@ Packages to definitely get:
 -                 `make`, so you never have to call your compiler directly.
 -                 `pkg-config`, for finding libraries
 -                 `doxygen`, for documentation generation
-
+- A text editor:  emacs and vim are the hardcore geek's favorites.
 
 
 (Klemens, 2015) pp. 2-3
