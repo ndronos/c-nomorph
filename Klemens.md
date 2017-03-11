@@ -1458,7 +1458,26 @@ See... how void pointers can be used for all sorts of purposes.
 ```
 In the wilds outside the scripting languages' walled gardens,
 there is an abundance of tools that solve big annoyances about C,
-but you have to hunt for them.
+but you have to hunt for them. And I mean *have to*:
+many of these tools are absolutely necessary to write without pain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
