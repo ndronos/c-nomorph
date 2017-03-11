@@ -1513,7 +1513,7 @@ showing how to prepare your package for easy autoinstallation,
 so that when the administrator of a package repository decides to include your code
 in the repository, he or she will have no problem building the final package.
 
-
+...
 
 (Klemens, 2015) pp. 2
 ```
