@@ -1465,7 +1465,12 @@ then you are imposing arbitrary hardship on yourself.
 
 There is also an abundance of existing libraries waiting to be used in your code,
 so you can work on the problem at hand instead of wasting time reimplementing
-linked lists, parsers, or other basics.
+linked lists, parsers, or other basics. It needs to be as easy as possible
+to compile your program using external libraries.
+
+
+(Klemens, 2015)
+```
 
 
 
