@@ -1453,7 +1453,12 @@ See... how void pointers can be used for all sorts of purposes.
 - The Void Pointer and the Structures It Points To pp 234
 
 
+# Part I - The Environment
 
+```
+In the wilds outside the scripting languages' walled gardens,
+there is an abundance of tools that solve big annoyances about C,
+but you have to hunt for them.
 
 
 
