@@ -1545,8 +1545,19 @@ And, of course, there are the C libraries that will save you the trouble of rein
 the wheel... You might want more, but there are the libraries that will be used
 over the course of this book:
 
+    - libcURL
+    - libGLib
+    - libGSL
+    - libSQLite3
+    - libXML2
 
-(Klemens, 2015) pp. 2-3
+...
+There is typically one package for the users and a second for authors 
+who will use the library in their own work,
+so be sure to select both the base package and the -dev or -devel packages.
+
+
+(Klemens, 2015) pp. 2-4
 
 
 
