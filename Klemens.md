@@ -1526,7 +1526,8 @@ If you find that you are missing something, you can always go back and get it la
 
 Packages to definitely get:
 
-- 
+- A compiler. Definitely install `gcc`; ``clang` may be available.
+ 
 
 (Klemens, 2015) pp. 2-3
 
