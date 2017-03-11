@@ -1475,6 +1475,8 @@ to compile your program using external libraries.
 
 ## Chapter 1 - Set Yourself Up for Easy Compilation
 ```
+The C standard library is just not enough to ge serious work done.
+
 
 
 
