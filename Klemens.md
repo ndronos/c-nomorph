@@ -1507,6 +1507,12 @@ the usual office productivity tools, a few hundred C libraries, et cetera.
 Second, as C authors, the package manager is a key means by which we can get libraries
 for holding into our work.
 
+Third, if you are making the jump from being somebody who downloads packages
+to being somebody producing a package, this book will take you halfway,
+showing how to prepare your package for easy autoinstallation,
+so that when the administrator of a package repository decides to include your code
+in the repository, he or she will have no problem building the final package.
+
 
 
 (Klemens, 2015) pp. 2
