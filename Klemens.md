@@ -1562,6 +1562,9 @@ There is typically one package for the users and a second for authors
 who will use the library in their own work,
 so be sure to select both the base package and the -dev or -devel packages.
 Some systems separate documentation into yer another package.
+Some require that you download debugging symbols separately,
+in which case GDB should lead you through the steps the first time you run it on
+something lacking debugging symbols.
 
 
 (Klemens, 2015) pp. 2-4
