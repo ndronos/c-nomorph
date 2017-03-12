@@ -1590,6 +1590,12 @@ I think it's easier to start with POSIX.
 Also, those of you who are trying to compile code on a Windows box
 that you wrote elsewhere will find this to be the most natural route.
 
+As far as I can tell, the world of things with filesystems divides into
+two slightly overlapping classes:
+
+  - POSIX-compliant systems
+  - The Windows family of operating systems
+
 
 (Klemens, 2015) pp. 4-
 ```
