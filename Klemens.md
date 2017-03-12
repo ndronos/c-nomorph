@@ -1569,10 +1569,18 @@ something lacking debugging symbols.
 If you are using a POSIX system, then after you've installed the preceding items,
 you will have a complete development system and are ready to get coding.
 
+For Windows...
+
 
 (Klemens, 2015) pp. 2-4
+```
+
+```
+Compiling C with Windows
 
 
+(Klemens, 2015) pp. 4-
+```
 
 
 
