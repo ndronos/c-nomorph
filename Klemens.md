@@ -1578,6 +1578,9 @@ For Windows...
 ```
 Compiling C with Windows
 
+On most systems, C is the central, VIP language that all the other tools
+work to facilitate; on a Windows box, C is strangely ignored.
+
 
 (Klemens, 2015) pp. 4-
 ```
