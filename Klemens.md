@@ -1541,6 +1541,12 @@ Packages to definitely get:
                   ...
 - or IDEs...
 
+In later chapters, I'll get to these more heavy-duty tools:
+
+- Autotools:      Autoconf, Automake, libtool
+- Git
+- Alternate shell, such as the Z shell
+
 And, of course, there are the C libraries that will save you the trouble of reinventing
 the wheel... You might want more, but there are the libraries that will be used
 over the course of this book:
