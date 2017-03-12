@@ -1587,6 +1587,8 @@ POSIX for Windows
 
 Because C and Unix coevolved, it's hard to talk aboutone and not the other.
 I think it's easier to start with POSIX.
+Also, those of you who are trying to compile code on a Windows box
+that you wrote elsewhere will find this to be the most natural route.
 
 
 (Klemens, 2015) pp. 4-
