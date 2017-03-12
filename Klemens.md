@@ -1581,6 +1581,12 @@ Compiling C with Windows
 On most systems, C is the central, VIP language that all the other tools
 work to facilitate; on a Windows box, C is strangely ignored.
 
+...
+
+POSIX for Windows
+
+Because C and Unix coevolved, it's hard to talk aboutone and not the other.
+
 
 (Klemens, 2015) pp. 4-
 ```
