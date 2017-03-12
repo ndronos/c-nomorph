@@ -1586,6 +1586,7 @@ work to facilitate; on a Windows box, C is strangely ignored.
 POSIX for Windows
 
 Because C and Unix coevolved, it's hard to talk aboutone and not the other.
+I think it's easier to start with POSIX.
 
 
 (Klemens, 2015) pp. 4-
