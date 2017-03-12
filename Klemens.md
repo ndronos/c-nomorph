@@ -1566,6 +1566,9 @@ Some require that you download debugging symbols separately,
 in which case GDB should lead you through the steps the first time you run it on
 something lacking debugging symbols.
 
+If you are using a POSIX system, then after you've installed the preceding items,
+you will have a complete development system and are ready to get coding.
+
 
 (Klemens, 2015) pp. 2-4
 
