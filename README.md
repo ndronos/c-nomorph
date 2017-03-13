@@ -469,6 +469,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Environment Setup
     Program Structure
     Basic Syntax
+    Data Types
 
     _________________________________________________
 
