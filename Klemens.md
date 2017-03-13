@@ -1624,6 +1624,9 @@ On the one hand, C's syntax can be confusing with its use of stars;
 on the other hand, C's syntax provides us with tools for dealing with
 specially complicated setups like pointers to functions.
 
+The topics in this chapter address common errors and common points of confusion.
+If you've been writing in C for a long time, these points will seem like second nature to you,
+and you might want to skip or quickly skim this chapter.
 
 
 (Klemens, 2015) pp. 123-
