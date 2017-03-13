@@ -1612,6 +1612,10 @@ two slightly overlapping classes:
 Like a song about music, or a movie about Hollywood,
 a pointer is data describing other data.
 
+It's certainly easy to get overwhelmed: all at once,
+you have to deal with getting lost in reference to references,
+aliases, memory management, and malloc.
+
 
 (Klemens, 2015) pp. 123-
 ```
