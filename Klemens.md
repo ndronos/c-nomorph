@@ -1609,6 +1609,8 @@ two slightly overlapping classes:
 ## Chapter 6. Your Pal the Pointer
 
 ```
+Like a song about music, or a movie about Hollywood,
+a pointer is data describing other data.
 
 
 (Klemens, 2015) pp. 123-
