@@ -1617,6 +1617,9 @@ you have to deal with getting lost in reference to references,
 aliases, memory management, and malloc.
 
 But our outrageous fortune breaks down into separate components.
+For example, we can use pointers as aliases without bothering with malloc,
+which doesn't have to appear nearly as often as the textbooks from the '90s
+told us it did.
 
 
 
