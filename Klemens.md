@@ -1639,6 +1639,9 @@ Automatic, Static, and Manual Memory
 
 C provides three basic models of memory management,
 which is more than most languages and two more than you really want to care about.
+And as a bonus for you, the readerm I'll even throw in two more memory models later on
+  - thread local
+  - mmap for gigantic data sets
 
 
 (Klemens, 2015) pp. 123-
