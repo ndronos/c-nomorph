@@ -1663,6 +1663,7 @@ Static  Auto  Manual    Feature
                         Persists across function calls
                         Can be global
                         Array size can be set at runtime
+                        Can be resized
 
 
 
