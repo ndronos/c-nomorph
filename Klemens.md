@@ -1637,6 +1637,9 @@ when working with pointers.
 ```
 Automatic, Static, and Manual Memory
 
+C provides three basic models of memory management,
+which is more than most languages and two more than you really want to care about.
+
 
 (Klemens, 2015) pp. 123-
 ```
