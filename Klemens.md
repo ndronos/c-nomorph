@@ -1662,6 +1662,7 @@ Static  Auto  Manual    Feature
                         sizeof measures array size
                         Persists across function calls
                         Can be global
+                        Array size can be set at runtime
 
 
 
