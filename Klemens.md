@@ -1664,6 +1664,7 @@ Static  Auto  Manual    Feature
                         Can be global
                         Array size can be set at runtime
                         Can be resized
+                        Jesus weeps
 
 
 
