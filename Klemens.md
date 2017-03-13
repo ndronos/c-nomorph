@@ -1380,6 +1380,8 @@ not a full `ratio_s` structure.
 
 (Klemens, 2015) C 101 pp. 359-360
 ```
+
+```
 One could get the numerator at the pointed-to struct via `(*pr).numerator`,
 because `(*pr)` is just a plain `ratio_s`, and the dot notation gets a subelement.
 There is an arraow notation that saves the trouble of the parens-and-star combination.
@@ -1474,6 +1476,7 @@ to compile your program using external libraries.
 
 
 ## Chapter 1 - Set Yourself Up for Easy Compilation
+
 ```
 The C standard library is just not enough to ge serious work done.
 
