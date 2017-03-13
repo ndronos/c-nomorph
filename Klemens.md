@@ -1661,6 +1661,7 @@ Static  Auto  Manual    Feature
                         Can set nonconstant values on init
                         sizeof measures array size
                         Persists across function calls
+                        Can be global
 
 
 
