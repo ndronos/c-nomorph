@@ -480,6 +480,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Scope Rules
     Arrays
     Pointers
+    Strings
 
     _________________________________________________
 
