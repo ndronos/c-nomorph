@@ -468,6 +468,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Overview
     Environment Setup
     Program Structure
+    Basic Syntax
 
     _________________________________________________
 
