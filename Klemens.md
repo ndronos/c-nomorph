@@ -1616,6 +1616,9 @@ It's certainly easy to get overwhelmed: all at once,
 you have to deal with getting lost in reference to references,
 aliases, memory management, and malloc.
 
+But our outrageous fortune breaks down into separate components.
+
+
 
 (Klemens, 2015) pp. 123-
 ```
