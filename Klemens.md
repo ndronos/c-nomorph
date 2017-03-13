@@ -1631,7 +1631,12 @@ It is intendedd for all those people (and their number are legion) who feel a li
 when working with pointers.
 
 
-(Klemens, 2015) pp. 123-
+(Klemens, 2015) pp. 123
 ```
 
+```
+Automatic, Static, and Manual Memory
 
+
+(Klemens, 2015) pp. 123-
+```
