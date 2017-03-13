@@ -1606,13 +1606,12 @@ two slightly overlapping classes:
 
 
 
+## Chapter 6. Your Pal the Pointer
+
+```
 
 
-
-
-
-
-
-
+(Klemens, 2015) pp. 123-
+```
 
 
