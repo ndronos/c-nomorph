@@ -1655,16 +1655,16 @@ And as a bonus for you, the readerm I'll even throw in two more memory models la
 Table 6-1. Three types of memory; three bundles of features
 
 Static  Auto  Manual    Feature
-                        Set to zero on startup
-                        Scope-limited
-                        Can set values on init
-                        Can set nonconstant values on init
-                        sizeof measures array size
-                        Persists across function calls
-                        Can be global
-                        Array size can be set at runtime
-                        Can be resized
-                        Jesus weeps
+   x                    Set to zero on startup
+   x      x             Scope-limited
+   x      x             Can set values on init
+          x             Can set nonconstant values on init
+   x      x             sizeof measures array size
+   x             x      Persists across function calls
+   x             x      Can be global
+          x      x      Array size can be set at runtime
+                 x      Can be resized
+                 x      Jesus weeps
 
 
 
