@@ -484,6 +484,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Structures
     Unions
     Bit Fields
+    Typedef
 
     _________________________________________________
 
