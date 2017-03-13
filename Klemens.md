@@ -1659,6 +1659,7 @@ Static  Auto  Manual    Feature
                         Scope-limited
                         Can set values on init
                         Can set nonconstant values on init
+                        sizeof measures array size
 
 
 
