@@ -497,6 +497,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Command Line Arguments
 
     Questions & Answers
+    Quick Guide
 
 
     _________________________________________________
