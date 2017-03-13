@@ -479,6 +479,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Functions
     Scope Rules
     Arrays
+    Pointers
 
     _________________________________________________
 
