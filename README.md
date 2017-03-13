@@ -481,6 +481,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Arrays
     Pointers
     Strings
+    Structures
 
     _________________________________________________
 
