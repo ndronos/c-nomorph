@@ -1654,6 +1654,8 @@ And as a bonus for you, the readerm I'll even throw in two more memory models la
 ```
 Table 6-1. Three types of memory; three bundles of features
 
+Static  Auto  Manual    Feature
+                          
 
 
 (Klemens, 2015) pp. 123-124
