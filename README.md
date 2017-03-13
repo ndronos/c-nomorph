@@ -477,6 +477,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Decision Making
     Loops
     Functions
+    Scope Rules
 
     _________________________________________________
 
