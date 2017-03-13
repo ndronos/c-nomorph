@@ -1657,7 +1657,8 @@ Table 6-1. Three types of memory; three bundles of features
 Static  Auto  Manual    Feature
                         Set to zero on startup
                         Scope-limited
-                          
+                        Can set values on init
+                        
 
 
 (Klemens, 2015) pp. 123-124
