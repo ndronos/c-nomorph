@@ -1658,7 +1658,8 @@ Static  Auto  Manual    Feature
                         Set to zero on startup
                         Scope-limited
                         Can set values on init
-                        
+                        Can set nonconstant values on init
+
 
 
 (Klemens, 2015) pp. 123-124
