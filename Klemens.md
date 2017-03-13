@@ -1643,6 +1643,10 @@ And as a bonus for you, the readerm I'll even throw in two more memory models la
   - thread local
   - mmap for gigantic data sets
 
+  - Automatic
+  - Static
+  - Manual
+
 
 (Klemens, 2015) pp. 123-
 ```
