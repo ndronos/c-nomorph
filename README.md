@@ -498,6 +498,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
     Questions & Answers
     Quick Guide
+    Useful Resources
 
 
     _________________________________________________
