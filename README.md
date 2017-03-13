@@ -476,6 +476,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Operators
     Decision Making
     Loops
+    Functions
 
     _________________________________________________
 
