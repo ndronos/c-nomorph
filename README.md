@@ -473,6 +473,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Variables
     Constants
     Storage Classes
+    Operators
 
     _________________________________________________
 
