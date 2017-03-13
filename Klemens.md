@@ -1627,6 +1627,8 @@ specially complicated setups like pointers to functions.
 The topics in this chapter address common errors and common points of confusion.
 If you've been writing in C for a long time, these points will seem like second nature to you,
 and you might want to skip or quickly skim this chapter.
+It is intendedd for all those people (and their number are legion) who feel a little uneasy
+when working with pointers.
 
 
 (Klemens, 2015) pp. 123-
