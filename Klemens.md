@@ -1620,6 +1620,9 @@ But our outrageous fortune breaks down into separate components.
 For example, we can use pointers as aliases without bothering with malloc,
 which doesn't have to appear nearly as often as the textbooks from the '90s
 told us it did.
+On the one hand, C's syntax can be confusing with its use of stars;
+on the other hand, C's syntax provides us with tools for dealing with
+specially complicated setups like pointers to functions.
 
 
 
