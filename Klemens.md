@@ -1718,7 +1718,13 @@ Static        static variables exit in the same place thtoughout the life of the
               if you forget to initialize a static variable,
               it is initialized to all zeros (or NULL).
 
-(Klemens, 2015) pp. 123-
+Manual        the manual type involves malloc and free, and
+              is where most of your segfaults happen.
+              This memory model is why Jesus weeps when he has to code in C.
+              Also, this is the type of memory where arrays can be resized after declaration.
+
+
+(Klemens, 2015) pp. 123-124
 ```
 
 ```
