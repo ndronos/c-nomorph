@@ -1638,6 +1638,12 @@ Chapter 10    presents newer syntax,
               Like rock and roll, these syntactic features saved my life.
               If I hadn't known about them, I would have abandoned C a long time ago.
 
+Chapter 11    a deconstruction of the concept of object-oriented programming.
+              It is a many-headed hydra, and translating all of it to C
+              would be a Herculean task of limited benefit,
+              but there are some aspects of the paragigm
+              that are easily implemented when needed.
+
 
 
 
