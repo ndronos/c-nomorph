@@ -1650,6 +1650,10 @@ Chapter 12    It may sounf too good to be true, but with one line of code,
               and ... covers three systems for turning your single-threaded program
               in a multithreaded program.
 
+Chapter 13    Having covered the idea of how one would structure a library,
+              let's use a few... to do advanced math, talk to an Internet server
+              via whatever protocol it speaks, run a database,
+              and otherwise kick some ass.
 
 
 (Klemens, 2015) pp. 211-212
