@@ -1709,6 +1709,15 @@ Automatic     you declare a variable on first use,
               any variable inside a function is automatic.
               your typical programming language has only automatic-type data.
 
+Static        static variables exit in the same place thtoughout the life of the program.
+              array sizes are fixes at startup, but values can change (so it's not entirely static).
+              data is initialized before main starts, and thus
+              any initializations have to be done with constants that require no calculations.
+              variables declared outside of functions (in file scope) and
+              inside functions with the static keyword are static.
+              if you forget to initialize a static variable,
+              it is initialized to all zeros (or NULL).
+
 (Klemens, 2015) pp. 123-
 ```
 
