@@ -1694,7 +1694,7 @@ Automatic, Static, and Manual Memory
 
 C provides three basic models of memory management,
 which is more than most languages and two more than you really want to care about.
-And as a bonus for you, the readerm I'll even throw in two more memory models later on
+And as a bonus for you, the reader, I'll even throw in two more memory models later on
   - thread local
   - mmap for gigantic data sets
 
@@ -1702,6 +1702,12 @@ And as a bonus for you, the readerm I'll even throw in two more memory models la
   - Static
   - Manual
 
+
+Automatic     you declare a variable on first use,
+              it is removed when it goes out of scope.
+              without the static keywork,
+              any variable inside a function is automatic.
+              your typical programming language has only automatic-type data.
 
 (Klemens, 2015) pp. 123-
 ```
@@ -1720,7 +1726,6 @@ Static  Auto  Manual    Feature
           x      x      Array size can be set at runtime
                  x      Can be resized
                  x      Jesus weeps
-
 
 
 (Klemens, 2015) pp. 123-124
