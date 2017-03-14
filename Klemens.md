@@ -1620,6 +1620,10 @@ finding out about the new things...
 ```
 Chapter 6     a guide for those perplexed (or perhaps made a bit uneasy) by pointers
 
+Chapter 7     start building by tearing down
+              go over a survey of concepts by typical textbooks
+              that shold be downplayed or considered deprecated
+
 
 
 
