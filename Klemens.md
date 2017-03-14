@@ -1628,6 +1628,11 @@ Chapter 8     goes in the other direction, offering more in-depth discussion
               of concepts were mentioned only in passing 
               or were missing entirely from typical textbooks
 
+Chapter 9     pay special attention to strings
+              and work out how to handle them without
+              memory allocation or character-counting madness.
+              malloc will be lonely, because you'll never call it
+
 
 
 
