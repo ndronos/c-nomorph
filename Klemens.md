@@ -1614,6 +1614,15 @@ working out what bits of the language not to use, and then
 finding out about the new things...
 
 
+(Klemens, 2015) pp. 211
+```
+
+```
+Chapter 6     a guide for those perplexed (or perhaps made a bit uneasy) by pointers
+
+
+
+
 (Klemens, 2015) pp. 211-212
 ```
 
