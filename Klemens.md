@@ -1606,7 +1606,13 @@ two slightly overlapping classes:
 
 # Part II - The Language
 
+```
+This is the part where we reconsider everything about the C language.
 
+
+
+(Klemens, 2015) pp. 211-212
+```
 
 
 
