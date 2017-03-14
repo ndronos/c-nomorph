@@ -1604,6 +1604,10 @@ two slightly overlapping classes:
 ```
 
 
+# Part II - The Language
+
+
+
 
 
 ## Chapter 6. Your Pal the Pointer
