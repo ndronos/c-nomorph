@@ -1720,6 +1720,9 @@ Static        static variables exit in the same place thtoughout the life of the
 
 Manual        the manual type involves malloc and free, and
               is where most of your segfaults happen.
+              - C99/C11 refer to malloced memory as allocated memory,
+                but I chose to use a term that better distinguishes
+                this type of storage from storage allocated on the stack.
               This memory model is why Jesus weeps when he has to code in C.
               Also, this is the type of memory where arrays can be resized after declaration.
 
