@@ -1624,6 +1624,10 @@ Chapter 7     start building by tearing down
               go over a survey of concepts by typical textbooks
               that shold be downplayed or considered deprecated
 
+Chapter 8     goes in the other direction, offering more in-depth discussion
+              of concepts were mentioned only in passing 
+              or were missing entirely from typical textbooks
+
 
 
 
