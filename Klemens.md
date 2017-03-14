@@ -1644,6 +1644,11 @@ Chapter 11    a deconstruction of the concept of object-oriented programming.
               but there are some aspects of the paragigm
               that are easily implemented when needed.
 
+Chapter 12    It may sounf too good to be true, but with one line of code,
+              you can double or quadruple the speed of your program (or even better).
+              The secret is in parallel threads,
+              and ... covers three systems for turning your single-threaded program
+              in a multithreaded program.
 
 
 
