@@ -1633,6 +1633,11 @@ Chapter 9     pay special attention to strings
               memory allocation or character-counting madness.
               malloc will be lonely, because you'll never call it
 
+Chapter 10    presents newer syntax,
+              which will let us write function calls in ISO-standard C...
+              Like rock and roll, these syntactic features saved my life.
+              If I hadn't known about them, I would have abandoned C a long time ago.
+
 
 
 
