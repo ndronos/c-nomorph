@@ -22,4 +22,14 @@
 ```
 - https://pragprog.com/magazines/2011-03/punk-rock-languages
 
+```
+  Taking C Seriously
+  _____________________________________
+
+  _____________________________________
+
+  Chris Adamson
+  2011
+```
+- http://subfurther.com/blog/2011/11/01/tacking-c-seriously/
 
