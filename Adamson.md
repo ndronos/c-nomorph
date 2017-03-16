@@ -18,6 +18,8 @@
 
   Chris Adamson
   2011
+
 ```
+- https://pragprog.com/magazines/2011-03/punk-rock-languages
 
 
