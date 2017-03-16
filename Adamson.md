@@ -10,6 +10,8 @@
   Police On My Back
   Nobody Likes You
   Come Out and Play
+  The Kids Aren't Alright
+
   _____________________________________
 
   Chris Adamson
