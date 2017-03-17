@@ -107,6 +107,9 @@ At the lower levels - including any framework with "Core" in its name - C is the
 
 And at the Core level, I'm sometimes glad to only have C.
 For something like singnal processing..., handling me a void* is just fine...
+In the higher level media frameworks, we have to pass around samples and frame buffers and such as
+full-blown objects, and sometimes it feels heavier the it needs to.
+...
 
 (Adamson, 2011)
 ```
