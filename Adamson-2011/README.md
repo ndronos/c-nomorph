@@ -24,5 +24,9 @@ C had already made an exceptionally good start on a century-long reign.
 And yet, despite on being so widely used and so important, C is widely disparaged.
 It is easy, and popular, and eminently tolerated, to bitch and complain about C's primitiveness.
 
+I've already had my say about this, in the PragPub article Punk Rock Languages,
+in which I praised C's lack of artifice and abstraction, its directness, and its ruthlessness.
+...
+
 (Adamson, 2011)
 ```
