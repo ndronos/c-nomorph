@@ -115,6 +115,7 @@ full-blown objects, and sometimes it feels heavier the it needs to.
 ```
 ```
 C is underappreciated as an application programming language.
+Granted, there's definitely a knack to writing C effectively, but it's not just the language.
 
 
 (Adamson, 2011)
