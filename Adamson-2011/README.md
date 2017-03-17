@@ -101,7 +101,8 @@ get out of curly-brace/function-call hell and adopt a different style of thinkin
 
 ```
 ...
-
+It's only in immersing myself in iOS and Ma since... that I've really gotten good
+with calling C in anger again,
 
 (Adamson, 2011)
 ```
