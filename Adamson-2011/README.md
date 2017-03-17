@@ -117,7 +117,10 @@ full-blown objects, and sometimes it feels heavier the it needs to.
 C is underappreciated as an application programming language.
 Granted, there's definitely a knack to writing C effectively, but it's not just the language.
 Actually, it's more the idioms of the various C libraries out there.
-OPENGL code is unlike Core Graphics/Quartz, just like open source libraries,
+OPENGL code is unlike Core Graphics/Quartz, just like OpenAL is unlike Core Audio.
+ 
+
+just like open source libraries,
 some of which I still can't crack.
 
 
