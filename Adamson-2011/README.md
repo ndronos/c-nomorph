@@ -42,8 +42,11 @@ someone somewhere without an assembler and was thus forced to provide the actual
 Today, C is considered a low-level language.
 In my CodeMash 2010 talk on C, I postulated that
 a high-level language is now expected to abstract away not only the CPU, but memory as well.
+  In Beyond Java, Bruce Tate predicted we'd never see another mainstream language
+  that doesn't run in a VM and offerthe usual benefits of that environment,
+  like memory protection and garbage collection, and I suspect he's right.
 
 (Adamson, 2011)
 ```
 - slideshare.net/invalidname/oh-crap-i-forgot-or-never-learned-c-codemash-2010
-
+`
