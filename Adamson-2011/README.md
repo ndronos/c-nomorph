@@ -69,6 +69,8 @@ One lone of C, many lines of Assembly.
 ```
 
 ```
+There is a great blo from... years ago assessing the
+Speed, Size, and Dependability of Programming Languages.
 
 
 (Adamson, 2011)
