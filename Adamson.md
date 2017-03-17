@@ -31,5 +31,5 @@
   Chris Adamson
   2011
 ```
-- http://subfurther.com/blog/2011/11/01/tacking-c-seriously/
+- http://subfurther.com/blog/2011/11/01/taking-c-seriously/
 
