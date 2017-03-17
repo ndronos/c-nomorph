@@ -54,4 +54,5 @@ a high-level language is now expected to abstract away not only the CPU, but mem
 ```
 But does malloc() make C "primitive"? I sure didn't think so in 1986.
 In fact, it did a lot more than the languages at the time.
+Dynamic memory allocation was not actually common at the time -...
 
