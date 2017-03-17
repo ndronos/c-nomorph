@@ -30,3 +30,9 @@ in which I praised C's lack of artifice and abstraction, its directness, and its
 
 (Adamson, 2011)
 ```
+- pragprog.com/magazines/2011-03/punk-rock-languages
+
+```
+
+(Adamson, 2011)
+```
