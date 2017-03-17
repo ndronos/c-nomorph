@@ -119,10 +119,13 @@ Granted, there's definitely a knack to writing C effectively, but it's not just 
 Actually, it's more the idioms of the various C libraries out there.
 OPENGL code is unlike Core Graphics/Quartz, just like OpenAL is unlike Core Audio.
 And that's to say nothing of the classic BSD and other open-source libraries,
-some og which I still can't crack.
-
-just like open source libraries,
 some of which I still can't crack.
+...
+So maybe it's always going to be a learning process.
+
+But honestly, I don't mind learning.
+In fact, it's why I like this field.
+
 
 
 (Adamson, 2011)
