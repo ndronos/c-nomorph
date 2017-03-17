@@ -74,6 +74,8 @@ Speed, Size, and Dependability of Programming Languages.
 It represents the relationship between code size and performance as a 2D plot,
 where an ideal language has high performance with little code,
 and an obsolete language demands lots of work and is still slow.
+These two factors are a classic trade-off, and the other two quadrants are
+named after the traditional categorization:
 
 
 (Adamson, 2011)
