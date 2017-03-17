@@ -14,10 +14,15 @@ C is the #2 language in use today according to the TIOBE rankings...
 Keep in mind that C was developed between 1969 and 1973, making it nearly 40 years old.
 ... when Paul Grahan considered the possible traits of The Hundred-Year Language,
 the one we might be using 100 years from now, he overlooked the fact that
-C had already made an exceptionally good start on a century-long reign
+C had already made an exceptionally good start on a century-long reign.
 
 (Adamson, 2011)
 ```
 - www.paulgraham.com/hundred.html
 
+```
+And yet, despite on being so widely used and so important, C is widely disparaged.
+It is easy, and popular, and eminently tolerated, to bitch and complain about C's primitiveness.
 
+(Adamson, 2011)
+```
