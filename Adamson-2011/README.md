@@ -76,6 +76,8 @@ where an ideal language has high performance with little code,
 and an obsolete language demands lots of work and is still slow.
 These two factors are a classic trade-off, and the other two quadrants are
 named after the traditional categorization:
+- slow but expressive languages are "script",
+- fast but wordy are "system".
 
 
 (Adamson, 2011)
