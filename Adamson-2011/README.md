@@ -125,6 +125,7 @@ So maybe it's always going to be a learning process.
 
 But honestly, I don't mind learning.
 In fact, it's why I like this field.
+And the fact that a 40-year old language can still be so clever, so austere and elegant,
 
 
 
