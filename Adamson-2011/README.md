@@ -106,6 +106,7 @@ with calling C in anger again, because on these platforms, C is a first-class la
 At the lower levels - including any framework with "Core" in its name - C is the *only* language.
 
 And at the Core level, I'm sometimes glad to only have C.
+For something like singnal processing..., handling me a void* is just fine...
 
 (Adamson, 2011)
 ```
