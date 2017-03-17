@@ -96,7 +96,7 @@ Ruby or Scala. If I'm going to run that slow, I think I'd at least want to
 get out of curly-brace/function-call hell and adopt a different style of thinking, like LISP.
 
 
-(Adamson, 2011)
+(Adamson, 2011)nothing 
 ```
 
 ```
@@ -118,7 +118,8 @@ C is underappreciated as an application programming language.
 Granted, there's definitely a knack to writing C effectively, but it's not just the language.
 Actually, it's more the idioms of the various C libraries out there.
 OPENGL code is unlike Core Graphics/Quartz, just like OpenAL is unlike Core Audio.
- 
+And that's to say nothing of the classic BSD and other open-source libraries,
+some og which I still can't crack.
 
 just like open source libraries,
 some of which I still can't crack.
