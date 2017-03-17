@@ -57,3 +57,7 @@ In fact, it did a lot more than the languages at the time.
 Dynamic memory allocation was not actually common at the time -...
 And of course relative to assembly language, where you're directly exposed to
 the CPU and RAM, C's abstractions are profound.
+
+
+(Adamson, 2011)
+```
