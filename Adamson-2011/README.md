@@ -99,4 +99,9 @@ get out of curly-brace/function-call hell and adopt a different style of thinkin
 (Adamson, 2011)
 ```
 
+```
+...
 
+
+(Adamson, 2011)
+```
