@@ -78,6 +78,7 @@ These two factors are a classic trade-off, and the other two quadrants are
 named after the traditional categorization:
 - slow but expressive languages are "script",
 - fast but wordy are "system".
+Go look up gcc - it's clearly the fastest, but its wordiness is really not that bad.
 
 
 (Adamson, 2011)
