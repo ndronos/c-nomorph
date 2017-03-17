@@ -105,5 +105,7 @@ It's only in immersing myself in iOS and Ma since... that I've really gotten goo
 with calling C in anger again, because on these platforms, C is a first-class language.
 At the lower levels - including any framework with "Core" in its name - C is the *only* language.
 
+And at the Core level, I'm sometimes glad to only have C.
+
 (Adamson, 2011)
 ```
