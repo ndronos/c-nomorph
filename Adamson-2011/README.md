@@ -85,3 +85,6 @@ Go look up gcc - it's clearly the fastest, but its wordiness is really not that 
 ```
 - http://blog.gmarceau.qc.ca/2009/05/speed-size-and-dependability-of.html
 
+Perhaps the reason C has stuck around so long its that its bang for the buck really is
+historically remarkable, and umlikely to be duplicated.
+
