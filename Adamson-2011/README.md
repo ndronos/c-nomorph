@@ -52,4 +52,5 @@ a high-level language is now expected to abstract away not only the CPU, but mem
 - slideshare.net/invalidname/oh-crap-i-forgot-or-never-learned-c-codemash-2010
 
 ```
-But does malloc() make C "primitive"?
+But does malloc() make C "primitive"? I sure didn't think so in 1986.
+
