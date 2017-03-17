@@ -95,3 +95,8 @@ to really acknowledge how many extra CPU cycles we burn by writing code in somet
 Ruby or Scala. If I'm going to run that slow, I think I'd at least want to
 get out of curly-brace/function-call hell and adopt a different style of thinking, like LISP.
 
+
+(Adamson, 2011)
+```
+
+
