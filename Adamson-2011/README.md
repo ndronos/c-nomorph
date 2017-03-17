@@ -30,7 +30,7 @@ in which I praised C's lack of artifice and abstraction, its directness, and its
 
 (Adamson, 2011)
 ```
-- pragprog.com/magazines/2011-03/punk-rock-languages
+- http://pragprog.com/magazines/2011-03/punk-rock-languages
 
 ```
 C was the language of second-year Computer Science at Stanford...
@@ -49,7 +49,7 @@ a high-level language is now expected to abstract away not only the CPU, but mem
 
 (Adamson, 2011)
 ```
-- slideshare.net/invalidname/oh-crap-i-forgot-or-never-learned-c-codemash-2010
+- http://slideshare.net/invalidname/oh-crap-i-forgot-or-never-learned-c-codemash-2010
 
 ```
 But does malloc() make C "primitive"? I sure didn't think so in 1986.
