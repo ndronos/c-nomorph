@@ -92,4 +92,6 @@ and the abstractions then built atop C (with the arguable exception of Java,
 whose primary sin is being a memory pig) sacrifice performance for expressiveness.
 We've always known this of course, but it takes a certain level of intellectual honesty
 to really acknowledge how many extra CPU cycles we burn by writing code in something like
-Ruby or Scala.
+Ruby or Scala. If I'm going to run that slow, I think I'd at least want to
+get out of curly-brace/function-call hell and adopt a different style of thinking, like LISP.
+
