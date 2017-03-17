@@ -40,6 +40,10 @@ granted, at the time we also drew a distinction between
 "assembly language" and "machine language", presumably because there was still
 someone somewhere without an assembler and was thus forced to provide the actual opcodes.
 Today, C is considered a low-level language.
+In my CodeMash 2010 talk on C, I postulated that
+a high-level language is now expected to abstract away not only the CPU, but memory as well.
 
 (Adamson, 2011)
 ```
+- slideshare.net/invalidname/oh-crap-i-forgot-or-never-learned-c-codemash-2010
+
