@@ -67,3 +67,11 @@ One lone of C, many lines of Assembly.
 
 (Adamson, 2011)
 ```
+
+```
+
+
+(Adamson, 2011)
+```
+- http://blog.gmarceau.qc.ca/2009/05/speed-size-and-dependability-of.html
+
