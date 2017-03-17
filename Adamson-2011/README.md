@@ -36,6 +36,9 @@ in which I praised C's lack of artifice and abstraction, its directness, and its
 C was the language of second-year Computer Science at Stanford...
 The funny thing is that at the time, C was considered a "high-level".
 At the time, abstracting away from the CPU was sufficient to count as "high-level";
+granted, at the time we also drew a distinction between
+"assembly language" and "machine language", presumably because there was still
+someone somewhere without an assembler and was thus forced to provide the actual opcodes.
 
 (Adamson, 2011)
 ```
