@@ -90,4 +90,6 @@ historically remarkable, and umlikely to be duplicated.
 For all the advantages over Assembly, it maintains furious performance,
 and the abstractions then built atop C (with the arguable exception of Java,
 whose primary sin is being a memory pig) sacrifice performance for expressiveness.
-
+We've always known this of course, but it takes a certain level of intellectual honesty
+to really acknowledge how many extra CPU cycles we burn by writing code in something like
+Ruby or Scala.
