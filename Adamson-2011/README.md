@@ -128,7 +128,8 @@ In fact, it's why I like this field.
 And the fact that a 40-year old language can still be so clever, so austere and elegant,
 and so damn fast, is something to be celebratedd and appreciated.
 
-
+So, thanks Dennis Ritchie.
+All these years later, I'm still enjoying the hell out of C.
 
 (Adamson, 2011)
 ```
