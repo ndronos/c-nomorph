@@ -87,4 +87,5 @@ Go look up gcc - it's clearly the fastest, but its wordiness is really not that 
 
 Perhaps the reason C has stuck around so long its that its bang for the buck really is
 historically remarkable, and umlikely to be duplicated.
-
+For all the advantages over Assembly, it maintains furious performance,
+and the abstractions then built atop C
