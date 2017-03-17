@@ -89,4 +89,5 @@ Perhaps the reason C has stuck around so long its that its bang for the buck rea
 historically remarkable, and umlikely to be duplicated.
 For all the advantages over Assembly, it maintains furious performance,
 and the abstractions then built atop C (with the arguable exception of Java,
-whose primary sin is being a memory pig) 
+whose primary sin is being a memory pig) sacrifice performance for expressiveness.
+
