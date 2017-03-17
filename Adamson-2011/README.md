@@ -33,6 +33,7 @@ in which I praised C's lack of artifice and abstraction, its directness, and its
 - pragprog.com/magazines/2011-03/punk-rock-languages
 
 ```
+C was the language of second-year Computer Science at Stanford...
 
 (Adamson, 2011)
 ```
