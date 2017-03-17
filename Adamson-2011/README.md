@@ -71,6 +71,9 @@ One lone of C, many lines of Assembly.
 ```
 There is a great blo from... years ago assessing the
 Speed, Size, and Dependability of Programming Languages.
+It represents the relationship between code size and performance as a 2D plot,
+where an ideal language has high performance with little code,
+and an obsolete language demands lots of work and is still slow.
 
 
 (Adamson, 2011)
