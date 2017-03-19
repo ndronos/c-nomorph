@@ -507,4 +507,13 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     2017
 ```
 
+```
+    Learn C Programming in Visual Studio for Beginners
+    __________________________________________________
 
+    __________________________________________________
+    
+    http://www.programmertube.com
+    2017
+
+```
