@@ -517,6 +517,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 4   Writing our First Program
 5   Walkthrough - Visual Studio IDE
 6   Fundamentals and Basics
+7   Operators and Expressions
 
     __________________________________________________
     
