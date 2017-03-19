@@ -530,6 +530,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 17  Working with Files and I/O
 18  Let's Talk About Binary Manipulating Bits
 19  Dynamic Memory Allocation
+20  Structures and Unions
 
     __________________________________________________
     
