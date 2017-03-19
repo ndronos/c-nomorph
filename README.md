@@ -518,6 +518,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 5   Walkthrough - Visual Studio IDE
 6   Fundamentals and Basics
 7   Operators and Expressions
+8   Conditional Statements
 
     __________________________________________________
     
