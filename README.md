@@ -526,6 +526,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 13  Working with User Input
 14  Preprocessor Directives
 15  Working with Header Files and Multiple Source Files
+16  Creating C Libraries Static LIBs
 
     __________________________________________________
     
