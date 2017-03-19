@@ -529,6 +529,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 16  Creating C Libraries Static LIBs
 17  Working with Files and I/O
 18  Let's Talk About Binary Manipulating Bits
+19  Dynamic Memory Allocation
 
     __________________________________________________
     
