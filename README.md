@@ -528,6 +528,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 15  Working with Header Files and Multiple Source Files
 16  Creating C Libraries Static LIBs
 17  Working with Files and I/O
+18  Let's Talk About Binary Manipulating Bits
 
     __________________________________________________
     
