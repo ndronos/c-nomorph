@@ -512,6 +512,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     __________________________________________________
 
 1   Introduction
+2   Quick Intro to Computing Basics
 
     __________________________________________________
     
