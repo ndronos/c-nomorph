@@ -513,6 +513,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 
 1   Introduction
 2   Quick Intro to Computing Basics
+3   Intalling and Configuring Visual Studio
 
     __________________________________________________
     
