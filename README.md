@@ -521,6 +521,7 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
 8   Conditional Statements
 9   Loops Junp Keywords and Control Flow
 10  Arrays
+11  Pointers
 
     __________________________________________________
     
