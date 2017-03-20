@@ -158,6 +158,8 @@ longer than anyone in 1978 could possibly have imagined.
 ```
 And in many important ways, C is the programmer's punk orck:
 it's fast, messy, dangerous, and perfectly willing to kick your ass,
+but it's also an ideal antidote to the pretensions and vanities
+that plague so many new programming languages.
 
 
 (Adamson, 2011)
