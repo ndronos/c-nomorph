@@ -174,6 +174,8 @@ C original Punk Rock Language.
 This is a chord, this is another, this is a third.
 Now form a band. - Cartoon on Sideburns Magazine
 
+C has all the power of assembly language
+combined with all the elegance and poetry of... assembly language - Erica Sadun
 
 
 
