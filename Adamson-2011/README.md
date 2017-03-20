@@ -155,3 +155,10 @@ longer than anyone in 1978 could possibly have imagined.
 (Adamson, 2011)
 ```
 
+```
+And in many important ways, C is the programmer's punk orck:
+it's fast, messy, dangerous, and perfectly willing to kick your ass,
+
+
+(Adamson, 2011)
+```
