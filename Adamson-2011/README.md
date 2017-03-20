@@ -195,4 +195,13 @@ and turned back to basic buzz and blast."
 (Adamson, 2011)
 ```
 
+```
+C's development was, if anything, the opposite:
+it was meant as an alternative to programming the PDP-7 in assembly.
+
+
+
+(Adamson, 2011)
+```
+
 
