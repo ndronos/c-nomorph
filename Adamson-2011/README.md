@@ -186,7 +186,9 @@ self-indulgent and misguided musical trends of its time,
 with progressive rock insisting on merging in influences 
 from jazz and classical music..., and second-rate guitarists
 noodling away in awe of Hendrix and Claprton with what
-Joey Ramone called "endless solos that went nowhere." 
+Joey Ramone called "endless solos that went nowhere."
+Punk stripped away the nonsense of the times by focusing on faster, shorter, simple songs.
+ 
 
 
 
