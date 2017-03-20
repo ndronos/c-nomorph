@@ -156,6 +156,7 @@ longer than anyone in 1978 could possibly have imagined.
 
 (Adamson, 2011)
 ```
+- cm.bell-labs.com/cm/cs/cbook/
 
 ```
 And in many important ways, C is the programmer's punk orck:
