@@ -137,8 +137,17 @@ All these years later, I'm still enjoying the hell out of C.
 # Punk Rock Languages, A Polemic
 
 ```
+That C has won the end-user practically battle is obvious to everyone except developers.
 
 (Adamson, 2011)
 ```
 
+```
+The year is 1978, and the first wave of punk rock is reaching its nihilistic peak
+with infamous U.K. band the Sex Pistols touring the US and promptly breaking up
+by the time they reach the West Coast.
+
+
+(Adamson, 2011)
+```
 
