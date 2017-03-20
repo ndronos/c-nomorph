@@ -464,42 +464,41 @@ https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install
     Tutorialspoint - C Programming Tutorial
     _________________________________________________
 
-    Home
-    Overview
-    Environment Setup
-    Program Structure
-    Basic Syntax
-    Data Types
-    Variables
-    Constants
-    Storage Classes
-    Operators
-    Decision Making
-    Loops
-    Functions
-    Scope Rules
-    Arrays
-    Pointers
-    Strings
-    Structures
-    Unions
-    Bit Fields
-    Typedef
-    Input & Output
-    File I/O
-    Preprocessors
-    Header Files
-    Type Casting
-    Error Handling
-    Recursion
-    Variable Arguments
-    Memory Management
-    Command Line Arguments
+0   Home
+1   Overview
+2   Environment Setup
+3   Program Structure
+4   Basic Syntax
+5   Data Types
+6   Variables
+7   Constants
+8   Storage Classes
+9   Operators
+10  Decision Making
+11  Loops
+12  Functions
+13  Scope Rules
+14  Arrays
+15  Pointers
+16  Strings
+17  Structures
+18  Unions
+19  Bit Fields
+20  Typedef
+21  Input & Output
+22  File I/O
+23  Preprocessors
+24  Header Files
+25  Type Casting
+26  Error Handling
+27  Recursion
+28  Variable Arguments
+29  Memory Management
+30  Command Line Arguments
 
     Questions & Answers
     Quick Guide
     Useful Resources
-
 
     _________________________________________________
 
