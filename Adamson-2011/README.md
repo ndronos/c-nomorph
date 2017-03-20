@@ -198,6 +198,10 @@ and turned back to basic buzz and blast."
 ```
 C's development was, if anything, the opposite:
 it was meant as an alternative to programming the PDP-7 in assembly.
+In Dennis Ritchie's history of the language, he describes it as
+the result of several attempts to provide higher-level languages for the platform,
+a successor to BCPL and B (which Ritchie describes as
+"BCPL squeezed into 8k bytes of memory and filtered through [Ken] Thompson's brain").
 
 
 
