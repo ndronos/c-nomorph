@@ -148,7 +148,9 @@ with infamous U.K. band the Sex Pistols touring the US and promptly breaking up
 by the time they reach the West Coast.
 Elsewhere, Brian Kernighan and Dennis Ritchie are putting the finishing touches on their book
 The C Programming Language, which will become the de facto standardization of the language for years.
-
+While tottaly unrelated, these two events share a common bond:
+the ethos of both punk rock and C have lasted for decades,
+longer than anyone in 1978 could possibly have imagined.
 
 (Adamson, 2011)
 ```
