@@ -202,7 +202,7 @@ In Dennis Ritchie's history of the language, he describes it as
 the result of several attempts to provide higher-level languages for the platform,
 a successor to BCPL and B (which Ritchie describes as
 "BCPL squeezed into 8k bytes of memory and filtered through [Ken] Thompson's brain").
-
+But this development wasn't driven by academic niceties or intellectual noodling.
 
 
 (Adamson, 2011)
