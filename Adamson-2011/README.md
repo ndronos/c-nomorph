@@ -203,7 +203,7 @@ the result of several attempts to provide higher-level languages for the platfor
 a successor to BCPL and B (which Ritchie describes as
 "BCPL squeezed into 8k bytes of memory and filtered through [Ken] Thompson's brain").
 But this development wasn't driven by academic niceties or intellectual noodling.
-
+It was about getting stuff done. As Ritchie recall:
 
 (Adamson, 2011)
 ```
