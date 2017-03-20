@@ -177,6 +177,18 @@ Now form a band. - Cartoon on Sideburns Magazine
 C has all the power of assembly language
 combined with all the elegance and poetry of... assembly language - Erica Sadun
 
+(Adamson, 2011)
+```
+
+```
+Punk rock emerged as a reaction to the increasingly
+self-indulgent and misguided musical trends of its time,
+with progressive rock insisting on merging in influences 
+from jazz and classical music..., and second-rate guitarists
+noodling away in awe of Hendrix and Claprton with what
+Joey Ramone called "endless solos that went nowhere." 
+
+
 
 
 (Adamson, 2011)
