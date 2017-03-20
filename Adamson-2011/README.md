@@ -207,5 +207,6 @@ It was about getting stuff done. As Ritchie recall:
 
 (Adamson, 2011)
 ```
+- http://cm.bell-labs.com/cm/cs/who/dmr/chist.html
 
 
