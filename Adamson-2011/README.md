@@ -168,3 +168,11 @@ C original Punk Rock Language.
 
 (Adamson, 2011)
 ```
+
+## Lightning Strikes (Not Once But Twice)
+```
+
+
+
+(Adamson, 2011)
+```
