@@ -134,7 +134,9 @@ All these years later, I'm still enjoying the hell out of C.
 ```
 
 
-# Punk Rock Languages, A Polemic
+# Punk Rock Languages
+
+## A Polemic
 
 ```
 That C has won the end-user practically battle is obvious to everyone except developers.
