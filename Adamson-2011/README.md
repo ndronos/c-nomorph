@@ -171,6 +171,9 @@ C original Punk Rock Language.
 
 ## Lightning Strikes (Not Once But Twice)
 ```
+This is a chord, this is another, this is a third.
+Now form a band. - Cartoon on Sideburns Magazine
+
 
 
 
