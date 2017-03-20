@@ -64,7 +64,6 @@ If you haven't had that experience, you don't appreciate that
   - and then copying the result from a register out to memory.
 One lone of C, many lines of Assembly.
 
-
 (Adamson, 2011)
 ```
 
@@ -80,11 +79,11 @@ named after the traditional categorization:
 - fast but wordy are "system".
 Go look up gcc - it's clearly the fastest, but its wordiness is really not that bad.
 
-
 (Adamson, 2011)
 ```
 - http://blog.gmarceau.qc.ca/2009/05/speed-size-and-dependability-of.html
 
+```
 Perhaps the reason C has stuck around so long its that its bang for the buck really is
 historically remarkable, and umlikely to be duplicated.
 For all the advantages over Assembly, it maintains furious performance,
@@ -95,8 +94,7 @@ to really acknowledge how many extra CPU cycles we burn by writing code in somet
 Ruby or Scala. If I'm going to run that slow, I think I'd at least want to
 get out of curly-brace/function-call hell and adopt a different style of thinking, like LISP.
 
-
-(Adamson, 2011)nothing 
+(Adamson, 2011)
 ```
 
 ```
@@ -113,6 +111,7 @@ full-blown objects, and sometimes it feels heavier the it needs to.
 
 (Adamson, 2011)
 ```
+
 ```
 C is underappreciated as an application programming language.
 Granted, there's definitely a knack to writing C effectively, but it's not just the language.
@@ -133,3 +132,7 @@ All these years later, I'm still enjoying the hell out of C.
 
 (Adamson, 2011)
 ```
+
+
+
+
