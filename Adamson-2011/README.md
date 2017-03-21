@@ -247,7 +247,8 @@ C remains a simple and small language, translatable with simple and small compil
 Its types and operations are well-grounded in those provided by real machines,
 and for people used to how computers work, learning the idioms for generating
 time- and space-efficient programs is not difficult.
-
+At the same time the language is sufficiently abstracted from machine details
+that program portability can be achieved."
 
 (Adamson, 2011)
 ```
