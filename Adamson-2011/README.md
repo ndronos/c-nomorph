@@ -295,7 +295,8 @@ and the offending program is terminated.
 A lot of people find this price of failure too high,
 even though the fix is to just write better code,
 and instead opt for an even more draconian option: taking away the keys.
-
+Most modern languages provide their own memory management paradigms,
+and never allow the developer to see a pointer.
 
 
 (Adamson, 2011)
