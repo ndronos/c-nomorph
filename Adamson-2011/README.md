@@ -322,6 +322,8 @@ As we build abstraction upon abstraction,
 we get further and further away from what's really going on in the CPU and memory.
 In 2011, we now have popular scripting languages like Scala and Groovy
 whose interpreters run in the Java Virtual Machine.
+We're gone from workingwith the same data types that the CPU processes
+to an elaborate stack of layer after layer of artifice and illusion.
 
 
 
