@@ -324,7 +324,10 @@ In 2011, we now have popular scripting languages like Scala and Groovy
 whose interpreters run in the Java Virtual Machine.
 We're gone from workingwith the same data types that the CPU processes
 to an elaborate stack of layer after layer of artifice and illusion.
-
+If C is a punk band, blaring out the two or three basic types that the CPU understands,
+this new style of programming is ... 
+hiring the London Symphony Orchestra to play backup for his synthesizer.
+...
 
 
 (Adamson, 2011)
