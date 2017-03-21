@@ -254,6 +254,7 @@ that program portability can be achieved."
 ```
 
 ```
+With the rise of object-oriented programming, new languages co-opted C to provide OO features:
 
 (Adamson, 2011)
 ```
