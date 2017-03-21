@@ -176,8 +176,9 @@ Terminal `cmd+space` > `xcode-select --install`
 
   The open source, cross platform, free C, C++ and Fortran IDE
 
-### [Visual Mingw]
+### Visual [MinGW](http://mingw.org)
 
+  Minimalist GNU for windows
 
 ### [Eclipse CDT]
 
