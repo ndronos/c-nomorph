@@ -283,6 +283,8 @@ you have  a big block of memory (real or virtual), containing the system,
 your program, and other programs.
 If you can address any point in memory, and you read or write to an address that
 your program doesn't own, what should happen?
+One option is to allow programs to gallivant through each other's memory space.
+As entertainment, this is "Core Wars"; as a coding error, it's a security nightmare.
 
 
 
