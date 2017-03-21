@@ -176,10 +176,13 @@ Terminal `cmd+space` > `xcode-select --install`
 
   The open source, cross platform, free C, C++ and Fortran IDE
 
-### Visual [MinGW](http://mingw.org)
+### [MinGW](http://mingw.org)
 
   Minimalist GNU for windows (without POSIX)
 
+### Cygwin
+
+  a large collection of GNU... on Windows... provides substantial POSIX API functionality.
 
 ### [Eclipse CDT]
 
