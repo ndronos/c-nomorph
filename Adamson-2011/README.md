@@ -205,6 +205,12 @@ a successor to BCPL and B (which Ritchie describes as
 But this development wasn't driven by academic niceties or intellectual noodling.
 It was about getting stuff done. As Ritchie recall:
 
+"By 1971, our miniature computer center was beginning to have users.
+We all wanted to create interesting software more easily.
+Using assembler wasdreary enough that B, despite its performance problems,
+had been supplemented by a small library of useful service routines
+and was being used for more and more new programs."
+
 (Adamson, 2011)
 ```
 - http://cm.bell-labs.com/cm/cs/who/dmr/chist.html
