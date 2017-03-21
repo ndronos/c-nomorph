@@ -178,7 +178,8 @@ Terminal `cmd+space` > `xcode-select --install`
 
 ### Visual [MinGW](http://mingw.org)
 
-  Minimalist GNU for windows
+  Minimalist GNU for windows (without POSIX)
+
 
 ### [Eclipse CDT]
 
