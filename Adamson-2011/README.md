@@ -237,6 +237,9 @@ spend most of the 80s codifying the C Standard Library,
 the collection of always-available libraries to perform essential operations
 like memory management, string manipulation, and networking.
 And you can then build your own libraries atop these.
+But as long as you're still working in C, it's fairly easy
+to keep your code running close to the metal,
+working with simple structures and function calls.
 
 (Adamson, 2011)
 ```
