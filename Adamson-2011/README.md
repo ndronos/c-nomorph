@@ -244,6 +244,7 @@ working with simple structures and function calls.
 Ritchie again:
 "Despite some aspects mysterious to the beginner and occasionally even to the adept,
 C remains a simple and small language, translatable with simple and small compilers.
+Its types and operations are well-grounded in those provided by real machines,
 
 
 (Adamson, 2011)
