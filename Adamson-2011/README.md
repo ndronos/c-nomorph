@@ -301,6 +301,11 @@ and never allow the developer to see a pointer.
 Take a look at the TIOBE Programming Community Index,
 and you'll see three kinds of languages in the top 10:
 
+  - C and its OO derivatives:   C, C++, Objective-C
+  - Interpreted languages:      Python, PHP, Visual Basic, Perl
+  - Virtual Machine languages:  JAva, C#
+
+
 
 (Adamson, 2011)
 ```
