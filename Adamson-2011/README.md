@@ -240,7 +240,9 @@ And you can then build your own libraries atop these.
 But as long as you're still working in C, it's fairly easy
 to keep your code running close to the metal,
 working with simple structures and function calls.
+
 Ritchie again:
+"Despite some aspects mysterious to the beginner and occasionally even to the adept,
 
 (Adamson, 2011)
 ```
