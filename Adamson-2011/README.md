@@ -278,6 +278,9 @@ provide the opportunity to cause extraordinay havo with your code,
 intentionally or not.
 What's most distinctive about C compared to other popular languages today
 is the exposure of memory pointers, and the disasters tha come with their misuse.
+But the again, this is an intrinsic part of how computers work:
+you have  a big block of memory (real or virtual), containing the system,
+your program, and other programs.
 
 
 
