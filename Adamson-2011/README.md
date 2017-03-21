@@ -317,3 +317,15 @@ not your code per se.
 - https://www.tiobe.com/tiobe-index/
 - www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 
+```
+As we build abstraction upon abstraction,
+we get further and further away from what's really going on in the CPU and memory.
+In 2011, we now have popular scripting languages like Scala and Groovy
+whose interpreters run in the Java Virtual Machine.
+
+
+
+(Adamson, 2011)
+```
+
+
