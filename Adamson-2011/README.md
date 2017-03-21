@@ -298,6 +298,9 @@ and instead opt for an even more draconian option: taking away the keys.
 Most modern languages provide their own memory management paradigms,
 and never allow the developer to see a pointer.
 
+Take a look at the TIOBE Programming Community Index,
+and you'll see three kinds of languages in the top 10:
+
 
 (Adamson, 2011)
 ```
