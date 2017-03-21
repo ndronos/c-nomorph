@@ -276,6 +276,8 @@ Segmentation fault - command-line output of a C program with a broken pointer.
 The largely unmanaged freedoms of C, C++, or Objective-C
 provide the opportunity to cause extraordinay havo with your code,
 intentionally or not.
+What's most distinctive about C compared to other popular languages today
+is the exposure of memory pointers, and the disasters tha come with their misuse.
 
 
 
