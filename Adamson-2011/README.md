@@ -329,8 +329,18 @@ this new style of programming is ...
 hiring the London Symphony Orchestra to play backup for his synthesizer.
 ...
 
-
 (Adamson, 2011)
 ```
 
+```
+There's a price to pay for all this, the "abstraction cost" of creating
+general-purpose interpreters and virtual machines.
+Consider "Hello World" in C, Ruby, and Java,
+with an added sleep so the program so the program doesn't immediately terminate:
+...
 
+
+
+
+(Adamson, 2011)
+```
