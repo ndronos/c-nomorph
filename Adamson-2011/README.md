@@ -281,6 +281,8 @@ is the exposure of memory pointers, and the disasters tha come with their misuse
 But the again, this is an intrinsic part of how computers work:
 you have  a big block of memory (real or virtual), containing the system,
 your program, and other programs.
+If you can address any point in memory, and you read or write to an address that
+your program doesn't own, what should happen?
 
 
 
