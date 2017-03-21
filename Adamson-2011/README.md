@@ -236,6 +236,7 @@ The American National Standards Institute (ANSI),
 spend most of the 80s codifying the C Standard Library,
 the collection of always-available libraries to perform essential operations
 like memory management, string manipulation, and networking.
+And you can then build your own libraries atop these.
 
 (Adamson, 2011)
 ```
