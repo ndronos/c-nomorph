@@ -285,8 +285,8 @@ If you can address any point in memory, and you read or write to an address that
 your program doesn't own, what should happen?
 One option is to allow programs to gallivant through each other's memory space.
 As entertainment, this is "Core Wars"; as a coding error, it's a security nightmare.
-
-
+In the real world, such mistakes are prohibited by operating systems,
+and the offending program is terminated.
 
 (Adamson, 2011)
 ```
