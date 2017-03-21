@@ -221,6 +221,9 @@ C basically has three types - int, float, and char - embelished only
 by being able to increase their bit-length as longS and doubleS.
 It's gallingly simple to modern eyes, but hones quite closely to
 what's actually on the CPU.
+Look through the x86 or ARM7 instruction set and you will find
+no references to Unicode strings or "objects" of any kind;
+
 
 
 
