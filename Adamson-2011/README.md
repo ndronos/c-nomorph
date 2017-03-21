@@ -305,6 +305,9 @@ and you'll see three kinds of languages in the top 10:
   - Interpreted languages:      Python, PHP, Visual Basic, Perl
   - Virtual Machine languages:  JAva, C#
 
+The latter two groupings add profound new layers to the programming model:
+interpreters to parse and interpret program code, or virtual machines
+that create an entirely new execution environment for bytecode.
 
 
 (Adamson, 2011)
