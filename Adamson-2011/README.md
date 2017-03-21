@@ -225,9 +225,7 @@ Look through the x86 or ARM7 instruction set and you will find
 no references to Unicode strings or "objects" of any kind;
 what you get is simple arithmetic and logical operations that work on
 operands of 8, 16, and (maybe) 32 bits.
-
-
-
+C is simple because, at their core, computers are simple.
 
 (Adamson, 2011)
 ```
