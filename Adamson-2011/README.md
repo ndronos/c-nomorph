@@ -308,7 +308,9 @@ and you'll see three kinds of languages in the top 10:
 The latter two groupings add profound new layers to the programming model:
 interpreters to parse and interpret program code, or virtual machines
 that create an entirely new execution environment for bytecode.
-
+Importantly, in both of these cases, the programmer's code is not the executable:
+run `ps` and you'll see that the interpreter or VM is what's running,
+not your code per se.
 
 (Adamson, 2011)
 ```
