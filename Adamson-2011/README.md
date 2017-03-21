@@ -230,4 +230,14 @@ C is simple because, at their core, computers are simple.
 (Adamson, 2011)
 ```
 
+```
+Of course, you can build any amount of complexity you like atop this simple foundation.
+The American National Standards Institute (ANSI),
+spend most of the 80s codifying the C Standard Library,
+the collection of always-available libraries to perform essential operations
+like memory management, string manipulation, and networking.
+
+(Adamson, 2011)
+```
+
 
