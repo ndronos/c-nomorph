@@ -182,7 +182,7 @@ Terminal `cmd+space` > `xcode-select --install`
 
 ### Cygwin
 
-  a large collection of GNU... on Windows... provides substantial POSIX API functionality.
+  A large collection of GNU... on Windows... provides substantial POSIX API functionality.
 
 ### [Eclipse CDT]
 
