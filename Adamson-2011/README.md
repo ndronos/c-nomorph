@@ -255,6 +255,9 @@ that program portability can be achieved."
 
 ```
 With the rise of object-oriented programming, new languages co-opted C to provide OO features:
+C++ has proven the most popular over time, while the Smalltalk-flavored Objective-C
+might well have remained a footnote had it not been adopted by NeXT,
+
 
 (Adamson, 2011)
 ```
