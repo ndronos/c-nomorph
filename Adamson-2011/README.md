@@ -219,7 +219,8 @@ and was being used for more and more new programs."
 Punk is famous for needing litte more that three chords.
 C basically has three types - int, float, and char - embelished only
 by being able to increase their bit-length as longS and doubleS.
-
+It's gallingly simple to modern eyes, but hones quite closely to
+what's actually on the CPU.
 
 
 
