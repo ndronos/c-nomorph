@@ -406,8 +406,14 @@ interpreted and VM languages suddenly diminish.
 Without network lateny to hide behind, and with resources at a premium
 (particularly on the movile device), the extravagances of the webapp stack suddenly
 becomes a lot less desirable.
-
+Users see slow, memory-intensive applications on their systems and say,
+as the last Clash album did, "Cut the Crap".
 
 (Adamson, 2011)
 ```
 
+```
+
+
+(Adamson, 2011)
+```
