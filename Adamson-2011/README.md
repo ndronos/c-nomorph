@@ -363,6 +363,8 @@ those people alway btich about and those nobody uses. - Bjarne Stroustrup
 Fans defend scripting and VM languages with arguments bases around the idea of
 "programmer productivity": that faster CPUs and cheaper memory make it more economical
 to accept these abstraction costs, in the interest of getting working code out the door faster.
+Java has long been accused of tolerating bad programmers gladly,
+but that knock against it applies equally well to all the scripting and VM languages.
 
 
 (Adamson, 2011)
