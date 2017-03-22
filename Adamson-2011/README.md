@@ -392,7 +392,9 @@ written in C, while KDE, Firefox, Thunderbird, VLC, and OpenOffice.org are in C+
 ```
 Meanwhile in smartphones, the C languages are the only real option for Apple's market-leading
 iOS devices.
-
+And while Android uses the not-really-Java-nudge-wink "Dalvik" VM,
+it offers the Java Native Interface as an escape slid to C for performance-hungry applications
+like games.
 
 (Adamson, 2011)
 ```
