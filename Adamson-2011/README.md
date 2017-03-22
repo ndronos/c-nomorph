@@ -400,6 +400,10 @@ like games.
 ```
 
 ```
+The takeaway is that when your code is running in the immediate presence of the user
+- on his or her desktop, phone, game console, or tablet - the advantages touted by
+interpreted and VM languages suddenly diminish.
+
 
 
 (Adamson, 2011)
