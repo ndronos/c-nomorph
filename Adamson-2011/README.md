@@ -413,7 +413,10 @@ as the last Clash album did, "Cut the Crap".
 ```
 
 ```
-
+That C has won the end-user practicality battle os obvious to everyone except developers.
+Paul Graham's essay "The Hundred Year Language" manages to not mention C,
+despite the fact that it's already got 40 years under its belt,
+and has never ranked lower than #2 on the TIOBE list.
 
 (Adamson, 2011)
 ```
