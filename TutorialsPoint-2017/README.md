@@ -41,7 +41,16 @@ It indicates the end of one logical entity.
 (Tutorialspoint, 2017) Basic Syntax
 ```
 
+```
+Comments
+
+Comments are like helping text in your C program
+and they are ignored by the compiler.
+
+You cannot have comments within comments and
+they do not occur within a string or character literals.
 
 
-
+(Tutorialspoint, 2017) Basic Syntax
+```
 
