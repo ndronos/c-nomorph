@@ -366,6 +366,8 @@ to accept these abstraction costs, in the interest of getting working code out t
 Java has long been accused of tolerating bad programmers gladly,
 but that knock against it applies equally well to all the scripting and VM languages.
 
+Furthermore, look who's making these languages popular: it's the web developers.
+
 
 (Adamson, 2011)
 ```
