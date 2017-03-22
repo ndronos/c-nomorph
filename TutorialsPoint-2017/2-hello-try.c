@@ -1,4 +1,4 @@
-// (Tutorialspoint, 2017) Program Setup
+// (Tutorialspoint, 2017) Environment Setup
 
 
 #include <stdio.h>
