@@ -361,7 +361,9 @@ those people alway btich about and those nobody uses. - Bjarne Stroustrup
 
 ```
 Fans defend scripting and VM languages with arguments bases around the idea of
-"programmer productivity":
+"programmer productivity": that faster CPUs and cheaper memory make it more economical
+to accept these abstraction costs, in the interest of getting working code out the door faster.
+
 
 (Adamson, 2011)
 ```
