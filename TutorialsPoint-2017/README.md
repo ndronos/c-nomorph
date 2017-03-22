@@ -140,7 +140,11 @@ Whitespace is the term used in C to describe
 Whitespece separates one part of a statement from another
 and enables the compiler to identify where one element in a statement...
 ends and the next begins.
-
+Therefore in the... statement... there must be at least one whitespace character (usually a space)
+between... for the compiler to be able to distinguish them...
+On the other hand... no whitespace character are necessary between... (operator)...
+although you are free to include some if you wish to increase readability.
+ 
 
 (Tutorialspoint, 2017) Basic Syntax
 ```
