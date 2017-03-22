@@ -1,13 +1,13 @@
 // (Tutorialspoint, 2017) Program Structure
 
+                                  // Preprocessor command
+#include <stdio.h>                // include file before going to actual compilation
 
-#include <stdio.h>
+int main() {                      // Main function, where program execution begin
 
-int main() {
+    printf("Hello, World! \n");   // Anothe function available:w
 
-    printf("Hello, World! \n");
-
-    return 0;
+    return 0;                     // Terminates main() functon, returns the value 0
 
 }
 
