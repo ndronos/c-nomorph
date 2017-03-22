@@ -368,7 +368,9 @@ but that knock against it applies equally well to all the scripting and VM langu
 
 Furthermore, look who's making these languages popular: it's the web developers.
 All of the scriping languages in the TIOBE 10 are primarily associated with
-developing web applications.
+developing web applications. Yet when we cast our gaze over to the desktop and the mobile device,
+the scripting and VM languages largely disappear.
+
 
 (Adamson, 2011)
 ```
