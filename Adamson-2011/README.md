@@ -342,8 +342,9 @@ with an added sleep so the program so the program doesn't immediately terminate:
 Run all threee of these and take a look at the resources they demand for
 this trivial program...
 on Mac OS X the C program takes 356 KB, Ruby interpreter 1.6 MB, and thr JVM 25 MB.
-
-
+Java also starts up 24 threads for this trivial program.
+...
 
 (Adamson, 2011)
 ```
+
