@@ -124,4 +124,23 @@ These reserved words may not be used as constants or variables or any other iden
 (Tutorialspoint, 2017) Basic Syntax
 ```
 
+```
+Whitespace in C
 
+A line containing only whitespace, possibly with a comment,  is know as a blank line,
+and a C compiler totally ignores it.
+
+Whitespace is the term used in C to describe
+
+  - blanks
+  - tabs
+  - newline characters
+  - comments
+
+Whitespece separates one part of a statement from another
+and enables the compiler to identify where one element in a statement...
+ends and the next begins.
+
+
+(Tutorialspoint, 2017) Basic Syntax
+```
