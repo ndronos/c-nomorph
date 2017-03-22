@@ -403,7 +403,9 @@ like games.
 The takeaway is that when your code is running in the immediate presence of the user
 - on his or her desktop, phone, game console, or tablet - the advantages touted by
 interpreted and VM languages suddenly diminish.
-
+Without network lateny to hide behind, and with resources at a premium
+(particularly on the movile device), the extravagances of the webapp stack suddenly
+becomes a lot less desirable.
 
 
 (Adamson, 2011)
