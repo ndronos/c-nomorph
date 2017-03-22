@@ -370,7 +370,9 @@ Furthermore, look who's making these languages popular: it's the web developers.
 All of the scriping languages in the TIOBE 10 are primarily associated with
 developing web applications. Yet when we cast our gaze over to the desktop and the mobile device,
 the scripting and VM languages largely disappear.
-
+PHP is clearly meant for web use, but Ruby and Python are general-purpose enough that
+they could be lashed to a UI framework to power desktop apps...
+...
 
 (Adamson, 2011)
 ```
