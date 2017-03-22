@@ -354,8 +354,14 @@ Java also starts up 24 threads for this trivial program.
 ```
 As someone remarked: There are only two kinds of programming languages:
 those people alway btich about and those nobody uses. - Bjarne Stroustrup
+...
 
 (Adamson, 2011)
 ```
 
+```
+Fans defend scripting and VM languages with arguments bases around the idea of
+"programmer productivity":
 
+(Adamson, 2011)
+```
