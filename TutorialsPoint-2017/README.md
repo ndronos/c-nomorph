@@ -28,3 +28,20 @@ A C program consists of
 
 (Tutorialspoint, 2017) Basic Syntax
 ```
+
+```
+Semicolons
+
+In a C program, the semicolon is a statement terminator.
+
+That is, each individual statement must be ended with a semicolon.
+It indicates the end of one logical entity.
+
+
+(Tutorialspoint, 2017) Basic Syntax
+```
+
+
+
+
+
