@@ -390,6 +390,8 @@ written in C, while KDE, Firefox, Thunderbird, VLC, and OpenOffice.org are in C+
 ```
 
 ```
+Meanwhile in smartphones, the C languages are the only real option for Apple's market-leading
+iOS devices.
 
 
 (Adamson, 2011)
