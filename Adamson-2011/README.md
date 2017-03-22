@@ -381,8 +381,16 @@ they could be lashed to a UI framework to power desktop apps...
 The VM languages have had some success on the desktop, most obviously C# in the Windows realm,
 where the go-to language was once Visual Basic, whose compiled P-code was also typically run
 by a VM. But Desktop Java's long miserable history of underachievement tarnishes the viability
-of desktop VMs, and with one exception (highlighted later in this article),
+of desktop VMs, and with one exception (highlighted later in this article), there's little
+apparent real-world use of scripting languages on the desktop.
+Even on Linux, where scripting languages thrive on the server, GNOME, GIMP, vi, and emacs are
+written in C, while KDE, Firefox, Thunderbird, VLC, and OpenOffice.org are in C++.
 
 (Adamson, 2011)
+```
 
+```
+
+
+(Adamson, 2011)
 ```
