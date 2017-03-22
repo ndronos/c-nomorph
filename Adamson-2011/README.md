@@ -348,3 +348,14 @@ Java also starts up 24 threads for this trivial program.
 (Adamson, 2011)
 ```
 
+
+## Nobody Likes You
+
+```
+As someone remarked: There are only two kinds of programming languages:
+those people alway btich about and those nobody uses. - Bjarne Stroustrup
+
+(Adamson, 2011)
+```
+
+
