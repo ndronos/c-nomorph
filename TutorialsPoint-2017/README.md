@@ -82,3 +82,46 @@ C is a case-sensitive programming language.
 (Tutorialspoint, 2017) Basic Syntax
 ```
 
+```
+Keywords
+
+The following list shows the reserved words in C.
+These reserved words may not be used as constants or variables or any other identifier names.
+
+  auto
+
+  break
+
+  case      char      const
+
+  default   do        double
+
+  else      enum      extern
+
+  float     for
+
+  goto
+
+  if        int
+
+  long
+
+  register  return
+
+  short     signed    sizeof    static    struct    switch
+
+  typedef
+
+  union     unsigned
+
+  void      volatile
+
+  while
+
+  _Packed
+
+
+(Tutorialspoint, 2017) Basic Syntax
+```
+
+
