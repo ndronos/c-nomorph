@@ -74,6 +74,9 @@ Followed by zero or more
   - underscores
   - and digits (0 to 9)
 
+C does not allow punctuation characters such as @, $, and % within identifiers.
+
+C is a case-sensitive programming language.
 
 
 (Tutorialspoint, 2017) Basic Syntax
