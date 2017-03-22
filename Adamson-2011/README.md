@@ -420,3 +420,6 @@ and has never ranked lower than #2 on the TIOBE list.
 
 (Adamson, 2011)
 ```
+- http://paulgraham.com/hundred.html
+
+
