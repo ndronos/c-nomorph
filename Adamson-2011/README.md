@@ -429,6 +429,9 @@ and has never ranked lower than #2 on the TIOBE list.
 ```
 Well, you know, for me punk has always been about doing things your own way.
 What it represents for me is an ultimate freedom and sense of individuality.
+Which basically becomes a metaphor for life and the way you want to live it.
+                                                     - Billie Joe Armstrong
+
 
 (Adamson, 2011)
 ```
