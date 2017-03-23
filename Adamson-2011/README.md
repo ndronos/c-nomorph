@@ -470,6 +470,7 @@ in businesses around the world.
 It doesn't matter:
 C has no licensing concernsof any kind.
 C isn't owned by a company (like Java, Objective-C, and C# effectively are),
+but neither is it a slave to the FSF or any political movement.
 
 
 (Adamson, 2011)
