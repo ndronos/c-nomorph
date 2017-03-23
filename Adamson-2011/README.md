@@ -432,6 +432,9 @@ What it represents for me is an ultimate freedom and sense of individuality.
 Which basically becomes a metaphor for life and the way you want to live it.
                                                      - Billie Joe Armstrong
 
+C is quirky, flawed, and an enourmeous success.
+
+
 
 (Adamson, 2011)
 ```
