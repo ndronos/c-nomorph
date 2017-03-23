@@ -471,7 +471,8 @@ It doesn't matter:
 C has no licensing concernsof any kind.
 C isn't owned by a company (like Java, Objective-C, and C# effectively are),
 but neither is it a slave to the FSF or any political movement.
-
+Any programmer can pick it up and use it for any cause, good or evil,
+that he or she sees fit.
 
 (Adamson, 2011)
 ```
