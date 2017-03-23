@@ -431,16 +431,21 @@ Well, you know, for me punk has always been about doing things your own way.
 What it represents for me is an ultimate freedom and sense of individuality.
 Which basically becomes a metaphor for life and the way you want to live it.
                                                      - Billie Joe Armstrong
+(Adamson, 2011)
+```
 
+```
 C is quirky, flawed, and an enourmeous success.
 While accidents of history surely helped, it evidently satisfied a need for a
 system implementation language efficient enough to displace assembly language,
 yet sufficiently abstract and fluent to describe algorithms and interactions
 in a wide variety of enviroments.                           - Dennie Ritchie
 
-
 (Adamson, 2011)
 ```
 
+```
 
 
+(Adamson, 2011)
+```
