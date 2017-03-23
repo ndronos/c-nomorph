@@ -455,6 +455,8 @@ and the development of wide-ranging libraries
 that don't always use like-minded idioms or patterns.
 As decades have rolled on, a motley collection of C code has been developed
 by programmers around the world and across the decades,
+providing everything from XML parsing to 3D graphics,
+even if a libxml call looks nothing like an OpenGL one.
 
 
 (Adamson, 2011)
