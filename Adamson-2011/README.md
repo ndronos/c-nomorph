@@ -448,6 +448,7 @@ in a wide variety of enviroments.                           - Dennie Ritchie
 One of the defining traits of punk is the do-it-yourself (DIY) ethic,
 a rejection of the need to buy products ot use existing systems,
 and instead to attend to your own needs.
+This attitude clearly suits C programming as well.
 
 
 (Adamson, 2011)
