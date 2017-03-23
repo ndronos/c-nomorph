@@ -423,3 +423,15 @@ and has never ranked lower than #2 on the TIOBE list.
 - http://paulgraham.com/hundred.html
 
 
+
+## Come Out and Play
+
+```
+Well, you know, for me punk has always been about doing things your own way.
+
+
+(Adamson, 2011)
+```
+
+
+
