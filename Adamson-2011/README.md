@@ -451,6 +451,9 @@ and instead to attend to your own needs.
 This attitude clearly suits C programming as well.
 Indeed, it defines the language's history, with messy incompatibilities
 of early versions of the language on different hardware,
+and the development of wide-ranging libraries
+that don't always use like-minded idioms or patterns.
+
 
 (Adamson, 2011)
 ```
