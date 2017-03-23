@@ -465,7 +465,8 @@ even if a libxml call looks nothing like an OpenGL one.
 ```
 Some of these libraries are open-source and part of GNU.
 Others are commercial an liberally licensed.
-
+And there's an incalculable amount of proprietary C code hidden away
+in businesses around the world.
 
 (Adamson, 2011)
 ```
