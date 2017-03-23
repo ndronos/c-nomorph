@@ -461,3 +461,11 @@ even if a libxml call looks nothing like an OpenGL one.
 
 (Adamson, 2011)
 ```
+
+```
+Some of these libraries are open-source and part of GNU.
+
+
+(Adamson, 2011)
+```
+```
