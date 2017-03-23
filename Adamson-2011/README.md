@@ -445,6 +445,7 @@ in a wide variety of enviroments.                           - Dennie Ritchie
 ```
 
 ```
+One of the defining traits of punk is the do-it-yourself (DIY) ethic,
 
 
 (Adamson, 2011)
