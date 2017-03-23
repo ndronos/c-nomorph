@@ -469,6 +469,7 @@ And there's an incalculable amount of proprietary C code hidden away
 in businesses around the world.
 It doesn't matter:
 C has no licensing concernsof any kind.
+C isn't owned by a company (like Java, Objective-C, and C# effectively are),
 
 
 (Adamson, 2011)
