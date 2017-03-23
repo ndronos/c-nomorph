@@ -464,6 +464,7 @@ even if a libxml call looks nothing like an OpenGL one.
 
 ```
 Some of these libraries are open-source and part of GNU.
+Others are commercial an liberally licensed.
 
 
 (Adamson, 2011)
