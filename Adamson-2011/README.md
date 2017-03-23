@@ -453,6 +453,8 @@ Indeed, it defines the language's history, with messy incompatibilities
 of early versions of the language on different hardware,
 and the development of wide-ranging libraries
 that don't always use like-minded idioms or patterns.
+As decades have rolled on, a motley collection of C code has been developed
+by programmers around the world and across the decades,
 
 
 (Adamson, 2011)
