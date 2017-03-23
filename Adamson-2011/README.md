@@ -436,7 +436,7 @@ C is quirky, flawed, and an enourmeous success.
 While accidents of history surely helped, it evidently satisfied a need for a
 system implementation language efficient enough to displace assembly language,
 yet sufficiently abstract and fluent to describe algorithms and interactions
-in a wide variety of enviroments.
+in a wide variety of enviroments.                           - Dennie Ritchie
 
 
 (Adamson, 2011)
