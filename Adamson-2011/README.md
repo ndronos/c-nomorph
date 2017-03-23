@@ -433,6 +433,8 @@ Which basically becomes a metaphor for life and the way you want to live it.
                                                      - Billie Joe Armstrong
 
 C is quirky, flawed, and an enourmeous success.
+While accidents of history surely helped, it evidently satisfied a need for a
+system implementation language efficient enough to displace assembly language,
 
 
 
