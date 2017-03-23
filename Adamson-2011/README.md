@@ -473,7 +473,15 @@ C isn't owned by a company (like Java, Objective-C, and C# effectively are),
 but neither is it a slave to the FSF or any political movement.
 Any programmer can pick it up and use it for any cause, good or evil,
 that he or she sees fit.
+No $99 developer program memberships, no license agreements, no genuflecting
+to Richard Stallman... just code, compile, and run.
+
 
 (Adamson, 2011)
 ```
+
+```
+
+
+(Adamson, 2011)
 ```
