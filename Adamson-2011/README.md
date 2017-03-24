@@ -480,8 +480,18 @@ to Richard Stallman... just code, compile, and run.
 (Adamson, 2011)
 ```
 
+
+## The Kids Aren't Alright
+
 ```
+Punk is musical freedom.
+It's saying, doing, and playing what you want.
+In Webster's terms, 'nirvana' means freedom from pain, suffering and the external world,
+and that's pretty close to my definition of Punk Rock.    - Kurt Cobain
 
 
 (Adamson, 2011)
 ```
+
+
+
