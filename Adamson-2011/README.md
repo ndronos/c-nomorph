@@ -501,7 +501,8 @@ its values were adopted by a number of successor genres,
 like post-punk, power pop, and new wave.
 Bands like The Clash and Television combined punk's immediacy with better chops
 and more outside influences.
-
+The Offspring and Green Day revived punk in the 90s with catchy melodies,
+launching and era of pop punk that persists to this day.
 
 
 (Adamson, 2011)
