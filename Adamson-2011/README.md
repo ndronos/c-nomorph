@@ -561,6 +561,7 @@ once the mess gets out of hand, the young developers will have to figure out
 how to bring in classes, structure. OO, and the other tools that JavaScript provides
 to set things right. But it;s DIY: JavaScript lets you be a good programmer,
 but doesn't force you to.
+How you structure your code and how you deal with problems is up to you.
 
 (Adamson, 2011)
 ```
