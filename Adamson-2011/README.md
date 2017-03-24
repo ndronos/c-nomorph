@@ -544,6 +544,9 @@ the young programmer occupied for years...
 and the presence of the tree-structured DOM and JAvaScript's support for
 regular expressions give the young programmer access to more significant and
 interesting data structures than us folks were ever going to develop...
+And thanks to the arms race between browser developers, JavaScript performance
+continues to improve by leaps and bounds.
+
 
 (Adamson, 2011)
 ```
