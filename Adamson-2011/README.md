@@ -563,5 +563,9 @@ to set things right. But it;s DIY: JavaScript lets you be a good programmer,
 but doesn't force you to.
 How you structure your code and how you deal with problems is up to you.
 
+
 (Adamson, 2011)
 ```
+
+
+
