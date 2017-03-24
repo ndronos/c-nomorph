@@ -505,7 +505,8 @@ The Offspring and Green Day revived punk in the 90s with catchy melodies,
 launching and era of pop punk that persists to this day.
 In the early 90s, punk contributed to grunge, which helped end the era of glammy
 hair metal (sorry, Jon Bon Jovi and David Lee Roth).
-
+As long as there's a musical trend that's too full of itself,
+punk or one of its spin-offs will be waiting to tear it down.
 
 
 (Adamson, 2011)
