@@ -528,6 +528,7 @@ it is often used to slash out quick-and-dirty onClick() implementations.
 Despite being burdened with the confusing "Java" name,
 no class declarations, package and visibility statements,
 ot other niceties are required;
+often enough, JavaScript code is rammed into the attribute of an HTML element.
 
 
 (Adamson, 2011)
