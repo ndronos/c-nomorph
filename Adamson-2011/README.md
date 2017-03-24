@@ -576,6 +576,8 @@ How you structure your code and how you deal with problems is up to you.
 I've probably written an ungodly amount of C code,
 but I hate C with a passion.
 I've been writing a lot of Objective-C code lately...
+which just fuels my hatred for C.
+
 
 (Adamson, 2011)
 ```
