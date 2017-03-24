@@ -503,6 +503,9 @@ Bands like The Clash and Television combined punk's immediacy with better chops
 and more outside influences.
 The Offspring and Green Day revived punk in the 90s with catchy melodies,
 launching and era of pop punk that persists to this day.
+In the early 90s, punk contributed to grunge, which helped end the era of glammy
+hair metal (sorry, Jon Bon Jovi and David Lee Roth).
+
 
 
 (Adamson, 2011)
