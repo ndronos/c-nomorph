@@ -551,4 +551,9 @@ continues to improve by leaps and bounds.
 (Adamson, 2011)
 ```
 
+```
+Shouldn't beginning programmers lear from a more cleanly structured language?
 
+
+(Adamson, 2011)
+```
