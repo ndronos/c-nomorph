@@ -569,3 +569,14 @@ How you structure your code and how you deal with problems is up to you.
 
 
 
+## Institutionalized
+
+
+  James Gosling on Apple, Apache, Google, Oracle and the Future of Java
+- https://youtube.com/watch?v=9ei-rbULWoA
+
+```
+
+
+(Adamson, 2011)
+```
