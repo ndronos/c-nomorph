@@ -592,7 +592,8 @@ Not every language can be "punk".
 Not every language should -:w
 sometimes you do want the protections and comfortas of the Web Scripting languages,
 just as sometimes you'd rather listen to the Beatles than Black Flag.
-
+So, can we decide where to draw the line?
+Since C and JavaScript seem to have become punk languages
 
 (Adamson, 2011)
 ```
