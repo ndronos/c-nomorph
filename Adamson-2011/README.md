@@ -553,6 +553,9 @@ continues to improve by leaps and bounds.
 
 ```
 Shouldn't beginning programmers lear from a more cleanly structured language?
+That's always been the complaint, but the slop of BASIC didn't harm my generation
+of developers (and mandatory Pascal didn't clean us up), so why should we fear
+that JavaScript will pollute the next generation?
 
 
 (Adamson, 2011)
