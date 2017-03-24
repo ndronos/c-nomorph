@@ -577,7 +577,7 @@ I've probably written an ungodly amount of C code,
 but I hate C with a passion.
 I've been writing a lot of Objective-C code lately...
 which just fuels my hatred for C.
-
+.h files are absolutely the work of the devil.
 
 (Adamson, 2011)
 ```
