@@ -574,7 +574,7 @@ How you structure your code and how you deal with problems is up to you.
 
 ```
 I've probably written an ungodly amount of C code,
-
+but I hate C with a passion.
 
 (Adamson, 2011)
 ```
