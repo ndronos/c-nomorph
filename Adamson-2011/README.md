@@ -515,6 +515,9 @@ punk or one of its spin-offs will be waiting to tear it down.
 ```
 What's the least pretentious language in widespread use today?
 Surely it has to be the much-derided JavaScript.
+Though it's one of many languages that inherits mucj of its synta from C,
+it is an interpreted language, object-oriented and packed with novel features
+
 
 
 (Adamson, 2011)
