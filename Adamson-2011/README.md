@@ -584,6 +584,7 @@ which just fuels my hatred for C.
 ```
 
   James Gosling on Apple, Apache, Google, Oracle and the Future of Java
+  01:20:09
 - https://youtube.com/watch?v=9ei-rbULWoA
 
 ```
