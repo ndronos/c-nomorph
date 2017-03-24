@@ -499,6 +499,9 @@ it's worth asking what other languages share C's traits of ruthless usefullness.
 Let's continue the musical analogy: once the original wave of punk spent itself,
 its values were adopted by a number of successor genres,
 like post-punk, power pop, and new wave.
+Bands like The Clash and Television combined punk's immediacy with better chops
+and more outside influences.
+
 
 
 (Adamson, 2011)
