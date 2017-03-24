@@ -591,6 +591,7 @@ Not every language can be "punk".
 
 Not every language should -:w
 sometimes you do want the protections and comfortas of the Web Scripting languages,
+just as sometimes you'd rather listen to the Beatles than Black Flag.
 
 
 (Adamson, 2011)
