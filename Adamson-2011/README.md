@@ -536,7 +536,7 @@ often enough, JavaScript code is rammed into the attribute of an HTML element.
 
 ```
 Older developers bemoan the lost days when computers shipped with BASIC built in,
-
+or of learning scripting...
 
 (Adamson, 2011)
 ```
