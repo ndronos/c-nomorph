@@ -525,6 +525,9 @@ In true punk rock fashion, almost nobody does.
 JavaScript in anger is a brutally efficient language.
 Used primarily in the context of a browser,
 it is often used to slash out quick-and-dirty onClick() implementations.
+Despite being burdened with the confusing "Java" name,
+no class declarations, package and visibility statements,
+ot other niceties are required;
 
 
 (Adamson, 2011)
