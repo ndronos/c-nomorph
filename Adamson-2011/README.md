@@ -587,7 +587,10 @@ which just fuels my hatred for C.
 - https://youtube.com/watch?v=9ei-rbULWoA
 
 ```
-Not evey language can be "punk".
+Not every language can be "punk".
+
+Not every language should -:w
+sometimes you do want the protections and comfortas of the Web Scripting languages,
 
 
 (Adamson, 2011)
