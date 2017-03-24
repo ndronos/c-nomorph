@@ -523,6 +523,8 @@ It is possible to write elegant, clever code with JavaScript.
 In true punk rock fashion, almost nobody does.
 
 JavaScript in anger is a brutally efficient language.
+Used primarily in the context of a browser,
+it is often used to slash out quick-and-dirty onClick() implementations.
 
 
 (Adamson, 2011)
