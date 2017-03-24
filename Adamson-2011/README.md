@@ -557,7 +557,9 @@ That's always been the complaint, but the slop of BASIC didn't harm my generatio
 of developers (and mandatory Pascal didn't clean us up), so why should we fear
 that JavaScript will pollute the next generation?
 If anything, JavaScript's freedom to be as messy and unstructured as you want is a gift:
-
+once the mess gets out of hand, the young developers will have to figure out
+how to bring in classes, structure. OO, and the other tools that JavaScript provides
+toset things right. 
 
 (Adamson, 2011)
 ```
