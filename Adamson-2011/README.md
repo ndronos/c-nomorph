@@ -493,5 +493,16 @@ and that's pretty close to my definition of Punk Rock.    - Kurt Cobain
 (Adamson, 2011)
 ```
 
+```
+Having made the case for C as a sort of "punk rock language",
+it's worth asking what other languages share C's traits of ruthless usefullness.
+
+
+(Adamson, 2011)
+```
+
+
+
+
 
 
