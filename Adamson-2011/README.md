@@ -595,6 +595,9 @@ just as sometimes you'd rather listen to the Beatles than Black Flag.
 So, can we decide where to draw the line?
 Since C and JavaScript seem to have become punk languages
 through their evolution and use, not from their design,
+it might be more useful to list the traits that we associate
+with punk rock languages.
+
 
 (Adamson, 2011)
 ```
