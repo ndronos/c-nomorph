@@ -519,6 +519,9 @@ Though it's one of many languages that inherits mucj of its synta from C,
 it is an interpreted language, object-oriented and packed with novel features
 like dynamic typing, first-class functions, and closures.
 
+It is possible to write elegant, clever code with JavaScript.
+In true punk rock fashion, almost nobody does.
+
 
 (Adamson, 2011)
 ```
