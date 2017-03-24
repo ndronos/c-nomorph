@@ -559,7 +559,8 @@ that JavaScript will pollute the next generation?
 If anything, JavaScript's freedom to be as messy and unstructured as you want is a gift:
 once the mess gets out of hand, the young developers will have to figure out
 how to bring in classes, structure. OO, and the other tools that JavaScript provides
-toset things right. 
+to set things right. But it;s DIY: JavaScript lets you be a good programmer,
+but doesn't force you to.
 
 (Adamson, 2011)
 ```
