@@ -496,6 +496,9 @@ and that's pretty close to my definition of Punk Rock.    - Kurt Cobain
 ```
 Having made the case for C as a sort of "punk rock language",
 it's worth asking what other languages share C's traits of ruthless usefullness.
+Let's continue the musical analogy: once the original wave of punk spent itself,
+its values were adopted by a number of successor genres,
+like post-punk, power pop, and new wave.
 
 
 (Adamson, 2011)
