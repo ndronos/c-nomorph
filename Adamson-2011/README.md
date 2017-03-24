@@ -517,7 +517,7 @@ What's the least pretentious language in widespread use today?
 Surely it has to be the much-derided JavaScript.
 Though it's one of many languages that inherits mucj of its synta from C,
 it is an interpreted language, object-oriented and packed with novel features
-
+like dynamic typing, first-class functions, and closures.
 
 
 (Adamson, 2011)
