@@ -522,6 +522,8 @@ like dynamic typing, first-class functions, and closures.
 It is possible to write elegant, clever code with JavaScript.
 In true punk rock fashion, almost nobody does.
 
+JavaScript in anger is a brutally efficient language.
+
 
 (Adamson, 2011)
 ```
