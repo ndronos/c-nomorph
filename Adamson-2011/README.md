@@ -586,3 +586,9 @@ which just fuels my hatred for C.
   James Gosling on Apple, Apache, Google, Oracle and the Future of Java
 - https://youtube.com/watch?v=9ei-rbULWoA
 
+```
+Not evey language can be "punk".
+
+
+(Adamson, 2011)
+```
