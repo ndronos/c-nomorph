@@ -539,8 +539,11 @@ Older developers bemoan the lost days when computers shipped with BASIC built in
 or of learning scripting...
 "Where," they ask, "are kids learning how to program?" missing the browser
 that's staring them in the face.
-The browser offers a JAvaScript interpreter and enough toys in the DOM to keep
+The browser offers a JavaScript interpreter and enough toys in the DOM to keep
 the young programmer occupied for years...
+and the presence of the tree-structured DOM and JAvaScript's support for
+regular expressions give the young programmer access to more significant and
+interesting data structures than us folks were ever going to develop...
 
 (Adamson, 2011)
 ```
