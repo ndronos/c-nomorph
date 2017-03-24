@@ -578,6 +578,7 @@ but I hate C with a passion.
 I've been writing a lot of Objective-C code lately...
 which just fuels my hatred for C.
 .h files are absolutely the work of the devil.
+    - James Gosling
 
 (Adamson, 2011)
 ```
