@@ -579,6 +579,7 @@ I've been writing a lot of Objective-C code lately...
 which just fuels my hatred for C.
 .h files are absolutely the work of the devil.
     - James Gosling
+      (at 00:19:00)
 
 (Adamson, 2011)
 ```
