@@ -630,6 +630,6 @@ Here are some signs that you're working with a punk rock language:
     indulging your own programming fetishes.
 
   - Inspires disdain, disgust, or outright hatred from people smart enough to know -
-    
+    Any idiot with a Slashdot handle can talk crap about anything.
 (Adamson, 2011)
 ```
