@@ -663,6 +663,7 @@ with next.
 
 What will be left is you, your code, and a CPU waiting to do stuff.
 
+Kick... ass.
 
 
 (Adamson, 2011)
