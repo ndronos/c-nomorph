@@ -626,7 +626,9 @@ Here are some signs that you're working with a punk rock language:
     at risk of turning out of a poseur.    
 
   - The natural appeal of the language is to write software with it,
-    not to mess with the language itself - 
+    not to mess with the language itself - Solve your user's problems rather than
+    indulging your own programming fetishes.
+
 
 (Adamson, 2011)
 ```
