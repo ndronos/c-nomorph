@@ -650,7 +650,9 @@ So, you have a choice.
 You can keep adopting the flavour-of-the-month language, each one giving you
 some beatiful new way to iterate over collections, so your method to collate
 all the user's previous transactions into a table can be done in 10 lines of
-code instead of 15.
+code instead of 15. Or maybe you can use so much duck-typing that you get to
+add the string "4" to number 2 (and be able to accurately predict wheter you'll
+get the string "42" or the number 6).
 
 
 (Adamson, 2011)
