@@ -646,7 +646,7 @@ After all, if there are too many rules, it's not punk anymore.
 ## Good Riddance (Time of Your Life)
 
 ```
-
+So, you have a choice.
 
 
 (Adamson, 2011)
