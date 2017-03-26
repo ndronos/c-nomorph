@@ -634,6 +634,23 @@ Here are some signs that you're working with a punk rock language:
     It's when you piss of the smart developers that you know you're working
     with something interesting.
 
+Feel free to come up with your own definitions and categorizations.
+After all, if there are too many rules, it's not punk anymore.
+
 
 (Adamson, 2011)
 ```
+
+
+
+## Good Riddance (Time of Your Life)
+
+```
+
+
+
+(Adamson, 2011)
+```
+
+
+
