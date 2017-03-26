@@ -609,6 +609,9 @@ Here are some signs that you're working with a punk rock language:
 
   - Owned by nobody
 
+    As pointed out before, C isn't owned by any company, not is it controlled by FSF
+    or any other part of the free software movement (though it was clearly instrumental
+    in the development of Unix, Linux, and the GNU software stack).
                         
 
 (Adamson, 2011)
