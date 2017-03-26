@@ -619,7 +619,9 @@ Here are some signs that you're working with a punk rock language:
   - Allows the user to apply as much or as little structure as the or she chooses -
     It's not punk to keep the training wheels on all the time.
 
+  - Is used in real-world systems or applications
 
+    
                         
 
 (Adamson, 2011)
