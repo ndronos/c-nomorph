@@ -621,7 +621,8 @@ Here are some signs that you're working with a punk rock language:
 
   - Is used in real-world systems or applications
 
-    
+    Perhaps we can create a category of "garage band language" for those that aren't ready
+    to play real gigs yet.
                         
 
 (Adamson, 2011)
