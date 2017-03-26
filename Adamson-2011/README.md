@@ -624,7 +624,9 @@ Here are some signs that you're working with a punk rock language:
     Perhaps we can create a category of "garage band language" for those that aren't ready
     to play real gigs yet. But until it's useful to someone, a language with no users is always
     at risk of turning out of a poseur.    
-                        
+
+  - The natural appeal of the language is to write software with it,
+    not to mess with the language itself - 
 
 (Adamson, 2011)
 ```
