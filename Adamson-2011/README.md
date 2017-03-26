@@ -616,6 +616,10 @@ Here are some signs that you're working with a punk rock language:
     It's OK for these languages to have formal specifications, and to accept contributions
     from all sources, but no one body controls them, and that's a great thing.
 
+  - Allows the user to apply as much or as little structure as the or she chooses -
+    It's not punk to keep the training wheels on all the time.
+
+
                         
 
 (Adamson, 2011)
