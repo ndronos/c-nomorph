@@ -657,7 +657,9 @@ Or maybe the next language will do away with all the traditional branch and
 loop statements (if, for, while, etc.), in favor of some new exotic side-effect-driven
 style of programming that will be awesome as soon as you and everyone else "get it."
 
-
+Or, maybe you can drop the pretensions, dismiss the illusions, and tear down
+the fake world of intents, monads, and whatever crazy new thing they come up
+with next.
 
 
 (Adamson, 2011)
