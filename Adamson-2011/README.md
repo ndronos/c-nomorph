@@ -607,7 +607,9 @@ with punk rock languages.
 ```
 Here are some signs that you're working with a punk rock language:
 
+  - Owned by nobody
 
+                        
 
 (Adamson, 2011)
 ```
