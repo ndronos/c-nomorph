@@ -631,5 +631,9 @@ Here are some signs that you're working with a punk rock language:
 
   - Inspires disdain, disgust, or outright hatred from people smart enough to know -
     Any idiot with a Slashdot handle can talk crap about anything.
+    It's when you piss of the smart developers that you know you're working
+    with something interesting.
+
+
 (Adamson, 2011)
 ```
