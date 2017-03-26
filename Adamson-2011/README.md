@@ -648,7 +648,9 @@ After all, if there are too many rules, it's not punk anymore.
 ```
 So, you have a choice.
 You can keep adopting the flavour-of-the-month language, each one giving you
-some beatiful new way to iterate over collections, 
+some beatiful new way to iterate over collections, so your method to collate
+all the user's previous transactions into a table can be done in 10 lines of
+code instead of 15.
 
 
 (Adamson, 2011)
