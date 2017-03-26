@@ -647,6 +647,8 @@ After all, if there are too many rules, it's not punk anymore.
 
 ```
 So, you have a choice.
+You can keep adopting the flavour-of-the-month language, each one giving you
+some beatiful new way to iterate over collections, 
 
 
 (Adamson, 2011)
