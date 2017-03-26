@@ -654,8 +654,10 @@ code instead of 15. Or maybe you can use so much duck-typing that you get to
 add the string "4" to number 2 (and be able to accurately predict wheter you'll
 get the string "42" or the number 6).
 Or maybe the next language will do away with all the traditional branch and 
-loop statements (if, for, while, etc.), in favor of some new exotic side-effect-driven style
-of programming that will be awesome as soon as you and everyone else "get it."
+loop statements (if, for, while, etc.), in favor of some new exotic side-effect-driven
+style of programming that will be awesome as soon as you and everyone else "get it."
+
+
 
 
 (Adamson, 2011)
