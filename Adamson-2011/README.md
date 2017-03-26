@@ -661,6 +661,9 @@ Or, maybe you can drop the pretensions, dismiss the illusions, and tear down
 the fake world of intents, monads, and whatever crazy new thing they come up
 with next.
 
+What will be left is you, your code, and a CPU waiting to do stuff.
+
+
 
 (Adamson, 2011)
 ```
