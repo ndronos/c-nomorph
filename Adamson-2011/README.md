@@ -612,6 +612,10 @@ Here are some signs that you're working with a punk rock language:
     As pointed out before, C isn't owned by any company, not is it controlled by FSF
     or any other part of the free software movement (though it was clearly instrumental
     in the development of Unix, Linux, and the GNU software stack).
+    Similarly, JavaScript is nobody's property.
+    It's OK for these languages to have formal specifications, and to accept contributions
+    from all sources, but no one body controls them, and that's a great thing.
+
                         
 
 (Adamson, 2011)
