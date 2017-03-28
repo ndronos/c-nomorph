@@ -1,5 +1,5 @@
 # c-nomorph
-C/UNIX
+C Language over UNIX, Mac, and Windows.
 
 
 ## (K&R, 1988) 288p
